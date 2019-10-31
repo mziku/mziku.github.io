@@ -1,0 +1,65 @@
+---
+layout: page
+title: Curatorial
+permalink: /curatorial/
+navigation_weight: 1
+---
+
+**Conference Organization**
+
+---  
+<br/>
+
+
+[**The future of tradition: Documenting cultural heritage and artistic creation – interdisciplinary approaches, contemporary media**](https://bowb.org/icombowb-2019-en) (Conference Event – Organizer)  
+*Silversmithing Museum (Piraeus Bank Group Cultural Foundation), Greece, 2019, Partners: Biennale of Western Balkans, ICOM-International Council of Museums, GLAM Hack, Balkans Beyond Borders, History of Art Laboratory-University of Ioannina*  
+Part of the official ICOM programme for the International Museum Day's and its 2019 subject "Museums as cultural hubs: the future of tradition". A curated event with talks, workshop and screenings intended as a project on-the-go that will keep on exploring cultural heritage in relation to technology, communities and new media.  
+Co-curator: Elli Leventaki
+
+[**DATeCH 2019 – Digital Access to Textual Cultural Heritage**](http://datech.digitisation.eu/) (International Conference – Organization Assistant)  
+*Royal Flemish Academy of Belgium for Science and the Arts, Brussels, Belgium, 2019, Partners: IMPACT Centre of Competence in Digitisation, Dutch Language Institute (INT), DARIAH-BE, CLARIN*  
+International conference for the research of the digital preservation of cultural heritage, at the intersection of computer science, (digital) humanities and cultural heritage studies.  
+Organizers: Dr. Sally Chambers, Dr. Vincent Vandeghinste
+
+[**Intangible Meetings**](https://bowb.org/?p=6054) (International Conference – Organizer)  
+*General Archives of Greece – Historical Archives/Museum of Epirus, Greece, 2018, Partners: Biennale of Western Balkans, Ministry of Culture in Greece-Directorate of Modern Cultural and Intangible Cultural Heritage, History of Art Laboratory-University of Ioannina*    
+The “Intangible Meetings” are intended as presentations and on-stage dialogues that survey, analyse and debate aspects of Intangible Cultural Heritage (ICH), offering a multi-vocal and interdisciplinary perspective. The programme explores the emerging landscape of ICH in research and applied knowledge, with a focus on the European and Balkan region.  
+Co-curator: Elli Leventaki
+
+<br>
+
+**Exhibition Curation**
+
+---  
+<br/>
+
+[**Common Myths**](https://bowb.org/?p=5990) (Multimedia exhibition – Curator)  
+*General Archives of Greece - Historical Archives/Museum of Epirus Ioannina, Greece, 2018, Partners: Biennale of Western Balkans, Ministry of Culture in Greece-Directorate of Modern Cultural and Intangible Cultural Heritage, History of Art Laboratory-University of Ioannina, Fund: Ministry of Culture in Greece*   
+“Common Myths” presents contemporary art and research that places myth at the core of an interdisciplinary exploration. The exhibition examines concepts as the re-interpretation, re-creation and re-enactment of cultural legacies, intangible forms of representation, transient community memory, narrative forms of affective/aesthetic states, epistemologies of mythical thought, collective ceremonial economies, contemporary rituals and urban narratives.  
+Assistant Curator: Katerina Zachou
+
+[**GIF: Morphologies of a copyleft tale**](https://www.cact.gr/en/news/movingsilence) (Graphic arts and digital exhibition – Curator)  
+*Thessaloniki Center of Contemporary Art, Thessaloniki, Greece, 2017, Partners: Moving Silence Network, HMKW University of Applied Sciences (Germany), Librarybox, Fund: Goethe-Institut Thessaloniki*   
+The exhibition concept is based on Vladimir Propp's book 'Morphology of the folktale' where Propp introduces patterns that come along a story formation. GIFs reflect the anonymous, collective narratives from a contemporary visual perspective. The exhibition explores the transformativity and underlying patterns of the GIF-medium in semantic ways, where a micro-fiction is expressed in manifold ways, relating to an initial pattern or element. The exhibition focuses on visual, textual and software patterns that propagate through multiple derivative GIFs.  
+Coordination: Eirini Papakonstantinou, Art director: Matthias Fritsch
+
+[**Micro-cinema of Attractions – GIF art imageries and creative techniques**](https://artosfoundation.org/?project=con-temporary-urbanity) (Open air projection exhibition – Curator)  
+*ARTos Foundation, Nicosia, Cyprus, 2016, Partners: ARTos Foundation, Artecitya, Moving Silence Network, Fund: Goethe-Institut Cyprus, Ministry of Education and Culture - Republic of Cyprus, Creative Europe*  
+The exhibition draw an analogy between Tom Gunning's concept 'cinema of attractions' on the early phase of silent cinema (1907-1913) and GIF art. The exhibition explored the self-enclosed aesthetic micro-worlds of GIFs, highlighting their unique visual techniques. It was realized as a media exhibition in the space of ARTos Foundation, framed by an urban tour with pop-up gif projections, whole night GIF projection ‘stations‘ within the city and an analogue GIF workshop.  
+Assistant Curator: Elia Neophytou
+
+[**Jiggling Golems – The art of GIF**](http://technoviking.tv/movingsilence.net/archiv/2015-athen/jiggling_golems-exhibition.html) (Digital exhibition on local wireless network – Curator)  
+*Goethe-Institut Athen, Athens, Greece, 2015, Partners: Braunschweig University of Art (Germany), Athens School of Fine Arts, Moving Silence Network (Berlin-Athens), Circuits and Currents (Athens) Fund: Goethe-Institut Athen*  
+Jiggling Golems explored the cinematic qualities of GIFs, their narrative potentials and semiotics. In the context of the Festival for Silent Film Culture, the GIF art exhibition expanded the silent film format in the networked and digital space. Jiggling Golems were 'immaterial' and traveled along the venues inside an html format which was hosted in a local wi-fi network through PirateBox. The audience could access the exhibition through their mobile devices.  
+Art director: Matthias Fritsch
+
+[**Future Past – Past Future**](https://transmediale.de/content/partner-exhibition-future-past-past-future) (New media exhibition – Assistant Curator)  
+*SUPERMARKT Cultural Center, Berlin, Germany, 2014, Partners: Goethe Institutes of Ankara, Sofia and Athens, ArtUP! Platform, transmediale, Fund: Goethe-Institut*  
+The exhibition questioned the power of old and new media, asking about the possible alternative future scenarios, but also about the relationship between the past, present and future in Bulgaria, Greece and Turkey. How do these countries’ respective historical identities and individual stories of their own history, shape the ideas of a possible tomorrow?  
+Curator: Sandra Naumann
+
+[**Lullaby Monsters on the Road**](http://theartfoundation.metamatic.gr/GR/Event/919/Lullaby_Monsters_on_the_Road/) (Audiovisual Exhibition – Curator)  
+*metamatic:taf, Athens, Greece, 2013, Partners: United African Women Association, Association of Greece-China, Greek-Indian Cultural Association, Armenian Cultural and Educational Association Hamazkayin, Fund: The Art Foundation, Greece*  
+A curatorial and research project awarded by The Art Foundation, Greece. The project blended fieldwork recordings of traditional lullaby songs from greek and migrating minorities in the city of Athens, with contemporary photographic representations which explored the paradoxical concept of monsters as protective entities in different cultures. A 5-member female interdisciplinary group was created in 2012 for the project.  
+Curatorial team millihertz: Mariana Ziku, Maria S. Giannaki, Lia Despotidou, Olga Chira, Niki Kyriakouli
+

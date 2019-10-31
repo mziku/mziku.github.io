@@ -1,0 +1,8 @@
+---
+layout: page
+---
+
+
+**Mariana Ziku** is a curator with specialization in digital humanities, whose curatorial practice and research examines intangible and audiovisual culture from an interdisciplinary perspective, in connection to art and technology. She is the co-founder and program curator of the Biennale of Western Balkans (BoWB), where she works on bringing digital scholarship and interdisciplinary projects to life that put traditional, indigenous and local collective knowledge, imaginaries and practices in the contemporary context, helping people appreciate and experience tradition anew. Her work is located across digital cultural heritage and the curatorial theory and practice, embracing such concepts as community, copy, collective imaginary and myth.
+
+She has studied art sciences (BA), art theory/history and curation (MA) in the School of Fine Arts, University of Ioannina, Greece, cultural management (Cert) in the Centre of Continuous Education and Training, University of Athens and digital humanities (MSc) in the Department of Computer Science, KU Leuven, Belgium. She is also a graduate of classical piano and classical music harmony of the Municipal Conservatory of Ioannina. She has been working, writing and collaborating extensively in the GLAM sector and in the framework of cross-border cooperation and cultural programs.

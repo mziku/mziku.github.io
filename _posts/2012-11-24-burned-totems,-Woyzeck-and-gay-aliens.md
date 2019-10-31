@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "burned totems, Woyzeck and gay aliens"
+date:   2012-11-24
+tags: absurd-theater Buchner Epirus eternity expressionism Foucault punishment sci-fi, Theodoros-Papagiannis Woyzeck
+---
+
+There are these hunting scenes in time were a blaze overtakes your endearing spacings. Latent for long time, these ultimate flare-ups can sprawl randomly until they trace their demons, the shapes which can exorcise them. And then, inside this muzzy hide-and-seek game, they devour them sternly, until nothing else is left than mere ghosts of what they used to be. In 1993 a fire broke out in the Technical University of Athens burning a part of the building. Artist Theodoros Pagagiannis gathered the blasted materials and like an alchemist, a conjurer of a mythic age, he inspirited them into wooden and metallic humanoids raising patrons of totemic strength, scarecrows willing to cast out our blank, deaf, vainly conventions:
+
+*“What are these creatures who will haunt from now on our utopias and nightmares? Arising out of human history’s inmost labyrinths; these Ghosts are ancient tragedians, Aztecs along with Incas, shepherds of Arcadia and princes of Asia, castaways and hermits, byzantine courtiers and stone angels; they are the guardians of a place occult, transient and at the same time, painfully real.”* [link][link1]
+
+<img src="https://mziku.github.io/images/burned-totem-figure_theodoros-papagiannis2.jpg" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="theodoros-papagiannis-totem-figure-1" width="300" height="auto" align="center">
+
+<img src="https://mziku.github.io/images/burned-totem-figure-theodoros-papagiannis1.jpg" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="theodoros papagiannis-totem-figure-2" width="300" height="auto" align="center">
+ 
+However, in this painfully debunked reality there is a moment in time, as the obnoxious military officer points out to the poor Woyzeck: *“Eternity means something that’s eternal – Do you understand this Woyzeck? And at the same time it’s not eternal, besides one moment. Yes, one moment…”* The oppressive military man though, cannot see that the moment he so much apprises breeds right in front of him. It’s the very self of his, as he likes to see it, despicable company. Woyzeck expresses a pure absurdness, much like every other character in Büchner’s play, yet he is the one who meets the oppression and mockery of everyone. What Büchner reserves for all these authorities is liberating; he busts them into caricatures, uncovering their plain ridiculousness. Büchner however, never did it to the finish lines as he died in the meantime. The story is nevertheless known till the point where Woyzeck murders his wife and seeks to hide the tool of his grime act. The real Woyzeck who also inspired Büchner, a german barber of the early 19th century, was eventually beheaded in the central square of Leipzig, the kind of justice that at that time was dished up for the guilty ones.
+
+But who were really the guilty ones in this punishing fiesta? Was this mise-en-scène of hell a divine revenge with human executioners, or mere an act with suspicious affinity to the crime itself, praised by a society that more or less justified it and anyways joined in; the audience of the atrocities. For this “one moment of eternity”, which strikes continuous meditation and revision in the transit of history, Büchner’s despicable character held a good playing card. His teammates however were incapable to go along this chaotic game of morality and humanity quest, in which mankind willfully has immersed itself since ever.
+
+<img src="https://mziku.github.io/images/woyzeck-director-o-kovshun-kharkov-dramatical-theatre-shevchenko-ukraine-summer-2012.jpg" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="woyzeck-theatre" width="300" height="auto" align="center"><br>
+*Woyzeck - Director O Kovshun Kharkov - Dramatical theatre Shevchenko Ukraine, summer 2012*
+  
+The status of censured alienation leaded Woyzeck to a devastating fate. Büchner, as a subtle author-conjurer, exorcised the oppressive characters in his play producing a masked satire. The hospitable “logos” of art which provides harbor for the outsiders and sabotages the borders of the narrow humanly beliefs and views, eventually turns out liberating. The rigid efforts of humanity to display properly order and sanity along the great caldron of history, appear to the posterior as a bad howbeit grievous joke.
+
+So, with a still from the short film “Gayniggers from outer space” for the blog-banner, an absurd and cheap Danish sci-fi film production from the postlude of the 20th century, a liberating satire to sexist, homophobic and racist notions, this blog will begin its inaugural voyage to the escapades of earthly and space venues. Welcome on board…
+
+
+[link1]: https://www.kathimerini.gr/457059/article/politismos/arxeio-politismoy/sxolio-s-ena-8ema
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NLavEHYxCIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
