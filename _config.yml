@@ -3,6 +3,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Mariana Ziku is a curator with specialization in digital humanities, 
   whose curatorial practice and research examines intangible and audiovisual culture 
   from an interdisciplinary perspective, in connection to art and technology.
+url: https://mziku.github.io
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
