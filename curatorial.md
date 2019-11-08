@@ -16,11 +16,6 @@ navigation_weight: 1
 Part of the official ICOM programme for the International Museum Day's and its 2019 subject "Museums as cultural hubs: the future of tradition". A curated event with talks, workshop and screenings intended as a project on-the-go that will keep on exploring cultural heritage in relation to technology, communities and new media.  
 Co-curator: Elli Leventaki
 
-[**DATeCH 2019 – Digital Access to Textual Cultural Heritage**](http://datech.digitisation.eu/) (International Conference – Organization Assistant)  
-*Royal Flemish Academy of Belgium for Science and the Arts, Brussels, Belgium, 2019, Partners: IMPACT Centre of Competence in Digitisation, Dutch Language Institute (INT), DARIAH-BE, CLARIN*  
-International conference for the research of the digital preservation of cultural heritage, at the intersection of computer science, (digital) humanities and cultural heritage studies.  
-Organizers: Dr. Sally Chambers, Dr. Vincent Vandeghinste
-
 [**Intangible Meetings**](https://bowb.org/?p=6054) (International Conference – Organizer)  
 *General Archives of Greece – Historical Archives/Museum of Epirus, Greece, 2018, Partners: Biennale of Western Balkans, Ministry of Culture in Greece-Directorate of Modern Cultural and Intangible Cultural Heritage, History of Art Laboratory-University of Ioannina*    
 The “Intangible Meetings” are intended as presentations and on-stage dialogues that survey, analyse and debate aspects of Intangible Cultural Heritage (ICH), offering a multi-vocal and interdisciplinary perspective. The programme explores the emerging landscape of ICH in research and applied knowledge, with a focus on the European and Balkan region.  
