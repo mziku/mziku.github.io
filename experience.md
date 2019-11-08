@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Practice
-permalink: /practice/
+title: Experience
+permalink: /experience/
 navigation_weight: 2
 ---
 
