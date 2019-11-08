@@ -18,3 +18,18 @@ navigation_weight: 2
 + **European Capital of Culture 2021 Greece – Candidacy of Ioannina-Epirus** *(Occupation: Personal assistant of the art director, Curator of digital culture and sound, Art Direction Department, 2015-2016. The selection panel’s report highlighted the inventiveness of the digital-based related projects and their potential for further development. Directors: Dr. Maria Stratsani, Niketi Kontouri)*  
 
 + **Municipal Art Gallery of Ioannina** *(Occupation: Curator, Administrative assistant, 2015. Part of the four-member commitee of the Municipal Department of Culture in the round table discussion with the Intercultural Cities Programme's (ICC) head of division. Director: Kleopatra Exarchou)*  
+
+ <br>
+  
+**Additional activity**
+
+---
+
+<br>
+
+[**DATeCH 2019 – Digital Access to Textual Cultural Heritage**](http://datech.digitisation.eu/) (International Conference – Organization Assistant)  
+*Royal Flemish Academy of Belgium for Science and the Arts, Brussels, Belgium, 2019, Partners: IMPACT Centre of Competence in Digitisation, Dutch Language Institute (INT), DARIAH-BE, CLARIN*  
+International conference for the research of the digital preservation of cultural heritage, at the intersection of computer science, (digital) humanities and cultural heritage studies.  
+Organizers: Dr. Sally Chambers, Dr. Vincent Vandeghinste
+
+
