@@ -9,7 +9,7 @@ navigation_weight: 4
 <br/>
 **Short description**
 
-She is an alma mater of KU Leuven (MSc Digital Humanities, Department of Computer Science) and has studied art theory/history and curation (MA), art sciences (BA) in the School of Fine Arts, University of Ioannina, Greece and cultural management (Cert) in the Centre of Continuous Education and Training, University of Athens. She is also a graduate of classical piano and classical music harmony of the Municipal Conservatory of Ioannina.
+Mariana Ziku is an alma mater of KU Leuven (MSc Digital Humanities, Department of Computer Science) and has studied art theory/history and curation (MA), art sciences (BA) in the School of Fine Arts, University of Ioannina, Greece and cultural management (Cert) in the Centre of Continuous Education and Training, University of Athens. She is also a graduate of classical piano and classical music harmony of the Municipal Conservatory of Ioannina.
 <br/>
 <br/>
 
