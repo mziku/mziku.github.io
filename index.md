@@ -2,6 +2,7 @@
 layout: page
 ---
 
+<br>
 
 **Mariana Ziku** is an art historian and curator with research specialization in digital humanities. Her work is located across digital intangible and audiovisual culture, the curatorial theory/practice and art theory.
 
