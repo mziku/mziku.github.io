@@ -20,7 +20,7 @@ Co-curator: Elli Leventaki
 
 [**Intangible Meetings**](https://bowb.org/?p=6054) (International Conference – Organizer)  
 *__Venue__: General Archives of Greece – Historical Archives/Museum of Epirus, Greece, 2018*  
-*__Partners: Biennale of Western Balkans__, Ministry of Culture in Greece-Directorate of Modern Cultural and Intangible Cultural Heritage, History of Art Laboratory-University of Ioannina*
+*__Partners__: Biennale of Western Balkans, Ministry of Culture in Greece-Directorate of Modern and Intangible Cultural Heritage, History of Art Laboratory-University of Ioannina*
 The “Intangible Meetings” are intended as presentations and on-stage dialogues that survey, analyse and debate aspects of Intangible Cultural Heritage (ICH), offering a multi-vocal and interdisciplinary perspective. The programme explores the emerging landscape of ICH in research and applied knowledge, with a focus on the European and Balkan region.  
 Co-curator: Elli Leventaki
 
