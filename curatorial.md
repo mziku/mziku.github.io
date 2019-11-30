@@ -46,7 +46,7 @@ Assistant Curator: Katerina Zachou
 The exhibition concept is based on Vladimir Propp's book 'Morphology of the folktale' where Propp introduces patterns that come along a story formation. GIFs reflect the anonymous, collective narratives from a contemporary visual perspective. The exhibition explores the transformativity and underlying patterns of the GIF-medium in semantic ways, where a micro-fiction is expressed in manifold ways, relating to an initial pattern or element. The exhibition focuses on visual, textual and software patterns that propagate through multiple derivative GIFs.  
 Coordination: Eirini Papakonstantinou, Art director: Matthias Fritsch
 
-[**Micro-cinema of Attractions – GIF art imageries and creative techniques**](https://artosfoundation.org/?project=con-temporary-urbanity) (Open air projection exhibition – Curator)  
+[**Micro-cinema of Attractions – GIF art imageries and creative techniques**](https://artosfoundation.org/?project=con-temporary-urbanity) (Media and Open air projection exhibition – Curator)  
 *__Venue__: ARTos Foundation, Nicosia, Cyprus, 2016*  
 *__Partners__: ARTos Foundation, Artecitya, Moving Silence Network*  
 *__Fund__: Goethe-Institut Cyprus, Ministry of Education and Culture - Republic of Cyprus, Creative Europe*  
