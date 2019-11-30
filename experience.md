@@ -28,7 +28,8 @@ navigation_weight: 2
 <br>
 
 [**DATeCH 2019 – Digital Access to Textual Cultural Heritage**](http://datech.digitisation.eu/) (International Conference – Organization Assistant)  
-*Royal Flemish Academy of Belgium for Science and the Arts, Brussels, Belgium, 2019, Partners: IMPACT Centre of Competence in Digitisation, Dutch Language Institute (INT), DARIAH-BE, CLARIN*  
+*__Venue__: Royal Flemish Academy of Belgium for Science and the Arts, Brussels, Belgium, 2019*  
+*__Partners__: IMPACT Centre of Competence in Digitisation, Dutch Language Institute (INT), DARIAH-BE, CLARIN*  
 International conference for the research of the digital preservation of cultural heritage, at the intersection of computer science, (digital) humanities and cultural heritage studies.  
 Organizers: Dr. Sally Chambers, Dr. Vincent Vandeghinste
 
