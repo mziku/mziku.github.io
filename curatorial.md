@@ -12,7 +12,7 @@ navigation_weight: 1
 
 
 [**The future of tradition: Documenting cultural heritage and artistic creation – interdisciplinary approaches, contemporary media**](https://bowb.org/icombowb-2019-en) (Conference Event – Organizer)  
-*<u>Venue</u>: Silversmithing Museum (Piraeus Bank Group Cultural Foundation), Greece, 2019*  
+*__Venue__: Silversmithing Museum (Piraeus Bank Group Cultural Foundation), Greece, 2019*  
 *__Partners__: Biennale of Western Balkans, ICOM-International Council of Museums, GLAM Hack, Balkans Beyond Borders, History of Art Laboratory-University of Ioannina*
 
 Part of the official ICOM programme for the International Museum Day's and its 2019 subject "Museums as cultural hubs: the future of tradition". A curated event with talks, workshop and screenings intended as a project on-the-go that will keep on exploring cultural heritage in relation to technology, communities and new media.  
