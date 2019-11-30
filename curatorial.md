@@ -13,14 +13,14 @@ navigation_weight: 1
 
 [**The future of tradition: Documenting cultural heritage and artistic creation – interdisciplinary approaches, contemporary media**](https://bowb.org/icombowb-2019-en) (Conference Event – Organizer)  
 *__Venue__: Silversmithing Museum (Piraeus Bank Group Cultural Foundation), Greece, 2019*  
-*__Partners__: Biennale of Western Balkans, ICOM-International Council of Museums, GLAM Hack, Balkans Beyond Borders, History of Art Laboratory-University of Ioannina*
+*__Partners__: Biennale of Western Balkans, ICOM-International Council of Museums, GLAM Hack, Balkans Beyond Borders, History of Art Laboratory-University of Ioannina*  
 *__Fund__: Ministry of Culture in Greece*
 Part of the official ICOM programme for the International Museum Day's and its 2019 subject "Museums as cultural hubs: the future of tradition". A curated event with talks, workshop and screenings intended as a project on-the-go that will keep on exploring cultural heritage in relation to technology, communities and new media.  
 Co-curator: Elli Leventaki
 
 [**Intangible Meetings**](https://bowb.org/?p=6054) (International Conference – Organizer)  
 *__Venue__: General Archives of Greece – Historical Archives/Museum of Epirus, Greece, 2018*  
-*__Partners__: Biennale of Western Balkans, Ministry of Culture in Greece-Directorate of Modern and Intangible Cultural Heritage, History of Art Laboratory-University of Ioannina*
+*__Partners__: Biennale of Western Balkans, Ministry of Culture in Greece-Directorate of Modern and Intangible Cultural Heritage, History of Art Laboratory-University of Ioannina*  
 *__Fund__: Ministry of Culture in Greece*
 The “Intangible Meetings” are intended as presentations and on-stage dialogues that survey, analyse and debate aspects of Intangible Cultural Heritage (ICH), offering a multi-vocal and interdisciplinary perspective. The programme explores the emerging landscape of ICH in research and applied knowledge, with a focus on the European and Balkan region.  
 Co-curator: Elli Leventaki
