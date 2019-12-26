@@ -94,7 +94,7 @@ Coursera platform, Instructor: Dr. Steve Everett, Professor, Department of Music
 - **MSc Digital Humanities**  
 1 year (60 ECTS), Advanced Master of Science  
 Faculty of Science, Department of Computer Science, KU Leuven, Belgium  
-*Thesis: Open Access Documentary Heritage - The development of git and machine actionable data for digitised heritage collections (Supervisors: Dr. Nele Gabriëls, Digitisation and Document Delivery Unit, KU Leuven Libraries , Dr. Frederik Truyen, Professor, Program Director of POC Digital Humanities, Faculty of Science, KU Leuven)*
+*Thesis: Open Access Documentary Heritage - The development of git and machine-actionable data for digitised heritage collections (Supervisors: Dr. Nele Gabriëls, Digitisation and Document Delivery Unit, KU Leuven Libraries , Dr. Frederik Truyen, Professor, Program Director of POC Digital Humanities, Faculty of Science, KU Leuven)*
 
 - **CERT Administration of Cultural Organizations**  
 1 year (20.83 ECVET), Certificate of Specialized Training  
