@@ -5,7 +5,7 @@ permalink: /curatorial/
 navigation_weight: 1
 ---
 
-**Exhibition Curation | Conference Organization**
+**Exhibition Curation - Conference Organization**
 
 ---  
 <br/>
