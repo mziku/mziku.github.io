@@ -5,7 +5,7 @@ permalink: /curatorial/
 navigation_weight: 1
 ---
 
-**Conference Organization**
+**Exhibition Curation | Conference Organization**
 
 ---  
 <br/>
@@ -24,13 +24,6 @@ Co-curator: Elli Leventaki
 *__Fund__: Ministry of Culture in Greece*  
 The “Intangible Meetings” are intended as presentations and on-stage dialogues that survey, analyse and debate aspects of Intangible Cultural Heritage (ICH), offering a multi-vocal and interdisciplinary perspective. The programme explores the emerging landscape of ICH in research and applied knowledge, with a focus on the European and Balkan region.  
 Co-curator: Elli Leventaki
-
-<br>
-
-**Exhibition Curation**
-
----  
-<br/>
 
 [**Common Myths**](https://bowb.org/?p=5990) (Multimedia exhibition – Curator)  
 *__Venue__: General Archives of Greece - Historical Archives/Museum of Epirus Ioannina, Greece, 2018*  
