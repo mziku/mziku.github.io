@@ -36,7 +36,7 @@ Assistant Curator: Katerina Zachou
 *__Venue__: Thessaloniki Center of Contemporary Art, Thessaloniki, Greece, 2017*  
 *__Partners__: Moving Silence Network, HMKW University of Applied Sciences (Germany), Librarybox*  
 *__Fund__: Goethe-Institut Thessaloniki*   
-The exhibition concept is based on Vladimir Propp's book 'Morphology of the folktale' where Propp introduces patterns that come along a story formation. GIFs reflect the anonymous, collective narratives from a contemporary visual perspective. The exhibition explores the transformativity and underlying patterns of the GIF-medium in semantic ways, where a micro-fiction is expressed in manifold ways, relating to an initial pattern or element. The exhibition focuses on visual, textual and software patterns that propagate through multiple derivative GIFs.  
+The exhibition concept is based on Vladimir Propp's book 'Morphology of the folktale' where Propp introduces patterns that come along a story formation. GIFs reflect the anonymous, collective narratives from a contemporary visual perspective. The exhibition explores the transformativity and underlying patterns of the GIF-medium in semantic ways, where a micro-fiction is expressed in manifold ways, relating to an initial pattern or element. The exhibition focuses on visual, textual and software patterns that propagate through multiple derivative GIFs, forming a digital folklore of creative web-user engagement.  
 Coordination: Eirini Papakonstantinou, Art director: Matthias Fritsch
 
 [**Micro-cinema of Attractions – GIF art imageries and creative techniques**](https://artosfoundation.org/?project=con-temporary-urbanity) (Media and Open air projection exhibition – Curator)  
