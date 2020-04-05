@@ -3,7 +3,7 @@ layout: page
 ---
 
 <br>
-Mariana Ziku is a researcher, art theorist and curator. She is co-founder and programme curator of the Biennale of Western Balkans, arts & cultural organisation promoting intangible cultural heritage through contemporary art, new technologies and digital scholarship. 
+Mariana Ziku is a researcher, art theorist and curator. She is co-founder and programme curator of the Biennale of Western Balkans, arts & cultural organisation promoting intangible cultural heritage through contemporary art, new technologies and digital scholarship.  
 
 
 Her practice focuses on the digital perspectives of intangible heritage, the concept of immateriality in art and community-based expressions in art and culture. 
