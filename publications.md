@@ -10,8 +10,7 @@ navigation_weight: 3
 ---
 <br>
 - Mariana Ziku. *'Digital Cultural Heritage and Linked Data: Semantically-informed conceptualisations and open practices with focus on Intangible Cultural Heritage'*, Liber Quarterly (accepted), 2020 ISSN 2213-056X
-- Mariana Ziku. [*'Art theory and artificial intelligence in Greece – Documenting 30 years of a cross-disciplinary research'*](https://www.academia.edu/35189649/Art_Theory_and_Artificial_Intelligence_in_Greece_Documenting_30_years_of_a_cross-disciplinary_research)  
-Dalila Honorato and Andreas Giannakoulopoulos (eds.), Taboo-Transgression-Transcendence in Art & Science - Conference Proceedings, Corfu: Ionian University - Department of Audio & Visual Arts, 2018 ISBN 978-960-7260-60-4
+- Mariana Ziku. [*'Art theory and artificial intelligence in Greece – Documenting 30 years of a cross-disciplinary research'*](https://www.academia.edu/35189649/Art_Theory_and_Artificial_Intelligence_in_Greece_Documenting_30_years_of_a_cross-disciplinary_research) Dalila Honorato and Andreas Giannakoulopoulos (eds.), Taboo-Transgression-Transcendence in Art & Science - Conference Proceedings, Corfu: Ionian University - Department of Audio & Visual Arts, 2018 ISBN 978-960-7260-60-4
 - Mariana Ziku, Angeliki Kounava. [*'Ποιο το νόημα να κάνουμε εκθέσεις; Μια απάντηση από το 2030'*](https://kaleidoscope.gr/el/tetradia-mouseiologias/tetradia11--11-523.html)  
 (Translation of Nora's Sternfeld essay 'Why exhibit at all? An answer from the year 2030')  
 Τετράδια Μουσειολογίας (Museology Notebooks), Issue 11, 05.2018 ISSN 1790-0980
@@ -45,7 +44,7 @@ Published by ARTos Foundation (PDF, interactive EPUB, print), Cyprus 2017. ISBN 
 ---
 
 <br>
-. 'MAZI means together: A “minimal computing” local network infrastructure for community-based curation, research and networking'
+- *'MAZI means together: A “minimal computing” local network infrastructure for community-based curation, research and networking'*
 Ottawa, Canada, 22.07 - 24.07.2020 (accepted) (International Conference: "Digital Humanities 2020", Organized by: Alliance of Digital Humanities Organizations, University of Ottawa, Carleton University)
 - *'Datafying and visualizing digital community imaginaries: An experimental approach'*  
 Volos, Greece, 31.05 - 02.06.2019 (Confestival: “Data-stories: New Media Aesthetics and Rhetorics for Critical Digital Ethnography”, Organized by: Univerity of Thessaly, Department of History, Archaeology and Social Anthropology and the Laboratory of Social Anthropology)
