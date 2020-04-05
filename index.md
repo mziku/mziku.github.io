@@ -4,7 +4,7 @@ layout: page
 
 <br>
 Mariana Ziku is a researcher, art theorist and curator. She is co-founder and programme curator of the Biennale of Western Balkans, arts & cultural organisation promoting intangible cultural heritage through contemporary art, new technologies and digital scholarship.  
-
+.
 Her practice focuses on the digital perspectives of intangible heritage, the concept of immateriality in art and community-based expressions in art and culture.She is currently part of the European ARTificial Intelligence Lab as project associate.  
   
 She has been working in the framework of European Cultural Programmes and Cross-Border Cooperation Programmes in the Balkans as museum curator amd project editor (Interreg IPA CBC, Creative Europe). Her curatorial work examines the contemporary interpretations of intangible heritage as digital folklore, born-digital communities of practice, creative expressions of the collective imaginary and collaborative copying cultural practices. Her curatorial research projects have been funded, among others, by the Ministry of Culture in Greece, Goethe-Institut and the European Creative Europe Programme.  
