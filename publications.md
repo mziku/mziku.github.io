@@ -9,7 +9,7 @@ navigation_weight: 3
 
 ---
 <br>
-- Mariana Ziku. 'Digital Cultural Heritage and Linked Data: Semantically-informed conceptualisations and open practices with focus on Intangible Cultural Heritage', Liber Quarterly (accepted), 2020 ISSN 2213-056X
+- Mariana Ziku. *'Digital Cultural Heritage and Linked Data: Semantically-informed conceptualisations and open practices with focus on Intangible Cultural Heritage'*, Liber Quarterly (accepted), 2020 ISSN 2213-056X
 - Mariana Ziku. [*'Art theory and artificial intelligence in Greece – Documenting 30 years of a cross-disciplinary research'*](https://www.academia.edu/35189649/Art_Theory_and_Artificial_Intelligence_in_Greece_Documenting_30_years_of_a_cross-disciplinary_research)  
 Dalila Honorato and Andreas Giannakoulopoulos (eds.), Taboo-Transgression-Transcendence in Art & Science - Conference Proceedings, Corfu: Ionian University - Department of Audio & Visual Arts, 2018 ISBN 978-960-7260-60-4
 - Mariana Ziku, Angeliki Kounava. [*'Ποιο το νόημα να κάνουμε εκθέσεις; Μια απάντηση από το 2030'*](https://kaleidoscope.gr/el/tetradia-mouseiologias/tetradia11--11-523.html)  
