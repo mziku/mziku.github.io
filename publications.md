@@ -45,9 +45,10 @@ Published by ARTos Foundation (PDF, interactive EPUB, print), Cyprus 2017. ISBN 
 ---
 
 <br>
-
+. 'MAZI means together: A “minimal computing” local network infrastructure for community-based curation, research and networking'
+Ottawa, Canada, 22.07 - 24.07.2020 (accepted) (International Conference: "Digital Humanities 2020", Organized by: Alliance of Digital Humanities Organizations, University of Ottawa, Carleton University)
 - *'Datafying and visualizing digital community imaginaries: An experimental approach'*  
-Volos, Greece, 31.05 - 02.06.2019 (Confestival: “Data-stories: New Media Aesthetics and Rhetorics for Critical Digital Ethnography ”, Organized by: Univerity of Thessaly, Department of History, Archaeology and Social Anthropology and the Laboratory of Social Anthropology)
+Volos, Greece, 31.05 - 02.06.2019 (Confestival: “Data-stories: New Media Aesthetics and Rhetorics for Critical Digital Ethnography”, Organized by: Univerity of Thessaly, Department of History, Archaeology and Social Anthropology and the Laboratory of Social Anthropology)
 - *'Digital and intangible cultural heritage: The technological ecosystems of collective memory and the commons'*  
 Crete, Greece, 25 - 27.05.2018 (Conference: “Good Practices in the Promotion and Management of Cultural Heritage”, Organized by: Church of Crete (Greece), Cultural association “Ierapytna”)
 - *'An artificial intelligence toolkit under creative commons - Exploring elements in myths & art worlds'*  
