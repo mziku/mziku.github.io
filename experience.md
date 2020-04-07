@@ -5,7 +5,7 @@ permalink: /experience/
 navigation_weight: 2
 ---
 
-+ [**Archives in Transit – From the World of Libraries to Artificial Intelligence**](https://www.onassis.org/whats-on/archives-transit) *(Occupation: Co-development of educational toolkit, Athens, 2020 (upcoming). An educational and workshop series project that opens up the Onassis' Library Kavafy Archive, utilizing digital humanities methods and tools combined with artistic practices. The project is part of the European ARTificial Intelligence Lab, organized by the Onassis Foundation and funded by the Creative Europe Programme.)*  
++ [**Archives in Transit – From the World of Libraries to Artificial Intelligence**](https://www.onassis.org/whats-on/archives-transit) *(Occupation: Co-development of educational toolkit, Onassis Foundation, Athens, 2020. An educational and workshop series project that opens up the Onassis' Library Kavafy Archive and other documentary heritage collections, utilising digital humanities methods and tools combined with artistic practices. The project is part of the European ARTificial Intelligence Lab, Ars Electronica and funded by the Creative Europe Programme.)*  
 
 + [**Interreg IPA CBC Greece-Albania 2014-2020**](https://greece-albania.eu) *(Occupation: Museological project proposal, Museum Curator, Dodoni, Greece, 2019-2020. Design and implementation of a multi-functional cultural promotion space, based on modular design and the integration of new technologies and media, funded by the European Union. Aimed for the the preservation and promotion of the cross border cultural and natural resources.)*  
 
