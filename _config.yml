@@ -13,7 +13,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: m_ziku
+    twitter: marianaziku
     github:  mziku
     rss: rss
     # dribbble: jekyll
