@@ -9,20 +9,21 @@ navigation_weight: 3
 
 ---
 <br>
-- Mariana Ziku. [*Digital Cultural Heritage and Linked Data: Semantically-informed conceptualisations and practices with a focus on intangible cultural heritage*](https://www.liberquarterly.eu/articles/10315/), LIBER Quarterly 2020, 30(1):1–16. ISSN 2213-056X
-- Mariana Ziku. [*'Art theory and artificial intelligence in Greece – Documenting 30 years of a cross-disciplinary research'*](https://www.academia.edu/35189649/Art_Theory_and_Artificial_Intelligence_in_Greece_Documenting_30_years_of_a_cross-disciplinary_research) Dalila Honorato and Andreas Giannakoulopoulos (eds.), Taboo-Transgression-Transcendence in Art & Science - Conference Proceedings, Corfu: Ionian University - Department of Audio & Visual Arts, 2018 ISBN 978-960-7260-60-4
-- Mariana Ziku, Angeliki Kounava. [*'Ποιο το νόημα να κάνουμε εκθέσεις; Μια απάντηση από το 2030'*](https://kaleidoscope.gr/el/tetradia-mouseiologias/tetradia11--11-523.html)  
+- Ziku, Mariana. [*Developing git and machine-actionable data for digitised heritage collections: a Digital Humanities research & traineeship story*](https://enrichingheritage.wordpress.com/), Enriching Heritage at KU Leuven (blog), University Library Digitisation Department, 2020 (upcoming) 
+- Ziku, Mariana. [*Digital Cultural Heritage and Linked Data: Semantically-informed conceptualisations and practices with a focus on intangible cultural heritage*](https://www.liberquarterly.eu/articles/10315/), LIBER Quarterly 2020, 30(1):1–16. ISSN 2213-056X
+- Ziku, Mariana. [*'Art theory and artificial intelligence in Greece – Documenting 30 years of a cross-disciplinary research'*](https://www.academia.edu/35189649/Art_Theory_and_Artificial_Intelligence_in_Greece_Documenting_30_years_of_a_cross-disciplinary_research) Dalila Honorato and Andreas Giannakoulopoulos (eds.), Taboo-Transgression-Transcendence in Art & Science - Conference Proceedings, Corfu: Ionian University - Department of Audio & Visual Arts, 2018 ISBN 978-960-7260-60-4
+- Kounava, Angeliki & Ziku, Mariana. [*'Ποιο το νόημα να κάνουμε εκθέσεις; Μια απάντηση από το 2030'*](https://kaleidoscope.gr/el/tetradia-mouseiologias/tetradia11--11-523.html)  
 (Translation of Nora's Sternfeld essay 'Why exhibit at all? An answer from the year 2030')  
 Τετράδια Μουσειολογίας (Museology Notebooks), Issue 11, 05.2018. ISSN 1790-0980
-- Mariana Ziku. [*'The under-determination in Poly Kasda's work'*](https://lekseikones.wordpress.com/2016/07/26/the-under-determination-in-poly-kasdas-work/)  
+- Ziku, Mariana. [*'The under-determination in Poly Kasda's work'*](https://lekseikones.wordpress.com/2016/07/26/the-under-determination-in-poly-kasdas-work/)  
 book introduction, When that word swallowed me, Sphinx Publications, Athens 2016 ISBN 978-960-9511-42-1
-- Mariana Ziku. [*'Ripping into the Realtime: The Fizz & Mods of 'Let's Play' Poetics'*](http://interartive.org/2015/11/ripping-into-the-realtime-lets-play/)  
+- Ziku, Mariana. [*'Ripping into the Realtime: The Fizz & Mods of 'Let's Play' Poetics'*](http://interartive.org/2015/11/ripping-into-the-realtime-lets-play/)  
 Interartive 2015; 79:1-3. ISSN 2013-679X
-- Mariana Ziku. [*'Τracing collective memory and improvisational musical poetry in contemporary urban space'*](http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/)  
+- Ziku, Mariana. [*'Τracing collective memory and improvisational musical poetry in contemporary urban space'*](http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/)  
 curatorial statement, The Art Foundation, 19.02.2013
-- Mariana Ziku. [*'Visualization of Evil – Muted Women, Horror and Censorship in the Grimm Tales'*](https://www.academia.edu/2482774/Visualization_of_Evil_muted_women_horror_and_censorship_in_19th_and_20th_century_Grimm_Tales)  
+- Ziku, Mariana. [*'Visualization of Evil – Muted Women, Horror and Censorship in the Grimm Tales'*](https://www.academia.edu/2482774/Visualization_of_Evil_muted_women_horror_and_censorship_in_19th_and_20th_century_Grimm_Tales)  
 (2012) in The Brothers Grimm and the folktale: narrations, readings, transformations, Athens 22.-24.11.2012, 1-11,  National and Kapodistrian University of Athens
-- Mariana Ziku. [*'Limits of utopia in outer-space: Contemporary sci-fi art representations'*](https://www.academia.edu/1906443/Limits_of_Utopia_in_outer-space_Contemporary_sci-fi_art_representations)  
+- Ziku, Mariana. [*'Limits of utopia in outer-space: Contemporary sci-fi art representations'*](https://www.academia.edu/1906443/Limits_of_Utopia_in_outer-space_Contemporary_sci-fi_art_representations)  
 Interartive 2012; 41:1-6. ISSN 2013-679X
 	
   <br>
