@@ -9,7 +9,7 @@ navigation_weight: 3
 
 ---
 <br>
-- Ziku, Mariana. [*Developing git and machine-actionable data for digitised heritage collections: a Digital Humanities research & traineeship story*](https://enrichingheritage.wordpress.com/), Enriching Heritage at KU Leuven (blog), University Library Digitisation Department, 2020 (upcoming) 
+- Ziku, Mariana. [*Developing git and machine-actionable data for digitised heritage collections: a Digital Humanities research & traineeship story*](https://enrichingheritage.wordpress.com/), Enriching Heritage at KU Leuven (blog), University Library Digitisation Department, 2020 (forthcoming) 
 - Ziku, Mariana. [*Digital Cultural Heritage and Linked Data: Semantically-informed conceptualisations and practices with a focus on intangible cultural heritage*](https://www.liberquarterly.eu/articles/10315/), LIBER Quarterly 2020, 30(1):1–16. ISSN 2213-056X
 - Ziku, Mariana. [*'Art theory and artificial intelligence in Greece – Documenting 30 years of a cross-disciplinary research'*](https://www.academia.edu/35189649/Art_Theory_and_Artificial_Intelligence_in_Greece_Documenting_30_years_of_a_cross-disciplinary_research) Dalila Honorato and Andreas Giannakoulopoulos (eds.), Taboo-Transgression-Transcendence in Art & Science - Conference Proceedings, Corfu: Ionian University - Department of Audio & Visual Arts, 2018 ISBN 978-960-7260-60-4
 - Kounava, Angeliki & Ziku, Mariana. [*'Ποιο το νόημα να κάνουμε εκθέσεις; Μια απάντηση από το 2030'*](https://kaleidoscope.gr/el/tetradia-mouseiologias/tetradia11--11-523.html)  
@@ -28,14 +28,15 @@ Interartive 2012; 41:1-6. ISSN 2013-679X
 	
   <br>
   
-**Book Publications**
+**Book & Catalogue Publications**
 
 ---
 
 <br>
 
 - [forthcoming, 2021] Mariana Ziku, Angeliki Kounava. *The Art of Curatorial Theory* (preliminary title), Greece
-- Mariana Ziku. [*Micro-cinema of Attractions: GIF art imageries and creative techniques*](https://drive.google.com/drive/folders/0B0UjNhiCkNpkN0pPU2ZVX3BzVFU),  
+- [forthcoming] Christos Dermentzopoulos, Mariana Ziku. (eds.), *Tradition anew! The Biennale of Western Balkans (Catalogue)*. Ioannina: History of Art Laboratory, 2020.
+- Ziku, M. [*Micro-cinema of Attractions: GIF art imageries and creative techniques*](https://drive.google.com/drive/folders/0B0UjNhiCkNpkN0pPU2ZVX3BzVFU),  
 Published by ARTos Foundation (PDF, interactive EPUB, print), Cyprus 2017. ISBN 978-9963-8703-8-7
 
 <br>
