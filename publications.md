@@ -71,7 +71,8 @@ Athens, Greece, 31.10.2009 (UNESCO Conference as part of the activities for the 
 
 <br/>
 
-- Greek Digital Humanities Research Network (DH_GR)  
+- Europeana Network Association
+- Greek Digital Humanities Research Network  
 - [Association of Greek Art Historians](https://eeit.org)
 - [Digital Art History Society (DAHS)](https://digitalarthistorysociety.org)
 - History of Art Laboratory (HAL), University of Ioannina, Greece
