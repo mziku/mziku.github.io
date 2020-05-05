@@ -5,7 +5,7 @@ permalink: /experience/
 navigation_weight: 2
 ---
 
-+ [**European ARTificial Intelligence Lab, Onassis Foundation**](https://www.onassis.org/whats-on/archives-transit)  
++ [**European ARTificial Intelligence Lab, Onassis Foundation**](https://ars.electronica.art/ailab/en)  
 *Occupation: Project associate, Digital humanities specialist. Athens, 2020*  
 The research and educational programme "Archives in Transit, from the world of libraries to artificial intelligence" examines collaborative and art-based practices for experiencing digitised heritage collections with the use of semantic web technologies and computational tools. The programme is part of the European ARTificial Intelligence Lab, Ars Electronica and funded by the Creative Europe Programme. 
 
