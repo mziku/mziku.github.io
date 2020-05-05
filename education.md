@@ -90,16 +90,16 @@ Coursera platform, Instructor: Dr. Steve Everett, Professor, Department of Music
 - **MSc Digital Humanities**  
 1 year (60 ECTS), Advanced Master of Science  
 Faculty of Science, Department of Computer Science, KU Leuven, Belgium  
-*Thesis: Open Access Documentary Heritage - The development of git and machine-actionable data for digitised heritage collections (Supervisors: Dr. Nele Gabriëls, Digitisation and Document Delivery Unit, KU Leuven Libraries , Dr. Frederik Truyen, Professor, Program Director of POC Digital Humanities, Faculty of Science, KU Leuven)*
+*Thesis: Open Access Documentary Heritage - The development of git and machine-actionable data for digitised heritage collections (Supervisors: Dr. Nele Gabriëls, Digitisation and Document Delivery Unit, KU Leuven Libraries, Dr. Frederik Truyen, Professor, Program Director of POC Digital Humanities, Faculty of Science, KU Leuven)*
 
-- **CERT Administration of Cultural Organizations**  
+- **Cert Cultural Organisations Management**  
 1 year (20.83 ECVET), Certificate of Specialized Training  
 Centre of Continuous Education and Training, National and Kapodistrian University of Athens, Greece
 
-- **MA(Hons) Art History/Theory – Curating**  
+- **MA(Hons) Art History/Theory – Curation**  
 2 years (120 ECTS), Master of Arts  
 Department of Fine Arts and Art Sciences, University of Ioannina, Greece  
-*Thesis: Memory Spaces of Aesop's Mythology – Text & image relations of fables in illuminated manuscripts
+*Thesis: Memory Spaces of Aesop's Mythology – Text and image relations of fables in illuminated manuscripts
 and printed editions in Central and Mediterranean Europe during the Middle Ages and Renaissance
 (Supervisor: Kostas Ioannidis, Assistant Professor of Art Theory, Athens School of Fine Arts)*
 
@@ -115,10 +115,10 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 ---  
 <br/>
 
-- **Classical Piano - Music Instrument Degree**
+- **Musical Instrument Degree - Classical Piano**
 *13 years, Municipal Conservatory of Ioannina, Greece, Supervisor: Athina Simopoulou*
 
-- **Classical Harmony - Music Theory Degree**
+- **Music Theory Degree - Classical Harmony**
 *7 years, Municipal Conservatory of Ioannina, Greece, Supervisor: Kostas Lolis*
 
 
