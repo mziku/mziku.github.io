@@ -18,16 +18,16 @@ Digital cultural heritage and museum technology project with integration of new 
 Multi-funded arts and cultural organisation, co-organized by the History of Art Laboratory-University of Ioannina and the Directorate of Modern Cultural and Intangible Cultural Heritage-Ministry of Culture in Greece. Its vision is to promote intangible heritage through art, technology and open knowledge. 
 Director: Dr. Christos Dermentzopoulos   
 
-+ **METamorphosis artnet, Cultural Development office**  
++ **METamorphosis artnet, Cultural Development office**   
 *Occupation: Managing partner, Digital cultural heritage specialist. Athens, 2017-2018*  
 Full funding Business proposal selected by the sectoral programme of the Greek Ministry of Economy and Development 'Competitiveness, Entrepreneurship and Innovation 2014-2020', subsidised by the European Union. The proposal ranked in the top 10 general proposals in Athens and 2nd out of the creative-cultural industries, selected out of approx. 16.000 applications.  
 
 + [**IPA Cross-Border Programme Greece-North Macedonia 2007-2013**](http://www.ipa-cbc-programme.eu)  
-*Occupation: Museological project proposal, Museum curator. Greece - North Macedonia, 2016*  
+*Occupation: Museological project proposal, Museum curator. Greece - North Macedonia, 2016*   
 Digital cultural heritage and museum technology project with integration of new audiovisual media in the Lake Doirani Museum, funded by the European Union. The objective was to enhance convergence in the border area by promoting sustainable local development and co-operation in the fields of cultural and natural heritage.  
 
-+ [**European Capital of Culture 2021 Greece – Candidacy of Ioannina-Epirus**](https://ec.europa.eu/programmes/creative-europe/actions/capitals-culture_en)  
-*Occupation: Personal assistant of the art director, Curator of digital culture and sound. Art Direction Department, 2015-2016*  
++ [**European Capital of Culture 2021 Greece – Candidacy of Ioannina-Epirus**](https://ec.europa.eu/programmes/creative-europe/actions/capitals-culture_en)   
+*Occupation: Personal assistant of the art director, Curator of digital culture and sound. Art Direction Department, 2015-2016*   
 The selection panel’s report highlighted the inventiveness of the digital-based related projects and their potential for further development.  
 Directors: Dr. Maria Stratsani, Niketi Kontouri  
 
