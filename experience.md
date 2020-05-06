@@ -20,7 +20,7 @@ Director: Dr. Christos Dermentzopoulos
 
 + **METamorphosis artnet, Cultural Development office**   
 *Occupation: Managing partner, Digital cultural heritage specialist. Athens, 2017-2018*  
-Full funding Business proposal selected by the sectoral programme of the Greek Ministry of Economy and Development 'Competitiveness, Entrepreneurship and Innovation 2014-2020', subsidised by the European Union. The proposal ranked in the top 10 general proposals in Athens and 2nd out of the creative-cultural industries, selected out of approx. 16.000 applications.  
+Business proposal selected for full funding by the sectoral programme of the Greek Ministry of Economy and Development 'Competitiveness, Entrepreneurship and Innovation 2014-2020', subsidised by the European Union. The proposal ranked in the top 10 general proposals in Athens and 2nd out of the creative-cultural industries (out of approx. 16.000 applications).  
 
 + [**IPA Cross-Border Programme Greece-North Macedonia 2007-2013**](http://www.ipa-cbc-programme.eu)  
 *Occupation: Museological project editor, Museum curator. Greece - North Macedonia, 2016*   
