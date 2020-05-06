@@ -15,7 +15,7 @@ navigation_weight: 1
 *__Venue__: Silversmithing Museum (Piraeus Bank Group Cultural Foundation), Greece, 2019*  
 *__Partners__: Biennale of Western Balkans, ICOM-International Council of Museums, GLAM Hack, Balkans Beyond Borders, History of Art Laboratory-University of Ioannina*  
 *__Fund__: Ministry of Culture in Greece*  
-Part of the official ICOM programme for the International Museum Day's and its 2019 subject "Museums as cultural hubs: the future of tradition". A curated event with presentations, screenings and a workshop on the creative reuses of digital cultural heritage intended as a project on-the-go that will keep on exploring cultural heritage in relation to technology, communities and new media.
+Part of the official ICOM programme for the International Museum Day's and its 2019 subject "Museums as cultural hubs: the future of tradition". A curated event with presentations, screenings and a workshop on the creative reuses of digital cultural heritage, developed as a project on-the-go that will keep on exploring cultural heritage in relation to technology, communities and new media.  
 Co-curator: Elli Leventaki
 
 [**Intangible Meetings**](https://bowb.org/?p=6054) (International Conference – Organizer)  
@@ -29,7 +29,7 @@ Co-curator: Elli Leventaki
 *__Venue__: General Archives of Greece - Historical Archives/Museum of Epirus Ioannina, Greece, 2018*  
 *__Partners__: Biennale of Western Balkans, Ministry of Culture in Greece-Directorate of Modern Cultural and Intangible Cultural Heritage, History of Art Laboratory-University of Ioannina*  
 *__Fund__: Ministry of Culture in Greece*   
-“Common Myths” presented contemporary art and research that places myth at the core of an interdisciplinary exploration. The exhibition examines concepts as the re-interpretation, re-creation and re-enactment of cultural legacies, intangible forms of representation, transient community memory, narrative forms of affective/aesthetic states, epistemologies of mythical thought, collective ceremonial economies, contemporary rituals and urban narratives.  
+“Common Myths” presented contemporary art and research that places myth at the core of an interdisciplinary exploration. The exhibition examines concepts as the re-interpretation, re-creation and re-enactment of cultural legacies, intangible forms of representation, transient collective memory, community-based art, epistemologies of mythical thought and contemporary rituals. Art included augmented reality, video art, hologram and mapping projections, connected with community workshops and traditional craftsmanship.  
 Assistant Curator: Katerina Zachou
 
 [**GIF: Morphologies of a copyleft tale**](https://www.cact.gr/en/news/movingsilence) (Graphic arts and digital exhibition – Curator)  
@@ -50,7 +50,7 @@ Assistant Curator: Elia Neophytou
 *__Venue__: Goethe-Institut Athen, Athens, Greece, 2015*  
 *__Partners__: Braunschweig University of Art (Germany), Athens School of Fine Arts, Moving Silence Network (Berlin-Athens), Circuits and Currents (Athens)*  
 *__Fund__: Goethe-Institut Athen*  
-Jiggling Golems explored the cinematic qualities of the GIF medium, the narrative potential of very short moving images and their semiotics. In the context of the Festival for Silent Film Culture, the GIF art exhibition expanded the silent film format in the networked digital space. The project was realised as an 'immaterial' exhibition in html format, hosted within the open-source local networking toolkit 'Piratebox' and traveling along the venues. The audience could access the exhibition only on-site through their mobile devices.
+Jiggling Golems explored the cinematic qualities of the GIF medium, the narrative potential of very short moving images and their semiotics. In the context of the Festival for Silent Film Culture, the GIF art exhibition expanded the silent film format in the networked digital space. The project was realised as an 'immaterial' exhibition in html format, hosted within the open-source local networking toolkit 'Piratebox' and traveling along the venues. The audience could access the exhibition only on-site through their mobile devices.  
 Art director: Matthias Fritsch
 
 [**Future Past – Past Future**](https://transmediale.de/content/partner-exhibition-future-past-past-future) (New media exhibition – Assistant Curator)  
