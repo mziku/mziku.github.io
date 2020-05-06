@@ -64,6 +64,6 @@ Curator: Sandra Naumann
 *__Venue__: metamatic:taf, Athens, Greece, 2013*  
 *__Partners__: United African Women Association, Association of Greece-China, Greek-Indian Cultural Association, Armenian Cultural and Educational Association Hamazkayin*  
 *__Fund__: The Art Foundation, Greece*  
-A curatorial and research project, awarded by The Art Foundation, Greece. The project collected fieldwork audio recordings of traditional lullabies performed by women who are bearers of indigenous and migrating cultures, combined with art-based documentary photography which explored the paradoxical concept of monsters as protective entities in different cultures. A 5-member female interdisciplinary group was created in 2012 for the project.  
+A curatorial and research project, awarded by The Art Foundation, Greece. The project collected urban fieldwork recordings of traditional lullabies performed by women who are bearers of indigenous and migrating cultures, combined with art-based documentary photography which explored the paradoxical concept of monsters as protective entities in different cultures. A 5-member female interdisciplinary group was created in 2012 for the project.  
 Curatorial team millihertz: Mariana Ziku, Maria S. Giannaki, Lia Despotidou, Olga Chira, Niki Kyriakouli
  
