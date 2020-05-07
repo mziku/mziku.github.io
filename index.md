@@ -4,7 +4,7 @@ layout: page
 
 <br>
 
-**Mariana Ziku** is an art historian, curator and researcher. She specialises in digital cultural heritage with focus on intangible, audiovisual and documentary heritage. She is co-founder and programme curator of the Biennale of Western Balkans, where she works on promoting intangible heritage through art, technology and open knowledge.
+**Mariana Ziku** is an art historian and curator with specialisation in digital humanities and research focus on intangible, audiovisual and documentary heritage and art. She is co-founder and programme curator of the Biennale of Western Balkans, where she works on promoting intangible heritage through art, technology and open knowledge.
 
 She has been working in digital cultural heritage and museum technology projects, in the framework of European Cultural Programmes and Cross-Border Cooperation Programmes in the Balkans (Interreg IPA-CBC, Creative Europe Programme) and is currently project associate of the European ARTificial Intelligence Lab.
 
