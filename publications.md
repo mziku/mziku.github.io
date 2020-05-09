@@ -17,6 +17,7 @@ navigation_weight: 3
 Τετράδια Μουσειολογίας (Museology Notebooks), Issue 11, 05.2018. ISSN 1790-0980
 - Ziku, Mariana. [*'The under-determination in Poly Kasda's work'*](https://lekseikones.wordpress.com/2016/07/26/the-under-determination-in-poly-kasdas-work/)  
 book introduction of Poly Kasda's 'When that word swallowed me', Sphinx Publications, Athens 2016 ISBN 978-960-9511-42-1
+- Ziku, Mariana. [*'Jiggling Golems, the art of GIF: An 'immaterial' exhibition for digital moving images'*](https://lekseikones.wordpress.com/2015/01), curatorial text, Moving Silence Festival, Goethe-Institut Athens, 03.2015
 - Ziku, Mariana. [*'Ripping into the realtime: The fizz & mods of 'let's play' poetics'*](http://interartive.org/2015/11/ripping-into-the-realtime-lets-play/)  
 Interartive 2015; 79:1-3. ISSN 2013-679X
 - Ziku, Mariana. [*'Τracing collective memory and improvisational musical poetry in contemporary urban space'*](http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/)  
