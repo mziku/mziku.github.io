@@ -1,20 +1,24 @@
 ---
 layout: post
 title:  "Jiggling Golems, the art of GIF: An "immaterial" exhibition for digital moving images"
-date:   2015-01-25
+date:   2015-04-25
 tags:
 ---
 
+<p><img src="https://mziku.github.io/images/jiggling-golems.gif" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="jiggling golems" width="300"></p>
 
-Jiggling Golems will explore the cinematic qualities of the GIF medium, the narrative potential of very short moving images and their semiotics. In the context of the Festival for Silent Film Culture, the GIF art exhibition will expand the silent film format in the networked digital space. The project will be realised as an ‘immaterial’ exhibition in html format, hosted within the open-source local networking toolkit ‘Piratebox’ and traveling along the venues. The audience can access the exhibition only on-site through their mobile devices.  
+Jiggling Golems explored the cinematic qualities of the GIF medium, the narrative potential of very short moving images and their semiotics. In the context of the Festival for Silent Film Culture, the GIF art exhibition expanded the silent film format in the networked digital space. The project was realised as an ‘immaterial’ exhibition in html format, hosted within the open-source local networking toolkit ‘Piratebox’ and traveling along the venues. The audience could access the exhibition only on-site through their mobile devices.  
 
 Venue: Goethe-Institut Athen, Circuits and Currents, Athens, Greece, March 2015  
 Partners: Braunschweig University of Art (Germany), Athens School of Fine Arts, Moving Silence Network (Berlin-Athens), Circuits and Currents (Athens)  
 Fund: Goethe-Institut Athen  
 Art director: Matthias Fritsch  
 
+<p><img src="https://mziku.github.io/images/jiggling-golems-circuits-and-currents.JPG" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="jiggling golems" width="300"></p>
+<p><img src="https://mziku.github.io/images/gif-index-jiggling-golems.jpg" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="jiggling golems" width="300"></p>
+<p><img src="https://mziku.github.io/images/jiggling-golems.JPG" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="jiggling golems" width="300"></p>
 
-Curatorial text:
+Curatorial text:  
 
 Gifs, the stray protocols breed inside the dot matrix. Once liberated from their corporate pimps, this batch of hyper-hookers was destined to hangout in the downtown of stocked networked space. Rambling along the data streams, these jiggling golems were soon crowdsurfing in every corner of the alleged Web 2.0, triggering the reticulated, blurring the realtime, entering our retinal trans consciousness.
 
