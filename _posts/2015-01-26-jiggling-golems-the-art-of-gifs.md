@@ -6,14 +6,12 @@ tags:
 ---
 
 
-Jiggling Golems, the art of GIF: An immaterial exhibition for digital moving images
-Posted on 26.01.2015	
+Jiggling Golems will explore the cinematic qualities of the GIF medium, the narrative potential of very short moving images and their semiotics. In the context of the Festival for Silent Film Culture, the GIF art exhibition expanded the silent film format in the networked digital space. The project was realised as an ‘immaterial’ exhibition in html format, hosted within the open-source local networking toolkit ‘Piratebox’ and traveling along the venues. The audience could access the exhibition only on-site through their mobile devices.  
 
-Jiggling Golems will explore the cinematic qualities of the GIF medium, the narrative potential of very short moving images and their semiotics. In the context of the Festival for Silent Film Culture, the GIF art exhibition expanded the silent film format in the networked digital space. The project was realised as an ‘immaterial’ exhibition in html format, hosted within the open-source local networking toolkit ‘Piratebox’ and traveling along the venues. The audience could access the exhibition only on-site through their mobile devices.
-Venue: Goethe-Institut Athen, Athens, Greece, March 2015
-Partners: Braunschweig University of Art (Germany), Athens School of Fine Arts, Moving Silence Network (Berlin-Athens), Circuits and Currents (Athens)
-Fund: Goethe-Institut Athen
-Art director: Matthias Fritsch
+Venue: Goethe-Institut Athen, Circuits and Currents, Athens, Greece, March 2015  
+Partners: Braunschweig University of Art (Germany), Athens School of Fine Arts, Moving Silence Network (Berlin-Athens), Circuits and Currents (Athens)  
+Fund: Goethe-Institut Athen  
+Art director: Matthias Fritsch  
 
 
 Curatorial text:
