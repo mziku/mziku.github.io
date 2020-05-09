@@ -5,7 +5,7 @@ date:   2015-04-25
 tags:
 ---
 
-<p><img src="https://mziku.github.io/images/jiggling-golems.gif" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="jiggling golems" width="300"></p>
+<p><img src="https://mziku.github.io/images/jiggling-golems.gif" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="jiggling golems" width="600"></p>
 
 Jiggling Golems explored the cinematic qualities of the GIF medium, the narrative potential of very short moving images and their semiotics. In the context of the Festival for Silent Film Culture, the GIF art exhibition expanded the silent film format in the networked digital space. The project was realised as an ‘immaterial’ exhibition in html format, hosted within the open-source local networking toolkit ‘Piratebox’ and traveling along the venues. The audience could access the exhibition only on-site through their mobile devices.  
 
@@ -14,9 +14,9 @@ Partners: Braunschweig University of Art (Germany), Athens School of Fine Arts, 
 Fund: Goethe-Institut Athen  
 Art director: Matthias Fritsch  
 
-<p><img src="https://mziku.github.io/images/jiggling-golems-circuits-and-currents.JPG" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="jiggling golems" width="300"></p>
-<p><img src="https://mziku.github.io/images/gif-index-jiggling-golems.jpg" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="jiggling golems" width="300"></p>
-<p><img src="https://mziku.github.io/images/jiggling-golems.JPG" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="jiggling golems" width="300"></p>
+<p><img src="https://mziku.github.io/images/jiggling-golems-circuits-and-currents.JPG" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="jiggling golems" width="600"></p>
+<p><img src="https://mziku.github.io/images/gif-index-jiggling-golems.jpg" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="jiggling golems" width="600"></p>
+<p><img src="https://mziku.github.io/images/jiggling-golems.JPG" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="jiggling golems" width="600"></p>
 
 Curatorial text:  
 
