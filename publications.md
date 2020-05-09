@@ -16,14 +16,14 @@ navigation_weight: 3
 (Translation of Nora's Sternfeld essay 'Why exhibit at all? An answer from the year 2030')  
 Τετράδια Μουσειολογίας (Museology Notebooks), Issue 11, 05.2018. ISSN 1790-0980
 - Ziku, Mariana. [*'The under-determination in Poly Kasda's work'*](https://lekseikones.wordpress.com/2016/07/26/the-under-determination-in-poly-kasdas-work/)  
-book introduction, When that word swallowed me, Sphinx Publications, Athens 2016 ISBN 978-960-9511-42-1
+book introduction of Poly Kasda's 'When that word swallowed me', Sphinx Publications, Athens 2016 ISBN 978-960-9511-42-1
 - Ziku, Mariana. [*'Ripping into the realtime: The fizz & mods of 'let's play' poetics'*](http://interartive.org/2015/11/ripping-into-the-realtime-lets-play/)  
 Interartive 2015; 79:1-3. ISSN 2013-679X
 - Ziku, Mariana. [*'Τracing collective memory and improvisational musical poetry in contemporary urban space'*](http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/)  
 curatorial statement, The Art Foundation, 19.02.2013
 - Ziku, Mariana. [*'Visualization of Evil – Image and text relations in the printed editions of the Grimm Tales'*](https://www.academia.edu/2482774/Visualization_of_Evil_muted_women_horror_and_censorship_in_19th_and_20th_century_Grimm_Tales)  
 (2012) in The Brothers Grimm and the folktale: narrations, readings, transformations, Athens 22.-24.11.2012, 1-11,  National and Kapodistrian University of Athens
-- Ziku, Mariana. [*'Limits of utopia in outer-space: Contemporary sci-fi art representations'*](https://www.academia.edu/1906443/Limits_of_Utopia_in_outer-space_Contemporary_sci-fi_art_representations)  
+- Ziku, Mariana. [*'Limits of Utopia in outer space: Sci-fi representations of contemporary audiovisual art'*](https://www.academia.edu/1906443/Limits_of_Utopia_in_outer-space_Contemporary_sci-fi_art_representations)  
 Interartive 2012; 41:1-6. ISSN 2013-679X
 	
   <br>
