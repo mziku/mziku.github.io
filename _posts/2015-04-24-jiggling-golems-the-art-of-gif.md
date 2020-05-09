@@ -2,7 +2,7 @@
 layout: post
 title:  "Jiggling Golems - The Art of GIF: An 'immaterial' exhibition for digital moving images"
 date:   2015-04-24
-tags: yes
+tags: GIF, silent film, moving image, piratebox, visual flash-fiction
 ---
 
 Jiggling Golems explored the cinematic qualities of the GIF medium, the narrative potential of very short moving images and their semiotics. In the context of the Festival for Silent Film Culture, the GIF art exhibition expanded the silent film format in the networked digital space. The project was realised as an ‘immaterial’ exhibition in html format, hosted within the open-source local networking toolkit ‘Piratebox’ and traveling along the venues. The audience could access the exhibition only on-site through their mobile devices.  
