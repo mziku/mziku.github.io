@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "test"
+title:  "Jiggling Golems - The Art of GIF: An 'immaterial' exhibition for digital moving images"
 date:   2011-11-24
 tags: yes
 ---
