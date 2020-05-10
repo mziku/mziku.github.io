@@ -135,7 +135,7 @@ Coursera platform, Instructor: Dr. Steve Everett, Professor, Department of Music
 - Greek (native)
 - German (proficient)
 - English (proficient)
-- Dutch (working knowledge)
-- French (working knowledge)
+- Dutch (reading knowledge)
+- French (reading knowledge)
 
 <br/>
