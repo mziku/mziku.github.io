@@ -6,10 +6,39 @@ navigation_weight: 4
 ---
 
 
+**Academic Degrees**  
+
+---  
+
+<br/>
+
+- **MSc Digital Humanities**  
+1 year (60 ECTS), Advanced Master of Science  
+Faculty of Science, Department of Computer Science, KU Leuven, Belgium  
+*Thesis: Open Access Documentary Heritage - The development of git and machine-actionable data for digitised heritage collections (Supervisors: Dr. Nele Gabriëls, Digitisation and Document Delivery Unit, KU Leuven Libraries, Dr. Frederik Truyen, Professor, Program Director of POC Digital Humanities, Faculty of Science, KU Leuven)*
+
+- **Cert Cultural Organisations Management**  
+1 year (20.83 ECVET), Certificate of Specialized Training  
+Centre of Continuous Education and Training, National and Kapodistrian University of Athens, Greece
+
+- **MA(Hons) Art History/Theory – Curation**  
+2 years (120 ECTS), Master of Arts  
+Department of Fine Arts and Art Sciences, University of Ioannina, Greece  
+*Thesis: Memory Spaces of Aesop's Mythology – Text and image relations of fables in illuminated manuscripts
+and printed editions in Central and Mediterranean Europe during the Middle Ages and Renaissance
+(Supervisor: Kostas Ioannidis, Assistant Professor of Art Theory, Athens School of Fine Arts)*
+
+- **BA Fine Arts and Art Sciences**  
+4 years (240 ECTS), Bachelor (Ptychion)  
+Department of Fine Arts and Art Sciences, University of Ioannina, Greece  
+*Thesis: Roma Folktales: Ideology, Representations and Narrative Function (Supervisor: Christos Dermentzopoulos, Professor of Anthropology of Art, Cultural and Film Studies, School of Fine Arts, University of Ioannina)*
+
+<br/>
+
 <br/>
 
 
-**Training**  
+**Internships**  
 
 ---
 <br>
@@ -20,6 +49,21 @@ navigation_weight: 4
 *(Occupation: Assistant Curator, Multimedia archivist, 2013-2014 / Vocational Training- EU Programme 'Leonardo da Vinci', Curator: Sandra Naumann)*
 - **Egyptian Center for Culture and Arts, Makan** – Cairo, Egypt  
 *(Occupation: Postgraduate Researcher, Audio archivist, 2013 / German University in Cairo, Egypt / AIESEC University of Macedonia, Greece, Director: Dr. Ahmed El-Maghraby)*
+
+<br/>
+
+
+**Awards – Grants**  
+
+---  
+<br/>
+
+- Funds: Project Proposal for the Biennale of Western Balkans (Ministry of Culture and Sports, Greece 2018
+- Grant: Enterprise proposal in 'Competitiveness, Entrepreneurship and Innovation 2014-2020' Ministry of Economy and 	Education, (100% subsidy), 2nd place in the cultural & creative industries sector in Athens (among over 16.000 	submissions), Greece 2017
+- Scholarship: 1st place in Leonardo da Vinci European Programme, Germany 2014
+- Awarded curatorial proposal: 1st Open Call for Interdisciplinary Projects and Applied Arts, The Art Foundation, Greece 2013
+- Scholarship: Highest score in Master entry admission tests and highest graduation grade, Greece 2011
+- Distinction: 2nd highest Bachelor class graduation grade, Greece 2007
 
 <br/>
 
@@ -41,19 +85,7 @@ navigation_weight: 4
 
 <br/>
 
-**Awards – Grants**  
 
----  
-<br/>
-
-- Fund: Project Proposal for the Biennale of Western Balkans, Ministry of Culture and Sports, Greece 2018
-- Grant: Enterprise proposal in 'Competitiveness, Entrepreneurship and Innovation 2014-2020' Ministry of Economy and 	Education, (100% subsidy), 2nd place in the cultural & creative industries sector in Athens (among over 16.000 	submissions), Greece 2017
-- Scholarship: 1st place in Leonardo da Vinci European Programme, Germany 2014
-- Awarded curatorial proposal: 1st Open Call for Interdisciplinary Projects and Applied Arts, The Art Foundation, Greece 2013
-- Scholarship: Highest score in Master entry admission tests and highest graduation grade, Greece 2011
-- Distinction: 2nd highest Bachelor class graduation grade, Greece 2007
-
-<br/>
 
 **Distant Learning – Courses**  
 
@@ -82,33 +114,7 @@ Coursera platform, Instructor: Dr. Steve Everett, Professor, Department of Music
 
 <br/>
 
-**Academic Degrees**  
 
----  
-<br/>
-
-- **MSc Digital Humanities**  
-1 year (60 ECTS), Advanced Master of Science  
-Faculty of Science, Department of Computer Science, KU Leuven, Belgium  
-*Thesis: Open Access Documentary Heritage - The development of git and machine-actionable data for digitised heritage collections (Supervisors: Dr. Nele Gabriëls, Digitisation and Document Delivery Unit, KU Leuven Libraries, Dr. Frederik Truyen, Professor, Program Director of POC Digital Humanities, Faculty of Science, KU Leuven)*
-
-- **Cert Cultural Organisations Management**  
-1 year (20.83 ECVET), Certificate of Specialized Training  
-Centre of Continuous Education and Training, National and Kapodistrian University of Athens, Greece
-
-- **MA(Hons) Art History/Theory – Curation**  
-2 years (120 ECTS), Master of Arts  
-Department of Fine Arts and Art Sciences, University of Ioannina, Greece  
-*Thesis: Memory Spaces of Aesop's Mythology – Text and image relations of fables in illuminated manuscripts
-and printed editions in Central and Mediterranean Europe during the Middle Ages and Renaissance
-(Supervisor: Kostas Ioannidis, Assistant Professor of Art Theory, Athens School of Fine Arts)*
-
-- **BA Fine Arts and Art Sciences**  
-4 years (240 ECTS), Bachelor (Ptychion)  
-Department of Fine Arts and Art Sciences, University of Ioannina, Greece  
-*Thesis: Roma Folktales: Ideology, Representations and Narrative Function (Supervisor: Christos Dermentzopoulos, Professor of Anthropology of Art, Cultural and Film Studies, School of Fine Arts, University of Ioannina)*
-
-<br/>
 
 **Music Degrees**  
 
@@ -132,6 +138,7 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 - Greek (native)
 - German (proficient)
 - English (proficient)
-- Dutch (working knowledge) 
+- Dutch (working knowledge)
+- French (working knowledge)
 
 <br/>
