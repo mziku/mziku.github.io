@@ -47,7 +47,7 @@ navigation_weight: 3
 - *'Meta-Dynamics in Aesthetics'* Kefalonia, Greece, 23.04. - 08.05.2015 (International Poster Presentation: “Next Nature: Bonjour Monsieur Courbet”, Organized by: The I-Node of the Planetary Collegium, Plymouth University)
 - *'Visualization of Evil – Image and text relations in the printed editions of the Grimm Tales'* Athens, Greece, 24.11.2012 (International Conference: "The Brothers Grimm and the folktale: narrations, readings, transformations", Organized by: The Faculty of Philology of National and Kapodistrian University of Athens, the Department of History, Archeology and Social Anthropology of the University of Thessaly)
 - *'Framing Oral History through Visual Ethnography'* Zadar, Croatia, 24.04.2010 (International Conference: “Exploring everyday life in SE Europe: Identity, culture and representation”, Organized by: 8th International Border Crossings Network, University of Ioannina) 
-- *'Local Narratives and Interpretations of Cultural Heritage'* Athens, Greece, 31.10.2009 (Urania's Gardens UNESCO Conference, Cultural Center of Athens)
+- *'Local Narratives and Interpretations of Cultural Heritage'* Athens, Greece, 31.10.2009 (Conference "Urania's Gardens", International Association Of Art - UNESCO IAA/AIAP local event, Cultural Center of Athens)
 
 <br>
 
