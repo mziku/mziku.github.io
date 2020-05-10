@@ -5,6 +5,7 @@ permalink: /education/
 navigation_weight: 4
 ---
 
+<br/>
 
 **Academic Degrees**  
 
@@ -32,8 +33,6 @@ and printed editions in Central and Mediterranean Europe during the Middle Ages 
 4 years (240 ECTS), Bachelor (Ptychion)  
 Department of Fine Arts and Art Sciences, University of Ioannina, Greece  
 *Thesis: Roma Folktales: Ideology, Representations and Narrative Function (Supervisor: Christos Dermentzopoulos, Professor of Anthropology of Art, Cultural and Film Studies, School of Fine Arts, University of Ioannina)*
-
-<br/>
 
 <br/>
 
@@ -86,7 +85,6 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 <br/>
 
 
-
 **Distant Learning – Courses**  
 
 ---  
@@ -113,7 +111,6 @@ Coursera platform, Instructor: Dr. Jean-Paul Restoule, Associate Professor, Depa
 Coursera platform, Instructor: Dr. Steve Everett, Professor, Department of Music, Emory University
 
 <br/>
-
 
 
 **Music Degrees**  
