@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Limits of Utopia in outer space: Contemporary sci-fi art representations"
+title:  "Limits of Utopia in outer space: Sci-fi representations of contemporary audiovisual art"
 date:   2013-03-11
 tags:
 ---
