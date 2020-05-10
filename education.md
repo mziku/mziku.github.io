@@ -92,7 +92,7 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 
 - **'Socially Engaged Art Projects: Community and Participation'** 07. – 28.08.2019 (1 month - online)  
 Node Center for Curatorial Studies, Berlin, Germany, Instructor: Stine Marie Jacobsen
-- **'BEST Soft Skills Track'** 28.02– 04.04.2019 (1.5 months - physical presence)  
+- **'BEST Soft Skills Track'** 28.02 – 04.04.2019 (1.5 months - physical presence)  
 BEST Board of European Students of Technology non-profit organization, KU Leuven, compilation of 30 participants.
 Organizer and Track Responsible: Jasper Rots
 - **'Documentation for Intangible Cultural Heritage'** 06 – 10.08.2018 (5 days - physical presence)  
@@ -105,7 +105,7 @@ OpenHPI platform, Organization: Hasso Plattner Institute, Instructor: Dr. Harald
 National and Kapodistrian University of Athens, Instructor: Dr. Panagiotis E. Petrakis, Professor
 - **'Survey of Music Technology'** 26.08. – 22.11.2013 (3 months - online)  
 Coursera platform, Instructor: Dr. Jason Freeman, Associate Professor, School of Music, Georgia Institute of Technology
-- **'Aboriginal Worldviews in Education'** 05.03. - 05.04.2013 (1 month - online)  
+- **'Aboriginal Worldviews in Education'** 05.03. – 05.04.2013 (1 month - online)  
 Coursera platform, Instructor: Dr. Jean-Paul Restoule, Associate Professor, Department of Leadership, Higher and Adult Education, University of Toronto
 - **'Introduction to Digital Sound Design'** 28.01. – 30.05.2013 (5 months - online)  
 Coursera platform, Instructor: Dr. Steve Everett, Professor, Department of Music, Emory University
