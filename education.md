@@ -42,9 +42,9 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 ---
 <br>
 
-- **KU Leuven Libraries, Digitisation Department** – Leuven, Belgium  
+- **KU Leuven Libraries, University Library Digitisation Department** – Leuven, Belgium  
 *(Occupation: Postgraduate Researcher, Trainee in Open Access Digital Cultural Heritage, 2019 / KU Leuven, Promotor: Dr. Nele Gabriels)*
-- **transmediale** – Berlin Germany  
+- **transmediale - art & digital culture** – Berlin Germany  
 *(Occupation: Assistant Curator, Multimedia archivist, 2013-2014 / Vocational Training- EU Programme 'Leonardo da Vinci', Curator: Sandra Naumann)*
 - **Egyptian Center for Culture and Arts, Makan** – Cairo, Egypt  
 *(Occupation: Postgraduate Researcher, Audio archivist, 2013 / German University in Cairo, Egypt / AIESEC University of Macedonia, Greece, Director: Dr. Ahmed El-Maghraby)*
