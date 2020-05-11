@@ -9,7 +9,7 @@ navigation_weight: 3
 
 ---
 <br>
-- Ziku, Mariana; Gabriels, Nele. [*A minimal-computing approach for developing Git and machine-actionable GLAM open data*](https://enrichingheritage.wordpress.com/), Enriching Heritage at KU Leuven-Digitisation Department blog, KU Leuven Libraries, 2020 (forthcoming) 
+- Ziku, Mariana; Gabriels, Nele. [*A minimal-computing approach for developing Git and machine-actionable GLAM open data*](https://enrichingheritage.wordpress.com/2020/05/01/git-and-machine-actionable-data-pilot/#), Enriching Heritage at KU Leuven, University Library Digitisation Department (online), KU Leuven Libraries, 2020 
 - Ziku, Mariana. [*Digital Cultural Heritage and Linked Data: Semantically-informed conceptualisations and practices with a focus on intangible cultural heritage*](https://www.liberquarterly.eu/articles/10315/), LIBER Quarterly 2020, 30(1):1–16. ISSN 2213-056X
 - Ziku, Mariana. [*'Art theory and artificial intelligence in Greece – Documenting 30 years of a cross-disciplinary research'*](https://www.academia.edu/35189649/Art_Theory_and_Artificial_Intelligence_in_Greece_Documenting_30_years_of_a_cross-disciplinary_research) Dalila Honorato and Andreas Giannakoulopoulos (eds.), Taboo-Transgression-Transcendence in Art & Science - Conference Proceedings, Corfu: Ionian University - Department of Audio & Visual Arts, 2018 ISBN 978-960-7260-60-4
 - Kounava, Angeliki & Ziku, Mariana. [*'Ποιο το νόημα να κάνουμε εκθέσεις; Μια απάντηση από το 2030'*](https://kaleidoscope.gr/el/tetradia-mouseiologias/tetradia11--11-523.html) (Translation of Nora's Sternfeld essay 'Why exhibit at all? An answer from the year 2030')  
