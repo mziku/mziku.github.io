@@ -8,11 +8,12 @@ tags:
 
 <p><img src="https://mziku.github.io/images/gif morphologies of a copyleft tale.gif" style="margin-top:2mm; margin-right:3mm; margin-bottom:5mm; margin-left:0;" alt="gif morphologies of a copyleft tale" width="600" height="" align="center"><br><i></i></p>
 
-“GIF: Morphologies of a copyleft tale – Patterns & techniques of silent looping images” was a digital exhibition realised as part of the activities of Moving Silence in Thessaloniki, the Berlin based network for contemporary silent film and live sound.
+“GIF: Morphologies of a copyleft tale – Patterns & techniques of silent looping images” was a digital exhibition realised as part of the activities of [Moving Silence in Thessaloniki](http://technoviking.tv/movingsilence.net/2017-03-10-thessaloniki.html), the Berlin based network for contemporary silent film and live sound.
 
-Visit the online exhibition version [here](https://mziku.github.io/morphologies-of-a-copyleft-tale/home.html).
+**Visit the online exhibition version [here](https://mziku.github.io/morphologies-of-a-copyleft-tale/home.html).**
 
- 
+<br>
+<br>
 
 *Curatorial Statement*
 
@@ -26,9 +27,14 @@ GIFs reflect a contemporary analogous of collective narrative creations from a v
 
 ‘GIF: Morphologies of a copyleft tale’ is non-material, realized as a pop-up digital exhibition in virtual format which exists only locally, within the physical space of CACT during the Moving Silence events. The exhibition infrastructure is coded and hosted on the open source file distribution tool Librarybox. The audience can easily enter the opened up local network (no internet access) and explore the exhibition in their personal devices (smartphones, tablets).
 
+<br>
+<br>
+
 
 <p><img src="https://mziku.github.io/images/gif morphologies of a copyleft tale 1.JPG" style="margin-top:2mm; margin-right:3mm; margin-bottom:5mm; margin-left:0;" alt="gif morphologies of a copyleft tale" width="600" height="" align="center"><br><i></i></p>
 <p><img src="https://mziku.github.io/images/gif morphologies of a copyleft tale 2.JPG" style="margin-top:2mm; margin-right:3mm; margin-bottom:5mm; margin-left:0;" alt="gif morphologies of a copyleft tale" width="600" height="" align="center"><br><i></i></p>
+
+<br>
 
 *CREDITS*
 
@@ -39,7 +45,7 @@ GIF Exhibition by Mariana Ziku
 
 The exhibition is a collaboration with the HMKW University of Applied Sciences and the DER FILTER Team in Berlin. The digital infrastructure is put together and hosted on the open source software Librarybox.
 
-A production with the financial and organizational support of Goethe-Institut Thessaloniki. Co-organized with the State Museum of Contemporary Art (SMCA) & the Contemporary Art Center in Thessaloniki (CACT).
+A production with the financial and organizational support of [Goethe-Institut Thessaloniki](https://www.goethe.de/ins/gr/de/sta/the.html?wt_sc=thessaloniki). Co-organized with the [State Museum of Contemporary Art (SMCA)](https://www.greekstatemuseum.com/kmst/pressroom/article/1221.html) & the [Contemporary Art Center in Thessaloniki (CACT)](https://www.cact.gr/en/news/movingsilence).
 
 <br>
 
