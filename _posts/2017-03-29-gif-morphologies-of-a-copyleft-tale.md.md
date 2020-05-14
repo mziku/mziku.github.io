@@ -6,7 +6,7 @@ tags:
 ---
 
 
-<p><img src="https://mziku.github.io/images/gif morphologies of a copyleft tale.gif" style="margin-top:2mm; margin-right:3mm; margin-bottom:5mm; margin-left:0;" alt="gif morphologies of a copyleft tale" width="600" height="" align="center"><br><i></i></p>
+<p><img src="https://mziku.github.io/images/gif morphologies of a copyleft tale.gif" style="margin-top:2mm; margin-right:3mm; margin-bottom:5mm; margin-left:0;" alt="gif morphologies of a copyleft tale" width="500" height="" align="center"><br><i></i></p>
 
 “GIF: Morphologies of a copyleft tale – Patterns & techniques of silent looping images” was a digital exhibition realised as part of the activities of [Moving Silence in Thessaloniki](http://technoviking.tv/movingsilence.net/2017-03-10-thessaloniki.html), the Berlin based network for contemporary silent film and live sound.
 
