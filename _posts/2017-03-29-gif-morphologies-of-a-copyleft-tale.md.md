@@ -36,7 +36,7 @@ GIFs reflect a contemporary analogous of collective narrative creations from a v
 
 <br>
 
-*CREDITS*
+*Credits*
 
 Artistic direction and curation of international film program by Matthias Fritsch (co-founder of Moving Silence)
 Music program editing & coordination in Thessaloniki by Eirini Papakonstantinou (curator at SMCA)
