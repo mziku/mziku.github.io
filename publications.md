@@ -14,7 +14,7 @@ navigation_weight: 3
 - Ziku, Mariana. [*'Art theory and artificial intelligence in Greece – Documenting 30 years of a cross-disciplinary research'*](https://www.academia.edu/35189649/Art_Theory_and_Artificial_Intelligence_in_Greece_Documenting_30_years_of_a_cross-disciplinary_research) Dalila Honorato and Andreas Giannakoulopoulos (eds.), Taboo-Transgression-Transcendence in Art & Science - Conference Proceedings, Corfu: Ionian University - Department of Audio & Visual Arts, 2018 ISBN 978-960-7260-60-4
 - Kounava, Angeliki & Ziku, Mariana. [*'Ποιο το νόημα να κάνουμε εκθέσεις; Μια απάντηση από το 2030'*](https://kaleidoscope.gr/el/tetradia-mouseiologias/tetradia11--11-523.html) (Translation of Nora's Sternfeld essay 'Why exhibit at all? An answer from the year 2030')  
 Τετράδια Μουσειολογίας (Museology Notebooks), Issue 11, 05.2018. ISSN 1790-0980
-- Ziku, Mariana. [*'The under-determination in PolyXene Kasda's work'*](https://lekseikones.wordpress.com/2016/07/26/the-under-determination-in-poly-kasdas-work/) book introduction of Poly Kasda's 'When that word swallowed me', Sphinx Publications, Athens 2016 ISBN 978-960-9511-42-1
+- Ziku, Mariana. [*'The under-determination in PolyXene Kasda's work'*](https://lekseikones.wordpress.com/2016/07/26/the-under-determination-in-poly-kasdas-work/) book presentation (Kontos, John & Kasda, and. (2015). Artificial Intelligence Professor John Kontos Needles Poly Kasda's Conscious Eye", ISBN 978-9609511285), Books’ Archway (Στοά του Βιβλίου), 2016
 - Ziku, Mariana. [*'Jiggling Golems, the art of GIF: An 'immaterial' exhibition for silent moving images'*](https://lekseikones.wordpress.com/2015/04/08/jiggling-golems-the-art-of-gifs), curatorial text, Moving Silence Festival, Goethe-Institut Athens, 03.2015
 - Ziku, Mariana. [*'Ripping into the realtime: The fizz & mods of 'let's play' poetics'*](http://interartive.org/2015/11/ripping-into-the-realtime-lets-play/) Interartive 2015; 79:1-3. ISSN 2013-679X
 - Ziku, Mariana. [*'Τracing collective memory and improvisational musical poetry in contemporary urban space'*](http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/) curatorial statement, The Art Foundation (online), 19.02.2013
@@ -29,8 +29,8 @@ navigation_weight: 3
 
 <br>
 
-- [forthcoming, 2021] Ziku, Mariana; Kounava, Angeliki. *The Art of Curatorial Theory* (preliminary title), Greece
-- [forthcoming 2020] Dermentzopoulos, Christos; Ziku, Mariana. (eds.), *Tradition anew! Biennale of Western Balkans*. Ioannina: History of Art Laboratory, University of Ioannina, 2020.
+- Ziku, Mariana; Kounava, Angeliki. *The Art of Curatorial Theory* (preliminary title), Greece [forthcoming, 2021]
+- Dermentzopoulos, Christos; Ziku, Mariana. (eds.), *Tradition anew! Biennale of Western Balkans*, History of Art Laboratory, University of Ioannina, 2020. [forthcoming]
 - Ziku, Mariana. [*Micro-cinema of Attractions: GIF art imageries and creative techniques*](https://drive.google.com/drive/folders/0B0UjNhiCkNpkN0pPU2ZVX3BzVFU), ARTos Foundation (PDF, interactive EPUB, print), Cyprus 2017. ISBN 978-9963-8703-8-7
 
 <br>
@@ -57,8 +57,9 @@ navigation_weight: 3
 
 <br/>
 
+- Alliance of Digital Humanities Organizations (ADHO)
 - Europeana Network Association
 - Greek Digital Humanities Research Network  
 - [Association of Greek Art Historians](https://eeit.org)
 - [Digital Art History Society (DAHS)](https://digitalarthistorysociety.org)
-- History of Art Laboratory (HAL), University of Ioannina, Greece
+- History of Art Laboratory, University of Ioannina, Greece
