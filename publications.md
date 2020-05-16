@@ -62,4 +62,4 @@ navigation_weight: 3
 - Greek Digital Humanities Research Network  
 - [Association of Greek Art Historians](https://eeit.org)
 - [Digital Art History Society (DAHS)](https://digitalarthistorysociety.org)
-- History of Art Laboratory, University of Ioannina, Greece
+- History of Art Laboratory, School of Fine Arts, University of Ioannina, Greece
