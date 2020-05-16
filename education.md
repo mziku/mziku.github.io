@@ -58,7 +58,7 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 <br/>
 
 - Funds: Project Proposal for the Biennale of Western Balkans (Hellenic Ministry of Culture and Sports, Region of Epirus, Municipality of Ioannina), Greece 2018
-- Grant: Enterprise proposal in 'Competitiveness, Entrepreneurship and Innovation 2014-2020' Ministry of Economy and 	Education, (100% subsidy), 2nd place in the cultural & creative industries sector in Athens (among over 16.000 	submissions), Greece 2017
+- Grant: Enterprise proposal in 'Competitiveness, Entrepreneurship and Innovation 2014-2020' Ministry of Economy and 	Education, (100% subsidy), 2nd place in the cultural & creative industries sector in Athens (among aprox. 16.000 	submissions), Greece 2017
 - Scholarship: 1st place in Leonardo da Vinci European Programme, Germany 2014
 - Awarded curatorial proposal: 1st Open Call for Interdisciplinary Projects and Applied Arts, The Art Foundation, Greece 2013
 - Scholarship: Highest score in Master entry admission tests and highest graduation grade, Greece 2011
