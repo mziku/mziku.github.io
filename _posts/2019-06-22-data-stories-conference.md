@@ -7,7 +7,7 @@ tags: digital communities, data visualization, community-based curation, grassro
 ---
 
 <p><a href="https://docs.google.com/presentation/d/1sQaYd1bFR-ZYSxZwsX-YsYZ73hLd-qXyDObXppjCXok/edit?usp=sharing"><img src="https://mziku.github.io/images/data-stories-mariana-ziku.jpg" style="margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="data-stories-mariana-ziku" width="750" height="auto" align="center"></a></p>
-*My oral presentation "Datafying and visualising digital community imaginaries - An experimental approach" in the conference "Data-stories: New Media Aesthetics and Rhetorics for Critical Digital Ethnography", the 1st Greek confestival (conference & festival). Click [here](https://docs.google.com/presentation/d/1sQaYd1bFR-ZYSxZwsX-YsYZ73hLd-qXyDObXppjCXok/edit#slide=id.p) to view the slides of the presentation. CC-BY 4.0*   
+*My oral presentation "Datafying and visualising digital community imaginaries - An experimental approach" in the conference "Data-stories: New Media Aesthetics and Rhetorics for Critical Digital Ethnography", the 1st Greek confestival (conference & festival). Click [here](https://docs.google.com/presentation/d/1sQaYd1bFR-ZYSxZwsX-YsYZ73hLd-qXyDObXppjCXok/edit?usp=sharing) to view the slides of the presentation. CC-BY 4.0*   
 
   
   
