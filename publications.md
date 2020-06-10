@@ -30,7 +30,7 @@ navigation_weight: 3
 <br>
 
 - Ziku, Mariana; Kounava, Angeliki. *The Art of Curatorial Theory* (preliminary title), Greece [forthcoming, 2021]
-- Dermentzopoulos, Christos; Ziku, Mariana. (eds.), *Tradition anew! Biennale of Western Balkans*, History of Art Laboratory, University of Ioannina, 2020. [forthcoming]
+- Dermentzopoulos, C. & Ziku, M. (eds.) (2020). Tradition anew! Biennale of Western Balkans. History of Art Laboratory, School of Fine Arts, University of Ioannina. ISBN 978-960-233-251-1 [forthcoming]
 - Ziku, Mariana. [*Micro-cinema of Attractions: GIF art imageries and creative techniques*](https://drive.google.com/drive/folders/0B0UjNhiCkNpkN0pPU2ZVX3BzVFU), ARTos Foundation (PDF, interactive EPUB, print), Cyprus 2017. ISBN 978-9963-8703-8-7
 
 <br>
