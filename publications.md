@@ -32,8 +32,8 @@ navigation_weight: 3
 <br>
 
 - Ziku, Mariana, and Kounava, Angeliki. *The Art of Curatorial Theory* (preliminary title), Greece [forthcoming, 2021]
-- Κασδά, Πολυξένη; *Το Συνειδητό Μάτι 1987/2020: Αντίληψη - Τέχνη - Πληροφορική, Επιμέλεια - εισαγωγή Μ. Ζήκου*. (The Conscious Eye 1987/2020: Perception - Art - Informatics, Edited - preamble M. Ziku) Εργαστήριο Ιστορίας της Τέχνης, Σχολή Καλών Τεχνών, Πανεπιστήμιο Ιωαννίνων, 2020. [forthcoming]
-- Dermentzopoulos, Christos, and Ziku, Mariana (eds.). *Tradition anew! Biennale of Western Balkans.* History of Art Laboratory, School of Fine Arts, University of Ioannina, 2020. ISBN 978-960-233-251-1 [forthcoming]
+- Κασδά, Πολυξένη; *Το Συνειδητό Μάτι 1987/2020: Αντίληψη - Τέχνη - Πληροφορική, Επιμέλεια - εισαγωγή Μ. Ζήκου*. (The Conscious Eye 1987/2020: Perception - Art - Informatics, Edited - preamble M. Ziku) Εργαστήριο Ιστορίας της Τέχνης, Σχολή Καλών Τεχνών, Πανεπιστήμιο Ιωαννίνων, 2020. ISBN 978-960-233-255-9 [forthcoming]
+- Dermentzopoulos, Christos, and Ziku, Mariana (eds.). [*Tradition anew! Biennale of Western Balkans.*](doi.org/10.5281/zenodo.4019939), History of Art Laboratory, School of Fine Arts, University of Ioannina, 2020. ISBN 978-960-233-251-1. DOI: doi.org/10.5281/zenodo.4019939
 - Ziku, Mariana. [*Micro-cinema of Attractions: GIF art imageries and creative techniques*](https://drive.google.com/drive/folders/0B0UjNhiCkNpkN0pPU2ZVX3BzVFU), ARTos Foundation (PDF, interactive EPUB, print), Cyprus 2017. ISBN 978-9963-8703-8-7
 
 <br>
