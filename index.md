@@ -4,7 +4,7 @@ layout: page
 
 <br>
 
-**Mariana Ziku** is an art historian and curator specialising in digital cultural heritage, with research focus on intangible, audiovisual and documentary heritage. Her work is related to the digital transformation of artistic/cultural heritage and participatory infrastructures. She is an advocate of open culture and knowledge.
+**Mariana Ziku** is an art historian and curator specialising in digital artistic and cultural heritage, with research focus on intangible, audiovisual and documentary heritage. She is an advocate of open culture and knowledge.
 
 She holds a MSc in Digital Humanities (Department of Computer Science, KU Leuven, Belgium), a MA in Art History/Theory and Curation, a BA in Art Sciences (Department of Fine Arts and Art Sciences, University of Ioannina, Greece) and a Certificate of specialised training in Cultural Organisations Management (Centre of Continuous Education and Training, University of Athens). She is also a musical instrument and music theory graduate in classical piano and harmony, of the Municipal Conservatory of Ioannina.
 
