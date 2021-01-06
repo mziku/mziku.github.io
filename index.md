@@ -3,7 +3,7 @@ layout: page
 ---
 
 <br>
-<p style="float: left;"><img src="https://mziku.github.io/images/Mariana Ziku-portrait-300x451px (1).jpg" style="float:left; margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="150" height="auto"></p> 
+<p style="float: left;"><img src="https://mziku.github.io/images/mziku-profile-200x300px.jpg" style="float:left; margin-top:5mm; margin-right:5mm; margin-bottom:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="150" height="auto"></p> 
 **Mariana Ziku** is a researcher in the area of cultural informatics and digital heritage. She is currently a research associate in the Intelligent Interaction RG, Department of Cultural Technology and Communication, University of the Aegean, working in the fields of crowdsourcing systems and semantic web technologies for GLAMs (Galleries, Libraries, Archives, Museums). Mariana is the co-founder and programme curator of the Biennale of Western Balkans, based in the History of Art Laboratory, University of Ioannina, where she works on promoting intangible heritage through art, technology and open knowledge. Her collaborative project on novel documentation methodologies of intangible cultural heritage in the Balkans has been funded by the Creative Europe Programme. 
 <br>
 <br>
