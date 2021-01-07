@@ -21,7 +21,6 @@ navigation_weight: 3
 - Ziku, Mariana. ["Ripping into the realtime: The fizz & mods of 'let's play' poetics."](http://interartive.org/2015/11/ripping-into-the-realtime-lets-play/) *Interartive*, no.79, 2015, pp. 1-3. ISSN 2013-679X
 - Ziku, Mariana. [*"Τracing collective memory and improvisational musical poetry in contemporary urban space."*](http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/) curatorial statement, The Art Foundation (online), 19.02.2013.
 - Ziku, Mariana. ["Visualization of Evil – Image and text relations in the printed editions of the Grimm Tales."](https://www.academia.edu/2482774/Visualization_of_Evil_muted_women_horror_and_censorship_in_19th_and_20th_century_Grimm_Tales) *The Brothers Grimm and the folktale: narrations, readings, transformations, National and Kapodistrian University of Athens, 22.-24.11.2012, Athens,* pp. 1-11.
-- Ziku, Mariana. ["Limits of Utopia in outer space: Sci-fi representations of contemporary audiovisual art."](https://www.academia.edu/1906443/Limits_of_Utopia_in_outer-space_Contemporary_sci-fi_art_representations) *Interartive*, no.41, 2012, pp. 1-6. ISSN 2013-679X
 	
   <br>
   
