@@ -92,7 +92,7 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 
 - **'Knowledge Graphs'** 27.10 – 15.12.2020 (2 months – online)  
 OpenHPI platform, Hasso Plattner Institute, Germany. Instructor: Dr. Harald Sack, Dr. Mehwish Alam
-- **'‘Anthropology and digital cultures: Social, political and economic dimensions’'** 19.10 – 14.12.2020 (2 months - online)  
+- **'Anthropology and digital cultures: Social, political and economic dimensions'** 19.10 – 14.12.2020 (2 months - online)  
 Transdisciplinary Institute for Environmental and Social Sciences, Greece. Instructor: Dr. Petros Petridis
 - **'Socially Engaged Art Projects: Community and Participation'** 07. – 28.08.2019 (1 month - online)  
 Node Center for Curatorial Studies, Berlin, Germany, Instructor: Stine Marie Jacobsen
