@@ -5,7 +5,7 @@ permalink: /experience/
 navigation_weight: 2
 ---
 + [**CitizenHeritage, Web2Learn**](https://www.citizenheritage.eu)  
-*Occupation: Research associate, Digital Cultural Heritage, participatory practices. Erasmus+ project, 2021-23*  
+*Occupation: Research associate, Digital Cultural Heritage. Erasmus+ project, 2021-23*  
 The European project "CitizenHeritage: Citizen Science Practices in Cultural Heritage: towards a Sustainable Model in Higher Education" aims to leverage citizen science practices in the cultural heritage sector and make them sustainable at universities. The project aims to test how the latest technological innovations to manage digital cultural heritage can support and enhance Citizen Science participation, both from a pedagogical and heritage perspective.
 
 + [**European ARTificial Intelligence Lab, Onassis Foundation**](https://ars.electronica.art/ailab/en)  
