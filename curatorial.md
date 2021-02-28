@@ -10,7 +10,7 @@ navigation_weight: 1
 ---  
 <br/>
 [**Art Pluriverse: A Community Science Series**](https://bowb.org) (Community Science project – Curator)  
-*__Venue__: Online and physical settings (COVID-19 restrictions), 2020*  
+*__Venue__: Online settings (COVID-19 restrictions), 2020*  
 *__Partners__: Biennale of Western Balkans, History of Art Laboratory-University of Ioannina, National Documentation Centre, Wikimedia Community User Group Greece, Balkan Museum Network, inDICEs, The Athens Zine Bibliotheque*  
 *__Fund__: Creative Commons, Ministry of Culture in Greece*  
 Art Pluriverse is a community science project conceived as annual editions on intangible cultural heritage, art and open knowledge. The project aims to uplift intangible heritage and empower communities of practice, by documenting their cultural knowledge in open, ethical and participatory ways. The 1st edition opens a month-long online programme of collective actions, focusing on textile communities and their artistic heritage in Greece and the wider Balkan region. The programme supports the co-creation of research-based artworks through artist-community synergies and includes an online course for developing digital community archives based on FAIR, CARE and Open GLAM practices. 
