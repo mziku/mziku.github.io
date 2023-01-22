@@ -5,7 +5,7 @@ permalink: /experience/
 navigation_weight: 2
 ---
 + **Research Associate**, 2023  
-[The GLAMers: Enhancing GLAMs through youth engagement during the COVID-19 crisis](https://glamers.eu)
+[The GLAMers: Enhancing GLAMs through youth engagement during the COVID-19 crisis](https://glamers.eu)  
 Erasmus+ European Union Programme (No. 2020-1-CY02-KA227-YOU-002022)  
 
 + **Project Manager**, 2022-2024  
@@ -41,7 +41,7 @@ Creative Europe Programme, Cooperation projects (No. 597724-CREA-1-2018-1-AT-CUL
 Interreg IPA Cross-Border Cooperation Programme Greece-Albania 2014-2020, European Union  
 
 + **Cofounder, Programme Curator**, 2018-  
-[Biennale of Western Balkans (BoWB)](https://bowb.org)
+[Biennale of Western Balkans (BoWB)](https://bowb.org)  
 Ministry of Culture and Sports
 Director: Dr Christos Dermentzopoulos   
 
@@ -50,15 +50,15 @@ METamorphosis artnet, Cultural Development office
 National Strategic Reference Framework (NSRF) - Operational Program Competitiveness, Entrepreneurship and Innovation 2014-2020, European Union (No. MIS 5008713)
 
 + **Project Associate, Museum Curator**, 2016  
-[FACE: For Active Cultural and Extreme Cross-Border Region](http://www.ipa-cbc-programme.eu)
+[FACE: For Active Cultural and Extreme Cross-Border Region](http://www.ipa-cbc-programme.eu)  
 Interreg IPA Cross-Border Cooperation Programme 2007-2013 Greece-North Macedonia, European Union
 
 + **Curator of Digital and Audiovisual Culture**, 2015-2016  
-[European Capital of Culture 2021 Greece, Art Direction Department, Candidacy of Ioannina-Epirus](https://ec.europa.eu/programmes/creative-europe/actions/capitals-culture_en)     
+[European Capital of Culture 2021 Greece, Art Direction Department, Candidacy of Ioannina-Epirus](https://ec.europa.eu/programmes/creative-europe/actions/capitals-culture_en)  
 Director: Dr Maria Stratsani
 
 + **Museum Curator, Administrative Assistant**, 2015  
-[Municipal Art Gallery of Ioannina](https://www.facebook.com/PinakothikiIoanninon)
+[Municipal Art Gallery of Ioannina](https://www.facebook.com/PinakothikiIoanninon)  
 Director: Kleopatra Exarchou   
 
 
