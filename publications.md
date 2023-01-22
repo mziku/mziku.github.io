@@ -8,6 +8,7 @@ navigation_weight: 3
 **Conference Presentations** 
 
 ---
+<br>
 Ziku, M., & Fabos, B. (2023, March 2).  Openness and the Digital Transformation of Community Heritage: A Data-driven Study. Community and Digitisation: the new drivers of cultural heritage (Organised by: inDICEs H2020 project), Rome, Italy [Hybrid].  
 
 Ziku, M., & Zourou, K. (2022, November 7–11). Citizen and Open Science Practices in Cultural Heritage: Analysing the Openness Scope through a Nine-Factor Typology. EUROMED2022 (Organised by: Digital Heritage Research Lab, Cyprus University of Technology), Nicosia, Cyprus [Hybrid].  
@@ -50,6 +51,7 @@ Ziku, M. (2009, October 31). Local Narratives and Interpretations of Cultural He
 **Books / Book Chapters / Catalogues / Studies Publications** 
 
 ---
+<br>
 [forthcoming] Ζήκου, Μ., Λεβεντάκη, Ε. & Δερμεντζόπουλος, Χ. (2023). Η άυλη πολιτισμική κληρονομιά ως ανοικτή γνώση (Intangible Cultural Heritage as Open Knowledge). Σε Παπαδάκη, Ε. (Eπ.), Η ψηφιακή επικοινωνία στον πολιτισμό: Το ελληνικό παράδειγμα. Εκδόσεις Κριτική.  
 
 [forthcoming] Ζήκου, Μ. (Επ.) (2023). Το Συνειδητό Μάτι 1988/2022: Αντίληψη - Τέχνη - Πληροφορική (The Conscious Eye 1988/2022: Perception - Art - Informatics) History of Art Laboratory, University of Ioannina. ISBN 978-960-233-255-9  
@@ -73,6 +75,7 @@ Ziku, M. (2017). Micro-cinema of Attractions: GIF art imageries and creative tec
 **Publications in Peer-reviewed Journals and Conference Proceedings**
 
 ---
+<br>
 [forthcoming] Ziku, M., & Zourou, K. (2023). Citizen and Open Science Practices in Cultural Heritage: Analysing the Openness Scope through a Nine-Factor Typology. Lecture Notes in Computer Science (LNCS), Springer Nature.  
 
 [forthcoming] Zourou, K. & Ziku, M. (2023). Transcribathons as citizen science projects: a comparative analysis of European initiatives. In D. Stört (Ed.), Partizipative Transkriptionsprojekte, Museum für Naturkunde (MfN) – Leibniz-Institut für Evolutions- und Biodiversitätsforschung.  
@@ -93,6 +96,7 @@ Ziku, M., & Kounava, A. (2018). Ποιο το νόημα να κάνουμε ε�
 **Articles & presentations in Web-based Platforms**
 
 ---
+<br>
 Ziku, M. & Fabos, B. (2023). Digital Community Heritage and Open Access - Short report. Creative Commons Medium. https://medium.com/creative-commons-we-like-to-share/digital-community-heritage-and-open-access-7e3477ef2131  
 
 Ziku, M., & Fabos, B. (2022). Digital Community Heritage and Open Access. CC Open Culture Working Group Digital Community Heritage. Creative Commons. https://doi.org/10.21428/9eb74dbf.0c46e6be  
@@ -110,6 +114,7 @@ Ziku, M. (2013, February 19). Τracing collective memory and improvisational mus
 **Other Publications / Contributions**
 
 ---
+<br>
 Ziku, M. (2023). Open innovation as response in cultural heritage crises and the role of academia-society cooperation [Learning unit]. In S. Oikonomou & K. Zourou Open innovation in academia-society cooperation: examples of cultural heritage preservation in a crisis situation [E-learning module]. eCHOing project - Erasmus+ European Union Programme.  
 
 Oikonomou, S., Zourou, K., & Ziku, M. (2022). Visitors as active citizens: Enhancing public participation in actions of cultural institutions for climate change [Collection of resources]. The GLAMers project - Erasmus+ European Union Programme.  
@@ -126,6 +131,7 @@ Ziku, M. (Transl.) (2020, Oct 14). Europeana Public Domain Usage Guidelines Gree
 **Invited Presentations / Panels / Moderation**
 
 ---
+<br>
 Ziku M. (Invited Speaker)  
 Title	Crowdsourcing and Open Data in Intangible Cultural Heritage  
 Venue	Digital Art History Coffee Talks, Digital Art History Summer School (DAHSS), 28.05.2022 [Virtual].  
@@ -153,6 +159,7 @@ Venue	Artificial Intelligence Professor John Kontos Needles Poly Kasda's Conscio
 **Interviews and other Media Highlights**
 
 ---
+<br>
 Oral interview in the Venture Alliances platform, as part of the interview series to academic and business experts on business-academia innovation from the cultural field (Nov. 2022) https://venturealliances.eu   
 
 Featured in the report by the Creative Commons Organization “What are the barriers to Open Culture” addressed to international experts in the open culture movement (July 2022) https://creativecommons.org/wp-content/uploads/2022/07/3.Final-Barriers-Report_compressed.pdf   
