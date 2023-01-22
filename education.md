@@ -5,9 +5,7 @@ permalink: /education/
 navigation_weight: 1
 ---
 
-<br/>
-
----  
+<br/> 
 
 <br/>
 - **PhD Candidate**  
