@@ -4,53 +4,62 @@ title: Experience
 permalink: /experience/
 navigation_weight: 2
 ---
-+ [**CitizenHeritage, Web2Learn**](https://www.citizenheritage.eu)  
-*Occupation: Research associate, Digital Cultural Heritage. Erasmus+, 2021-23*  
-The European project "CitizenHeritage: Citizen Science Practices in Cultural Heritage: towards a Sustainable Model in Higher Education" aims to leverage citizen science practices in the cultural heritage sector and make them sustainable at universities. The project aims to test how the latest technological innovations to manage digital cultural heritage can support and enhance Citizen Science participation, both from a pedagogical and heritage perspective.
++ [**Research Associate**](https://echo-heritage.eu](https://glamers.eu), 2023  
+The GLAMers: Enhancing GLAMs through youth engagement during the COVID-19 crisis  
+Erasmus+ European Union Programme (No. 2020-1-CY02-KA227-YOU-002022)  
 
-+ [**European ARTificial Intelligence Lab, Onassis Foundation**](https://ars.electronica.art/ailab/en)  
-*Occupation: Project associate, Digital humanities specialist. Athens, 2020*  
-The research and educational programme "Archives in Transit, from the world of libraries to artificial intelligence" examines collaborative and art-based practices for experiencing digitised heritage collections with the use of semantic web technologies and computational tools. The programme is part of the European ARTificial Intelligence Lab, Ars Electronica and funded by the Creative Europe Programme. 
++ [**Project Manager**](https://echo-heritage.eu), 2022-2024  
+ECHO III: European Cultural Heritage Onstage, For Memory’s Sake  
+Creative Europe Programme: European Cooperation Projects (No. 101056213)  
 
-+ [**Interreg IPA CBC Greece-Albania 2014-2020**](https://greece-albania.eu)  
-*Occupation: Museum technology project editor, Museum curator. Greece - Albania, 2019-2020*  
-Digital cultural heritage and museum technology project with integration of new audiovisual media, funded by the European Union. Aimed for the preservation and promotion of the cross-border cultural and natural heritage.   
++ [**Research Associate**](https://heidiproject.eu), 2022  
+HEIDI: Digital Actions at HEIs as a catalyst for social change in the COVID-19 crisis  
+Erasmus+ European Union Programme (No. 2020-1-UK01-KA226-HE-094667)  
 
-+ [**Biennale of Western Balkans (BoWB)**](https://bowb.org)  
-*Occupation: Co-founder, Programme curator. Greece - Western Balkans, 2018-ongoing*  
-Multi-funded arts and cultural organisation, co-organized by the History of Art Laboratory-University of Ioannina and the Directorate of Modern Cultural and Intangible Cultural Heritage-Ministry of Culture in Greece. Its vision is to promote intangible heritage through art, technology and open knowledge.  
-Director: Dr. Christos Dermentzopoulos   
++ [**Research Associate**](https://www.citizenheritage.eu), 2021-2022  
+CitizenHeritage: Citizen Science Practices in Cultural Heritage: Towards a Sustainable Model in Higher Education  
+Erasmus+ European Union Programme (No. 2020-1-BE02-KA203-07427)
 
-+ **METamorphosis artnet, Cultural Development office**   
-*Occupation: Managing partner, Digital cultural heritage specialist. Athens, 2017-2018*  
-Business proposal selected for full funding by the sectoral programme of the Greek Ministry of Economy and Development 'Competitiveness, Entrepreneurship and Innovation 2014-2020', subsidised by the European Union. The proposal ranked in the top 10 general proposals in Athens and 2nd out of the creative-cultural industries (out of approx. 16.000 applications).  
++ [**Research Associate**](http://ii.ct.aegean.gr/aegeana), 2021-2023  
+e-Aegean CulTour: Interregional Digital Transformation of the Aegean Archipelago in Culture and Tourism, Centre for Integrated Digital Cultural Heritage Management “AegeanA”  
+National Strategic Reference Framework (NSRF), Operational Program Competitiveness, Entrepreneurship & Innovation, European Union (No. MIS 5047046)
 
-+ [**IPA Cross-Border Programme Greece-North Macedonia 2007-2013**](http://www.ipa-cbc-programme.eu)  
-*Occupation: Museum technology project editor, Museum curator. Greece - North Macedonia, 2016*   
-Digital cultural heritage and museum technology project with integration of new audiovisual media in the Lake Doirani Museum, funded by the European Union. The objective was to enhance convergence in the border area by promoting sustainable local development and co-operation in the fields of cultural and natural heritage.  
++ [**Research Associate**](https://blockademic.iti.gr/en), 2021  
+BlockAdemiC: Distributed Digital Data Security Platform with Blockchain support  
+General Secretariat for Research and Technology (GSRT) Greece, Operational Program Competitiveness, Entrepreneurship & Innovation, European Union (No. 2EDK-04180)
+  
++ [**Project Manager**](https://somecallusbalkans.org), 2020-2023  
+SCUB: Some Call Us Balkans  
+Creative Europe Programme, Cultural Cooperation Projects in the Western Balkans (No. 623158-CREA-1-2020-1-IT-CULT-COOP-WB)   
 
-+ [**European Capital of Culture 2021 Greece – Art Direction Department, Candidacy of Ioannina-Epirus**](https://ec.europa.eu/programmes/creative-europe/actions/capitals-culture_en)   
-*Occupation: Personal assistant of the art director, Curator of digital culture and sound. Ioannina, 2015-2016*   
-The selection panel’s report highlighted the inventiveness of the digital-based related projects and their potential for further development.  
-Directors: Dr. Maria Stratsani, Niketi Kontouri  
++ [**Project Associate**](https://ars.electronica.art/ailab/en), 2020  
+European ARTificial Intelligence Lab - Archives in Transit: From the world of libraries to artificial intelligence  
+Creative Europe Programme, Cooperation projects (No. 597724-CREA-1-2018-1-AT-CULT-COOP2)  
 
-+ [**Municipal Art Gallery of Ioannina**](https://www.facebook.com/PinakothikiIoanninon)  
-*Occupation: Curator, Administrative assistant. Ioannina, 2015*  
-Part of the four-member commitee of the Municipal Department of Culture in the round table discussion with the Intercultural Cities Programme's (ICC) head of division.  
++ [**Project Associate, Museum Curator**](https://greece-albania.eu), 2019  
+MileSTONES II: Encouraging tourism development through the preservation and promotion of the cross border cultural and natural resources  
+Interreg IPA Cross-Border Cooperation Programme Greece-Albania 2014-2020, European Union  
+
++ [**Cofounder, Programme Curator**](https://bowb.org), 2018-  
+Biennale of Western Balkans (BoWB)
+Ministry of Culture and Sports
+Director: Dr Christos Dermentzopoulos   
+
++ **Cofounder, Managing Partner**, 2017-2018  
+METamorphosis artnet, Cultural Development office  
+National Strategic Reference Framework (NSRF) - Operational Program Competitiveness, Entrepreneurship and Innovation 2014-2020, European Union (No. MIS 5008713)
+
++ [**Project Associate, Museum Curator**](http://www.ipa-cbc-programme.eu), 2016  
+FACE: For Active Cultural and Extreme Cross-Border Region  
+Interreg IPA Cross-Border Cooperation Programme 2007-2013 Greece-North Macedonia, European Union
+
++ [**Curator of Digital and Audiovisual Culture**](https://ec.europa.eu/programmes/creative-europe/actions/capitals-culture_en), 2015-2016  
+European Capital of Culture 2021 Greece, Art Direction Department, Candidacy of Ioannina-Epirus, Ioannina Greece.   
+Director: Dr Maria Stratsani
+
++ [**Museum Curator, Administrative Assistant**](https://www.facebook.com/PinakothikiIoanninon), 2015  
+Municipal Art Gallery of Ioannina  
 Director: Kleopatra Exarchou   
 
- <br>
-  
-**Additional activity**
-
----
-
-<br>
-
-[**DATeCH 2019 – Digital Access to Textual Cultural Heritage**](http://datech.digitisation.eu/) (International Conference – Organization Assistant)  
-*__Venue__: Royal Flemish Academy of Belgium for Science and the Arts, Brussels, Belgium, 2019*  
-*__Partners__: IMPACT Centre of Competence in Digitisation, Dutch Language Institute (INT), DARIAH-BE, CLARIN*  
-International conference for the research of the digital preservation of cultural heritage, at the intersection of computer science, (digital) humanities and cultural heritage studies.  
-Organizers: Dr. Sally Chambers, Dr. Vincent Vandeghinste
 
 
