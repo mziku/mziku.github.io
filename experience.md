@@ -42,7 +42,7 @@ Interreg IPA Cross-Border Cooperation Programme Greece-Albania 2014-2020, Europe
 
 + **Cofounder, Programme Curator**, 2018-  
 [Biennale of Western Balkans (BoWB)](https://bowb.org)  
-Ministry of Culture and Sports
+Ministry of Culture and Sports  
 Director: Dr Christos Dermentzopoulos   
 
 + **Cofounder, Managing Partner**, 2017-2018  
