@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Curatorial
-permalink: /curatorial/
+title: Curation
+permalink: /curation/
 navigation_weight: 4
 ---
 <br/>
