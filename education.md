@@ -7,8 +7,6 @@ navigation_weight: 1
 
 <br/>
 
-**Academic Degrees**  
-
 ---  
 
 <br/>
