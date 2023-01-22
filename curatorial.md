@@ -11,10 +11,15 @@ navigation_weight: 1
 <br/>
 
 **“Iatrosophia: On Folk Medicine & Phytogeography - Art Pluriverse II: Community Science Series on Intangible & Natural Heritage in the Balkans”** (2021-2022)
+
 **Type**	Community science project (Virtual)
+
 **Involvement**	Organiser
+
 **Fund**	Ministry of Culture and Sports (Greece)
+
 **Partners**	Biennale of Western Balkans, Wikimedia Community User Group Greece, Network Intelligence Laboratory - University of Brasilia
+
 **Co-curators** Artemis Papageorgiou, Elli Leventaki, Katerina Zachou
 *Annual community science programme for the study and promotion of intangible & natural heritage in the Balkans, involving local communities of practice that are holders of traditional knowledge and safeguard intangible heritage practices, co-documenting them in open, educative and participatory ways based on open science principles. The project outcomes are the co-creation of open-access digital community archives through an educational course and the co-creation of participatory art-based research through artist-community synergies. This edition focused on folk medicinal traditions and local botanical knowledge in the Balkans, focusing on local communities who are holders of biocultural memory.*
 
