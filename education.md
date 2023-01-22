@@ -2,7 +2,7 @@
 layout: page
 title: Education
 permalink: /education/
-navigation_weight: 4
+navigation_weight: 1
 ---
 
 <br/>
