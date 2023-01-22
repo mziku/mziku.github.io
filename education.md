@@ -13,7 +13,7 @@ navigation_weight: 4
 
 <br/>
 - **PhD Candidate**  
-Department of Cultural Technology and Communication, Faculty of Social Sciences, University of the Aegean, Greece
+Department of Cultural Technology and Communication, Faculty of Social Sciences, University of the Aegean, Greece  
 *Thesis: Semantic Integration of Intangible Cultural Heritage via Digital Crowdsourcing Systems and Open Participatory Infrastructures*
 
 - **MSc(Hons) in Digital Humanities**  
