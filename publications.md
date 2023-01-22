@@ -5,64 +5,127 @@ permalink: /publications/
 navigation_weight: 3
 ---
 
-**Essay Publications**
-
+**Conference Presentations** 
 ---
-<br>
-- Ziku, Mariana; Leventaki, Elli; Brailas, Alexis; Maglavera, Stavroula, and Mavridis, John. "MAZI means together: An open-source “minimal computing” local network infrastructure used for cultural event organisation, fieldwork research and community-based curation." *Digital Humanities 2020 carrefours/intersections, 22-24 July 2020, Ottawa, Canada, 2020.* [forthcoming]
-- Ziku, Mariana, and Gabriels, Nele. ["Opening up a little more: A minimal-computing approach for developing Git and machine-actionable GLAM open data."](https://enrichingheritage.wordpress.com/2020/05/01/git-and-machine-actionable-data-pilot/#) *Enriching Heritage at KU Leuven*, University Library Digitisation Department, KU Leuven Libraries, 2020.
-- Ziku, Mariana. ["Digital Cultural Heritage and Linked Data: Semantically-informed conceptualisations and practices with a focus on intangible cultural heritage."](https://www.liberquarterly.eu/articles/10315/) *LIBER Quarterly*, vol.30, no.1, 2020, pp.1–16. ISSN 2213-056X
-- Ziku, Mariana. ["Art theory and artificial intelligence in Greece – Documenting 30 years of a cross-disciplinary research."](https://www.academia.edu/35189649/Art_Theory_and_Artificial_Intelligence_in_Greece_Documenting_30_years_of_a_cross-disciplinary_research) *Taboo-Transgression-Transcendence in Art & Science - Conference Proceedings, 2017, Corfu,* edited by Dalila Honorato and Andreas Giannakoulopoulos (eds.), Ionian University - Department of Audio & Visual Arts, 2018. ISBN 978-960-7260-60-4
-- Kounava, Angeliki, and Ziku, Mariana. ["Ποιο το νόημα να κάνουμε εκθέσεις; Μια απάντηση από το 2030."](https://kaleidoscope.gr/el/tetradia-mouseiologias/tetradia11--11-523.html) (Translation of Nora's Sternfeld essay 'Why exhibit at all? An answer from the year 2030')  
-*Τετράδια Μουσειολογίας (Museology Notebooks)*, Issue 11, 2018. ISSN 1790-0980
-- Ziku, Mariana. "Ψηφιακή και άυλη πολιτιστική κληρονομιά: τα ανοικτά οικοσυστήματα της συλλογικής μνήμης και της τοπικής γνώσης." (Digital and intangible cultural heritage: The open ecosystems of collective memory and local knowledge) *Καλές πρακτικές ανάδειξης του πολιτιστικού αποθέματος, Πρακτικά συνεδρίου, Ιεράπετρα 25-27 Μαίου 2018,* Μιχάλης Σκλάβος (επιμ.), Ηράκλειο. [forthcoming]
-- Ziku, Mariana. ["The under-determination in PolyXene Kasda's work."](https://lekseikones.wordpress.com/2016/07/26/the-under-determination-in-poly-kasdas-work/) *Kontos, John, and Kasda, Poly. Artificial Intelligence Professor John Kontos Needles Poly Kasda's Conscious Eye,* 2015, ISBN 978-9609511285), 06.2016, Books’ Archway, Athens. Book presentation.
-- Ziku, Mariana. [*"Jiggling Golems, the art of GIF: An 'immaterial' exhibition for silent moving images."*](https://lekseikones.wordpress.com/2015/04/08/jiggling-golems-the-art-of-gifs), curatorial text, Moving Silence Festival, Goethe-Institut Athens, 03.2015.
-- Ziku, Mariana. ["Ripping into the realtime: The fizz & mods of 'let's play' poetics."](http://interartive.org/2015/11/ripping-into-the-realtime-lets-play/) *Interartive*, no.79, 2015, pp. 1-3. ISSN 2013-679X
-- Ziku, Mariana. [*"Τracing collective memory and improvisational musical poetry in contemporary urban space."*](http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/) curatorial statement, The Art Foundation (online), 19.02.2013.
-- Ziku, Mariana. ["Visualization of Evil – Image and text relations in the printed editions of the Grimm Tales."](https://www.academia.edu/2482774/Visualization_of_Evil_muted_women_horror_and_censorship_in_19th_and_20th_century_Grimm_Tales) *The Brothers Grimm and the folktale: narrations, readings, transformations, National and Kapodistrian University of Athens, 22.-24.11.2012, Athens,* pp. 1-11.
-	
-  <br>
-  
-**Book & Catalogue Publications**
+Ziku, M., & Fabos, B. (2023, March 2).  Openness and the Digital Transformation of Community Heritage: A Data-driven Study. Community and Digitisation: the new drivers of cultural heritage (Organised by: inDICEs H2020 project), Rome, Italy [Hybrid].  
+Ziku, M., & Zourou, K. (2022, November 7–11). Citizen and Open Science Practices in Cultural Heritage: Analysing the Openness Scope through a Nine-Factor Typology. EUROMED2022 (Organised by: Digital Heritage Research Lab, Cyprus University of Technology), Nicosia, Cyprus [Hybrid].  
+Zourou, K., & Ziku, M. (2022, July 4–6). Qualification Recognition Systems Adopted by Universities: An Exploratory Data Analysis. 14th International Conference on Education and New Learning Technologies, Palma, Spain [Hybrid].  
+Ziku, M., & Zourou, K. (2021, October 18–21). Beyond Diplomas: Mapping New Forms Of Qualification Recognition At European Universities. EPIC2021. [Virtual].  
+Ziku, M., & Zourou, K. (2021, October 28–29). Transcribathons als Citizen Science Projekte: Eine vergleichende Analyse europäischer Initiativen (Transcribathons as citizen science projects: A comparative analysis of European initiatives). Partizipative Transkriptionsprojekte in Museen, Archiven, Bibliotheken (Organised by: European Citizen Science Association, Museum für Naturkunde), Berlin, Germany [Hybrid].  
+Ζήκου, Μ., Λεβεντάκη, Ε., Δερμεντζόπουλος, Χ. (2021, June 28). Η άυλη πολιτισμική κληρονομιά ως ανοικτή γνώση: Ένα εφαρμοσμένο παράδειγμα επιστήμης των πολιτών στα Βαλκάνια (Intangible cultural heritage as open knowledge: An applied example of citizen science in the Balkans). Ημερίδα Ψηφιακή επικοινωνία στον πολιτισμό και τον τουρισμό, το ελληνικό παράδειγμα (Organised by: Department of Management Science & Technology, International Hellenic University) [Virtual].  
+Ziku, M., Zourou, K., Truyen, F., Ånäs, S., & Hazan, S. (2021, March 17). Open Cultural Data in Citizen Science - Roundtable. Open Belgium 2021 International Conference [Virtual].  
+Ziku, M., & Zourou, K. (2021, March 17). Citizen enhanced open science in the cultural heritage sector: A collection of practices in Belgium. Open Belgium 2021 International Conference [Virtual].  
+Papageorgiou, A., Leventaki, E., Zachou, K., & Ziku, M. (2021, June 1). Tradition anew Biennale of Western Balkans. BIEN2021 Symposium, Kranj, Slovenia [Hybrid].  
+Ziku, M., & Kasda, P. (2020, November 26–28). Myth/Network (1990-2017): The epistemology of myth. Taboo - Transgression - Transcendence in Art & Science 2020 (Organised by: Department of Audio & Visual Arts - Ionian University, University of Applied Arts Vienna), Vienna, Austria [Hybrid].  
+Ziku, M. (2020, November 14). Ψηφιακά πληθοποριστικά συστήματα και ανοικτές συμμετοχικές υποδομές για τη σημασιολογική ενσωμάτωση της άυλης πολιτισμικής κληρονομιάς (Digital crowdsourcing systems and open participatory infrastructures for the semantic integration of intangible cultural heritage). World Usability Day 2020. (Organised by: ACM GreekSIGCHI) [Virtual].  
+Ziku, M. (2020, October 22). Developing FAIR Community-based archives with wiki tools and Open GLAM practices. CC Global Summit 2020 [Virtual]. 
+Ziku, M., Leventaki, E., Brailas, A., Maglavera, S., & Mavridis, J. (2020, June 22–24). MAZI means together: An open-source “minimal computing” local community network for cultural event organisation, fieldwork research and digital curatorial practices. DH2020 Carrefours/Intersections International Conference. (Organised by: University of Ottawa, Carleton University), Ottawa, Canada [Hybrid].  
+Ziku, M. (2019, May 31–June 2). Datafying and visualising digital community imaginaries: An experimental approach. Data-stories: New Media Aesthetics and Rhetorics for Critical Digital Ethnography Conference (Organised by: University of Thessaly, Department of History, Archaeology and Social Anthropology and the Laboratory of Social Anthropology), Volos, Greece.  
+Ziku, M. (2018, May 25–27). Digital and intangible cultural heritage: The technological ecosystems of collective memory and the commons. Good Practices in the Promotion and Management of Cultural Heritage Conference (Organised by: Church of Crete (Greece), Cultural association “Hierapytna”), Crete, Greece.  
+Ziku, M. (2017, May 26–28). An artificial intelligence toolkit under creative commons. Taboo, Transgression, Transcendence in Art & Science International Conference (Organised by: Department of Audio & Visual Arts, Ionian University), Corfu, Greece.  
+Ziku, M. (2015, April 23–May 8). Meta-Dynamics in Aesthetics. “Next Nature: Bonjour Monsieur Courbet” International Poster Presentation (Organised by: Plymouth University), Kefalonia, Greece.  
+Ziku, M. (2012, November 24). Image & Text Relations in the Printed Editions of the Grimm Tales. The Brothers Grimm and the folktale: narrations, readings, transformations International Conference (Organised by: The Faculty of Philology of National and Kapodistrian University of Athens, the Department of History, Archeology and Social Anthropology of the University of Thessaly), Athens, Greece.  
+Ziku, M. (2010, April 24). Framing Oral History through Visual Ethnography. Exploring everyday life in SE Europe: Identity, culture and representation International Student Conference (Organised by: 8th International Border Crossings Network, University of Ioannina), Zadar, Croatia.  
+Ziku, M. (2009, October 31). Local Narratives and Interpretations of Cultural Heritage. “Urania’s Gardens” Conference (Organised by: International Association Of Art (IAA) - UNESCO), Athens, Greece.  
 
+**Books / Book Chapters / Catalogues / Studies Publications** 
 ---
+[forthcoming] Ζήκου, Μ., Λεβεντάκη, Ε. & Δερμεντζόπουλος, Χ. (2023). Η άυλη πολιτισμική κληρονομιά ως ανοικτή γνώση (Intangible Cultural Heritage as Open Knowledge). Σε Παπαδάκη, Ε. (Eπ.), Η ψηφιακή επικοινωνία στον πολιτισμό: Το ελληνικό παράδειγμα. Εκδόσεις Κριτική.  
+[forthcoming] Ζήκου, Μ. (Επ.) (2023). Το Συνειδητό Μάτι 1988/2022: Αντίληψη - Τέχνη - Πληροφορική (The Conscious Eye 1988/2022: Perception - Art - Informatics) History of Art Laboratory, University of Ioannina. ISBN 978-960-233-255-9  
+Ziku, M. (2022). Non-places and biocultural memory. In B. Psarras & N. Charitonidou (Eds.), Where Do We Go From Here [Exhibition catalogue]. Primarolia Organisation. https://primarolia.com/wp-content/uploads/2022/09/Primarolia-2022.-Exhibition-catalogue.pdf   
+Zourou, K. & Ziku, M. (2022). Citizen Enhanced Open Science in Cultural Heritage - Review and analysis of practices in Higher Education. CitizenHeritage. https://doi.org/10.5281/zenodo.6875125   
+Ziku, M., Leventaki, E., Papageorgiou A., & Zachou, K. (Eds.) (2021). Art Pluriverse: A Community Science Series (1st ed.) Textile Heritage and Weaving Communities. Pluriverse Publications. https://doi.org/10.12681/pluriverse.68   
+Papageorgiou, A., Zachou, K., Ziku, M., & Leventaki. E. (2021). Art Pluriverse - Textile Month. In Z. Orel Catalogue, BIEN 2021, Layer Publishing. ISBN 978-961-94731-5-3  
+Voyiatzis, N., Stouraitis, E., & Ziku, M. (2020). Archives in Transit: From the World of Libraries to Artificial Intelligence. (Ziku, M. Trans.). ARTificial Intelligence Lab - Creative Europe Programme. Onassis Foundation. https://ec.europa.eu/programmes/creative-europe/project-result-content/f5031bbd-3f62-40b0-b928-4c20d283adfb/Archives_in_transit_Digital_materials_for_educators-2020-21_eng.pdf   
+Βογιατζής, Ν., Στουραΐτης, Ε., & Ζήκου, Μ. (2020). Αρχεία σε αλλαγή: Από τον κόσμο των βιβλιοθηκών στην τεχνητή νοημοσύνη. Ίδρυμα Ωνάση. https://onassiswebdata.blob.core.windows.net/prod/documents/Archives_in_transit_Digital_materials_for_educators-2020-21_gr.pdf   
+Dermentzopoulos, C., & Ziku, M. (Eds.) (2020). Tradition anew! Biennale of Western Balkans. History of Art Laboratory, University of Ioannina. ISBN 978-960-233-251-1. https://doi.org/10.5281/zenodo.4019939      
+Ziku, M. (2017). Micro-cinema of Attractions: GIF art imageries and creative techniques. ARTos Foundation. Cyprus 2017. ISBN 978-9963-8703-8-7  
 
-<br>
-
-- Ziku, Mariana, and Kounava, Angeliki. *The Art of Curatorial Theory* (preliminary title), Greece [forthcoming, 2021]
-- Κασδά, Πολυξένη; *Το Συνειδητό Μάτι 1987/2020: Αντίληψη - Τέχνη - Πληροφορική, Επιμέλεια - εισαγωγή Μ. Ζήκου*. (The Conscious Eye 1987/2020: Perception - Art - Informatics, Edited - preamble M. Ziku) Εργαστήριο Ιστορίας της Τέχνης, Σχολή Καλών Τεχνών, Πανεπιστήμιο Ιωαννίνων, 2020. ISBN 978-960-233-255-9 [forthcoming]
-- Voyiatzis, Nikos; Stouraitis, Elias; Ziku, Mariana. [*Archives in transit: From the world of libraries to artificial intelligence*](https://www.onassis.org/cms/documents/413/Archives_in_transit_Digital_materials_for_educators-2020-21_eng.pdf). Onassis Foundation - AI LAB, 2020.
-- Dermentzopoulos, Christos, and Ziku, Mariana (eds.). [*Tradition anew! Biennale of Western Balkans*](https://zenodo.org/record/4019940). History of Art Laboratory, School of Fine Arts, University of Ioannina, 2020. ISBN 978-960-233-251-1. DOI: doi.org/10.5281/zenodo.4019939
-- Ziku, Mariana. [*Micro-cinema of Attractions: GIF art imageries and creative techniques*](https://drive.google.com/drive/folders/0B0UjNhiCkNpkN0pPU2ZVX3BzVFU), ARTos Foundation (PDF, interactive EPUB, print), Cyprus 2017. ISBN 978-9963-8703-8-7
-
-<br>
-
-**Conference Presentations**
-
+**Publications in Peer-reviewed Journals and Conference Proceedings**
 ---
+[forthcoming] Ziku, M., & Zourou, K. (2023). Citizen and Open Science Practices in Cultural Heritage: Analysing the Openness Scope through a Nine-Factor Typology. Lecture Notes in Computer Science (LNCS), Springer Nature.  
+[forthcoming] Zourou, K. & Ziku, M. (2023). Transcribathons as citizen science projects: a comparative analysis of European initiatives. In D. Stört (Ed.), Partizipative Transkriptionsprojekte, Museum für Naturkunde (MfN) – Leibniz-Institut für Evolutions- und Biodiversitätsforschung.  
+Truyen, F., Taes, S., Siegesmund, R., Bachi, V., Fresa, A., Kaldeli, E., Bekiaris, S., Rendina, M., Ziku, M., Zourou, K., & Navarrete, T. (2022). CitizenHeritage: Empowering Communities and Citizens in Heritage Research. European Congress of Qualitative Inquiry Proceedings 2022, European Network of Qualitative Inquiry. ISBN 9789067842334.  
+Zourou, K., & Ziku, M. (2022). Qualification Recognition Systems Adopted by Universities: An Exploratory Data Analysis. EDULEARN22 Proceedings, IATED. https://doi.org10.21125/edulearn.2022  
+Ziku, M., Leventaki, E., Brailas, A., Maglavera, S., & Mavridis, J. (2020, July 22–24). MAZI means together: An open-source “minimal computing” local community network for cultural event organisation, fieldwork research and digital curatorial practices. DH2020 Carrefours/Intersections Proceedings. http://dx.doi.org/10.17613/81p5-t144  
+Ziku, M. (2020). Digital Cultural Heritage and Linked Data: Semantically-informed conceptualisations and open practices with a focus on intangible cultural heritage. LIBER Quarterly, 30(1), 1–16. https://doi.org/10.18352/lq.10315  
+Ziku, M. (2018). Art theory and artificial intelligence in Greece: Documenting 30 years of a cross-disciplinary research. In D. Honorato and A. Giannakoulopoulos (Eds.), Taboo - Transgression - Transcendence in Art & Science - 2017 Conference Proceedings. Ionian University - Department of Audio & Visual Arts. ISBN 978-960-7260-60-4.  
+Ziku, M., & Kounava, A. (2018). Ποιο το νόημα να κάνουμε εκθέσεις; Μια απάντηση από το 2030 (Translation of Nora’s Sternfeld essay ‘Why exhibit at all? An answer from the year 2030’). Τετράδια Μουσειολογίας (Museology Notebooks), Issue 11. ISSN 1790-0980.  
 
-<br>
-- *'MAZI means together: A “minimal computing” local network infrastructure for community-based curation, research and networking'* Ottawa, Canada, 22.07 - 24.07.2020 (accepted) (International Conference: "Digital Humanities 2020", Organized by: Alliance of Digital Humanities Organizations, University of Ottawa, Carleton University)
-- *'Datafying and visualizing digital community imaginaries: An experimental approach'* Volos, Greece, 31.05 - 02.06.2019 (Confestival: “Data-stories: New Media Aesthetics and Rhetorics for Critical Digital Ethnography”, Organized by: Univerity of Thessaly, Department of History, Archaeology and Social Anthropology and the Laboratory of Social Anthropology)
-- *'Digital and intangible cultural heritage: The technological ecosystems of collective memory and the commons'* Crete, Greece, 25 - 27.05.2018 (Conference: “Good Practices in the Promotion and Management of Cultural Heritage”, Organized by: Church of Crete (Greece), Cultural association “Ierapytna”)
-- *'An artificial intelligence toolkit under creative commons: Exploring complex elements in myths and art worlds'* Corfu, Greece, 26 - 28.05.2017 (International Conference: “Taboo, Transgression, Transcendence in Art & Science”, Organized by: Ionian University, Department of Audio & Visual Arts)
-- *'Meta-Dynamics in Aesthetics'* Kefalonia, Greece, 23.04. - 08.05.2015 (International Poster Presentation: “Next Nature: Bonjour Monsieur Courbet”, Organized by: The I-Node of the Planetary Collegium, Plymouth University)
-- *'Visualization of Evil – Image and text relations in the printed editions of the Grimm Tales'* Athens, Greece, 24.11.2012 (International Conference: "The Brothers Grimm and the folktale: narrations, readings, transformations", Organized by: The Faculty of Philology of National and Kapodistrian University of Athens, the Department of History, Archeology and Social Anthropology of the University of Thessaly)
-- *'Framing Oral History through Visual Ethnography'* Zadar, Croatia, 24.04.2010 (International Conference: “Exploring everyday life in SE Europe: Identity, culture and representation”, Organized by: 8th International Border Crossings Network, University of Ioannina) 
-- *'Local Narratives and Interpretations of Cultural Heritage'* Athens, Greece, 31.10.2009 (Conference "Urania's Gardens", International Association Of Art - UNESCO local event, Cultural Center of Athens)
 
-<br>
+**Articles & presentations in Web-based Platforms**
+---
+Ziku, M. & Fabos, B. (2023). Digital Community Heritage and Open Access - Short report. Creative Commons Medium. https://medium.com/creative-commons-we-like-to-share/digital-community-heritage-and-open-access-7e3477ef2131  
+Ziku, M., & Fabos, B. (2022). Digital Community Heritage and Open Access. CC Open Culture Working Group Digital Community Heritage. Creative Commons. https://doi.org/10.21428/9eb74dbf.0c46e6be  
+Ziku, M., Zhivkovikj, K., & Ristovska, K. (2021). Code of Conduct: An “ethics in action” framework with a focus on Balkan arts and cultural projects. Some Call Us Balkans - Cultural Cooperation Project in the Western Balkans, Creative Europe Programme. https://doi.org/10.21428/0eeef24d.73e35794  
+Ristovska, K., Zhivkovikj, K., & Ziku, M. (2021). Open Glossary: A living vocabulary with terms of interest for the cohabitating communities in the Balkans. Some Call Us Balkans - Cultural Cooperation Project in the Western Balkans, Creative Europe Programme. https://doi.org/10.21428/0eeef24d.8b597f23  
+Zourou, K., & Ziku, M. (2021, February 18). FAIR clinic (?) for Citizen Science Projects in the Cultural Heritage Sector. GO FAIR US webinar: WIPs and CHIPs. US GO FAIR office. https://www.go-fair.org/events/go-fair-us-webinar-wips-and-chips/ https://jamboard.google.com/d/1HlncUn2Ul6oMrCx6OAC_98c4Zp_lGy6mQDYme7747U0/edit?usp=sharing  
+Ziku, M., & Gabriels, N. (2020, May 1). Opening up a little more: A minimal-computing approach for developing Git and machine-actionable GLAM open data. Enriching Heritage at KU Leuven. https://enrichingheritage.wordpress.com/2020/05/01/git-and-machine-actionable-data-pilot/  
+Ziku, M. (2013, February 19). Τracing collective memory and improvisational musical poetry in contemporary urban space. The Art Foundation (T.A.F.). http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/   
 
-**Member in** 
+**Other Publications / Contributions**
+---
+Ziku, M. (2023). Open innovation as response in cultural heritage crises and the role of academia-society cooperation [Learning unit]. In S. Oikonomou & K. Zourou Open innovation in academia-society cooperation: examples of cultural heritage preservation in a crisis situation [E-learning module]. eCHOing project - Erasmus+ European Union Programme.  
+Oikonomou, S., Zourou, K., & Ziku, M. (2022). Visitors as active citizens: Enhancing public participation in actions of cultural institutions for climate change [Collection of resources]. The GLAMers project - Erasmus+ European Union Programme.  
+Oikonomou, S., Zourou, K. (2022). Examples of open innovation in the cultural heritage in times of crisis [E-learning module]. eCHOing project - Erasmus+ European Union Programme. (Contributors: Oikonomou M. G., Ziku, M., & Skowron A.) https://web2learn.github.io/open-innovation-in-cultural-heritage/main.html  
+Zourou, K. (2021). Some examples of digital action inside and beyond universities during the pandemic: Citizen science, maker movement, digital hacktivism. (Contributor: Ziku, M. et al.). HEIDI Consortium. https://heidiproject.eu/wp-content/uploads/2021/09/HEIDI-O1A1-final-version.pdf 
+Ziku, M. (Transl.) (2020, Oct 14). Europeana Public Domain Usage Guidelines Greek Version. (Translated from English) Europeana. https://www.europeana.eu/el/rights/public-domain-usage-guidelines  
+Ζήκου, Μ. (Transl.) (2020, July 14). Αναδύοντας τη διεθνή εικόνα των Open GLAM. (Translated from D. McCarthy Uncovering the global picture of Open GLAM). Open GLAM Medium. https://medium.com/open-glam/αναδύοντας-τη-διεθνή-εικόνα-των-open-glam-a3509bfc533f  
+
+
+**Invited Presentations / Panels / Moderation**
+---
+Ziku M. (Invited Speaker)  
+Title	Crowdsourcing and Open Data in Intangible Cultural Heritage  
+Venue	Digital Art History Coffee Talks, Digital Art History Summer School (DAHSS), 28.05.2022 [Virtual].  
+
+Ziku M. (Invited Speaker)  
+Title	Art Pluriverse: A Community Science Series for Intangible & Natural Heritage in the Balkans  
+Venue	Digitizing Cultures & Languages - GLAM Together, Mozilla Festival 2022. 07.03.2022 [Virtual].  
+
+Ziku M, Leventaki E, Stefanitsi M. (Invited Speakers)  
+Title	Training the Gaze: Community, Feminist and Decolonial Practices  
+Venue	Assembling BL{KN} residency, Some Call Us Balkans Project - Creative Europe Programme), Banja Luka, Bosnia and Herzegovina, 11.05.2022 [Hybrid].   
+
+Ziku M. (Invited Speaker)  
+Title	Connecting intangible cultural heritage with art and open knowledge  
+Venue	Makerspaces and Cultural Heritage, Phygital project - Interreg Balkan-Mediterranean Programme, Open Technologies Alliance (GFOSS), 14.12.2020 [Virtual].  
+
+Dermentzopoulos, C., Ziku, M., & Leventaki, E. (Invited speakers)  
+Title	Συνδέοντας την τέχνη με ανοικτές και συμμετοχικές πρακτικές στο πρόγραμμα Some Call Us Balkans (Connecting art with open and participatory practices in the project Some Call Us Balkans)  
+Venue	Πολιτισμός & περιφερειακή ανάπτυξη σε καιρούς πανδημίας /Δυτική Ελλάδα (Culture & regional development in times of pandemic/Western Greece), Creative Europe Desk web conferences series, Creative Europe Desk Greece, 07.10.2020 [Virtual]. 
+
+Ziku M. (Invited Speaker)  
+Title	Ο υπο-προσδιορισμός στο έργο της Πολυξένης Κασδά (The under-determination in Polyxene Kasda’s work)  
+Venue	Artificial Intelligence Professor John Kontos Needles Poly Kasda's Conscious Eye: Perception - Consciousness - Diegesis - Discovery - Creativity (Book presentation, Notios Anemos Publications), 02.16.2016, Στοά του Βιβλίου (Books' Archway), Athens, Greece.   
+
+**Interviews and other Media Highlights**
+---
+Oral interview in the Venture Alliances platform, as part of the interview series to academic and business experts on business-academia innovation from the cultural field (Nov. 2022) https://venturealliances.eu   
+Featured in the report by the Creative Commons Organization “What are the barriers to Open Culture” addressed to international experts in the open culture movement (July 2022) https://creativecommons.org/wp-content/uploads/2022/07/3.Final-Barriers-Report_compressed.pdf   
+Video interview by the Creative Commons Organization, as part of the Open Culture Voices Vlog Series to international experts in open GLAM (galleries, libraries, archives, and museums) (May 2022) https://creativecommons.org/2022/05/06/episode-28-open-culture-voices-mariana-ziku/   
+Written interview by The Art Newspaper Greece “SCUB: Εκπαιδεύοντας το βλέμμα, αλλάζοντας τις αντιλήψεις (SCUB: Educating the gaze, changing perceptions)”, on the topic of artistic/cultural production and research in the Balkans (May 2022) https://theartnewspaper.gr/epikairotita/scub-ekpaideyontas-to-vlemma-allazontas-tis-antilipseis/   
+Showcased in the promotional video on citizen science and open science in cultural heritage at the Europeana 2022 Conference https://pro.europeana.eu/page/conference  
+
+
+**Member in Scientific/ Professional Associations, Networks, Working Groups** 
 
 ---  
 
 <br/>
 
-- Alliance of Digital Humanities Organizations (ADHO)
-- Europeana Network Association
-- Greek Digital Humanities Research Network  
-- [Association of Greek Art Historians](https://eeit.org)
-- [Digital Art History Society (DAHS)](https://digitalarthistorysociety.org)
-- History of Art Laboratory, School of Fine Arts, University of Ioannina, Greece
+2022 – present	Association for Computing Machinery (ACM)  
+2022 – present	ACM Special Interest Group on Computer-Human Interaction (SIGCHI)  
+2022 – present	Greece ACM SIGCHI Chapter  
+2021 – present	Mediterranean Editors and Translators (MET)  
+2021 – present	Inter Alia Council of Members  
+2020 – present	Intelligent Interaction Research Group, University of the Aegean  
+   2020 – 2021	Alliance of Digital Humanities Organizations  
+2019 – present	European Citizen Science Association  
+2018 – present	Creative Commons Global Network  
+2018 – present	Europeana Network Association  
+2018 – present	Greek Digital Humanities Research Network  
+2018 – present	Association of Greek Art Historians  
+   2018 – 2020	Association for Computers and the Humanities  
+2009 – present	History of Art Laboratory, University of Ioannina  
+
