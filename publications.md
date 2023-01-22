@@ -47,7 +47,8 @@ Ziku, M. (2012, November 24). Image & Text Relations in the Printed Editions of 
 Ziku, M. (2010, April 24). Framing Oral History through Visual Ethnography. Exploring everyday life in SE Europe: Identity, culture and representation International Student Conference (Organised by: 8th International Border Crossings Network, University of Ioannina), Zadar, Croatia.  
 
 Ziku, M. (2009, October 31). Local Narratives and Interpretations of Cultural Heritage. “Urania’s Gardens” Conference (Organised by: International Association Of Art (IAA) - UNESCO), Athens, Greece.  
-
+<br>
+<br>
 **Books / Book Chapters / Catalogues / Studies Publications** 
 
 ---
@@ -71,7 +72,8 @@ Voyiatzis, N., Stouraitis, E., & Ziku, M. (2020). Archives in Transit: From the 
 Dermentzopoulos, C., & Ziku, M. (Eds.) (2020). Tradition anew! Biennale of Western Balkans. History of Art Laboratory, University of Ioannina. ISBN 978-960-233-251-1. https://doi.org/10.5281/zenodo.4019939      
 
 Ziku, M. (2017). Micro-cinema of Attractions: GIF art imageries and creative techniques. ARTos Foundation. Cyprus 2017. ISBN 978-9963-8703-8-7  
-
+<br>
+<br>
 **Publications in Peer-reviewed Journals and Conference Proceedings**
 
 ---
@@ -91,8 +93,8 @@ Ziku, M. (2020). Digital Cultural Heritage and Linked Data: Semantically-informe
 Ziku, M. (2018). Art theory and artificial intelligence in Greece: Documenting 30 years of a cross-disciplinary research. In D. Honorato and A. Giannakoulopoulos (Eds.), Taboo - Transgression - Transcendence in Art & Science - 2017 Conference Proceedings. Ionian University - Department of Audio & Visual Arts. ISBN 978-960-7260-60-4.  
 
 Ziku, M., & Kounava, A. (2018). Ποιο το νόημα να κάνουμε εκθέσεις; Μια απάντηση από το 2030 (Translation of Nora’s Sternfeld essay ‘Why exhibit at all? An answer from the year 2030’). Τετράδια Μουσειολογίας (Museology Notebooks), Issue 11. ISSN 1790-0980.  
-
-
+<br>
+<br>
 **Articles & presentations in Web-based Platforms**
 
 ---
@@ -109,8 +111,8 @@ Zourou, K., & Ziku, M. (2021, February 18). FAIR clinic (?) for Citizen Science 
 
 Ziku, M., & Gabriels, N. (2020, May 1). Opening up a little more: A minimal-computing approach for developing Git and machine-actionable GLAM open data. Enriching Heritage at KU Leuven. https://enrichingheritage.wordpress.com/2020/05/01/git-and-machine-actionable-data-pilot/  
 
-Ziku, M. (2013, February 19). Τracing collective memory and improvisational musical poetry in contemporary urban space. The Art Foundation (T.A.F.). http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/   
-
+Ziku, M. (2013, February 19). Τracing collective memory and improvisational musical poetry in contemporary urban space. The Art Foundation (T.A.F.). http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/ <br> 
+<br>
 **Other Publications / Contributions**
 
 ---
@@ -127,7 +129,8 @@ Ziku, M. (Transl.) (2020, Oct 14). Europeana Public Domain Usage Guidelines Gree
 
 Ζήκου, Μ. (Transl.) (2020, July 14). Αναδύοντας τη διεθνή εικόνα των Open GLAM. (Translated from D. McCarthy Uncovering the global picture of Open GLAM). Open GLAM Medium. https://medium.com/open-glam/αναδύοντας-τη-διεθνή-εικόνα-των-open-glam-a3509bfc533f  
 
-
+<br>
+<br>
 **Invited Presentations / Panels / Moderation**
 
 ---
@@ -155,7 +158,8 @@ Venue	Πολιτισμός & περιφερειακή ανάπτυξη σε κα
 Ziku M. (Invited Speaker)  
 Title	Ο υπο-προσδιορισμός στο έργο της Πολυξένης Κασδά (The under-determination in Polyxene Kasda’s work)  
 Venue	Artificial Intelligence Professor John Kontos Needles Poly Kasda's Conscious Eye: Perception - Consciousness - Diegesis - Discovery - Creativity (Book presentation, Notios Anemos Publications), 02.16.2016, Στοά του Βιβλίου (Books' Archway), Athens, Greece.   
-
+<br>
+<br>
 **Interviews and other Media Highlights**
 
 ---
