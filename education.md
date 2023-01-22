@@ -5,8 +5,6 @@ permalink: /education/
 navigation_weight: 1
 ---
 
-<br/> 
-
 <br/>
 - **PhD Candidate**  
 Department of Cultural Technology and Communication, Faculty of Social Sciences, University of the Aegean, Greece  
