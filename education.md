@@ -83,7 +83,7 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 **“Living Heritage and Sustainable Development”** 28.01 – 31.08.2022 (Verified Certificate)  
 *Granting body*	UNESCO, International Information and Networking Centre for Intangible Cultural Heritage 	(ICHCAP), SDG Academy  
 
-**“Teach for Future” - IT and Management of Innovation** 15.10. 2021 – 28.02.2022 (Certificate)  
+**“Teach for Future - IT and Management of Innovation"** 15.10. 2021 – 28.02.2022 (Certificate)  
 *Granting body*	Heritage Management Organization  
 
 **“Knowledge Graphs”** 27.10 – 15.12.2020 (Confirmation of Participation)  
@@ -130,14 +130,14 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 *Granting body*	Coursera platform  
 *Instructor*	Dr Steve Everett, Department of Music, Emory University  
 
-**“History, Culture and Society of Labor” Summer School** 18 – 25.09.2011 (Certificate)  
+**“History, Culture and Society of Labor - Summer School"** 18 – 25.09.2011 (Certificate)  
 *Granting body*	Dept. of History and Archeology, Folklore Section - University of Ioannina, Dept. of 		Sociology - 	Panteion University  
 *Instructor*	Dr Konstantina Bada  
 
-**“Anthropology, Ethnography and Comparative Folklore of the Balkans” Summer School** 27.07 – 09.08.2008 (Certificate)  
+**“Anthropology, Ethnography and Comparative Folklore of the Balkans - Summer School"** 27.07 – 09.08.2008 (Certificate)  
 *Granting body*	International Border Crossings Network, University of Ioannina  
 *Instructor*	Dr Vasilis Nitsiakos  
 
-**“Popular Culture and Education” Summer School** 09 – 15.07.2007 (Certificate)  
+**“Popular Culture and Education - Summer School"** 09 – 15.07.2007 (Certificate)  
 *Granting body*	Academy of Athens - Research Center of Greek Folklore, Research Institute of Thessaly  
 
