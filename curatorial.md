@@ -2,7 +2,7 @@
 layout: page
 title: Curatorial
 permalink: /curatorial/
-navigation_weight: 1
+navigation_weight: 4
 ---
 <br/>
 **Organisation of Exhibitions and Conferences**
