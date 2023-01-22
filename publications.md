@@ -6,6 +6,7 @@ navigation_weight: 3
 ---
 
 **Conference Presentations** 
+
 ---
 Ziku, M., & Fabos, B. (2023, March 2).  Openness and the Digital Transformation of Community Heritage: A Data-driven Study. Community and Digitisation: the new drivers of cultural heritage (Organised by: inDICEs H2020 project), Rome, Italy [Hybrid].  
 
@@ -47,6 +48,7 @@ Ziku, M. (2010, April 24). Framing Oral History through Visual Ethnography. Expl
 Ziku, M. (2009, October 31). Local Narratives and Interpretations of Cultural Heritage. “Urania’s Gardens” Conference (Organised by: International Association Of Art (IAA) - UNESCO), Athens, Greece.  
 
 **Books / Book Chapters / Catalogues / Studies Publications** 
+
 ---
 [forthcoming] Ζήκου, Μ., Λεβεντάκη, Ε. & Δερμεντζόπουλος, Χ. (2023). Η άυλη πολιτισμική κληρονομιά ως ανοικτή γνώση (Intangible Cultural Heritage as Open Knowledge). Σε Παπαδάκη, Ε. (Eπ.), Η ψηφιακή επικοινωνία στον πολιτισμό: Το ελληνικό παράδειγμα. Εκδόσεις Κριτική.  
 
@@ -69,6 +71,7 @@ Dermentzopoulos, C., & Ziku, M. (Eds.) (2020). Tradition anew! Biennale of Weste
 Ziku, M. (2017). Micro-cinema of Attractions: GIF art imageries and creative techniques. ARTos Foundation. Cyprus 2017. ISBN 978-9963-8703-8-7  
 
 **Publications in Peer-reviewed Journals and Conference Proceedings**
+
 ---
 [forthcoming] Ziku, M., & Zourou, K. (2023). Citizen and Open Science Practices in Cultural Heritage: Analysing the Openness Scope through a Nine-Factor Typology. Lecture Notes in Computer Science (LNCS), Springer Nature.  
 
@@ -88,6 +91,7 @@ Ziku, M., & Kounava, A. (2018). Ποιο το νόημα να κάνουμε ε�
 
 
 **Articles & presentations in Web-based Platforms**
+
 ---
 Ziku, M. & Fabos, B. (2023). Digital Community Heritage and Open Access - Short report. Creative Commons Medium. https://medium.com/creative-commons-we-like-to-share/digital-community-heritage-and-open-access-7e3477ef2131  
 
@@ -104,6 +108,7 @@ Ziku, M., & Gabriels, N. (2020, May 1). Opening up a little more: A minimal-comp
 Ziku, M. (2013, February 19). Τracing collective memory and improvisational musical poetry in contemporary urban space. The Art Foundation (T.A.F.). http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/   
 
 **Other Publications / Contributions**
+
 ---
 Ziku, M. (2023). Open innovation as response in cultural heritage crises and the role of academia-society cooperation [Learning unit]. In S. Oikonomou & K. Zourou Open innovation in academia-society cooperation: examples of cultural heritage preservation in a crisis situation [E-learning module]. eCHOing project - Erasmus+ European Union Programme.  
 
@@ -119,6 +124,7 @@ Ziku, M. (Transl.) (2020, Oct 14). Europeana Public Domain Usage Guidelines Gree
 
 
 **Invited Presentations / Panels / Moderation**
+
 ---
 Ziku M. (Invited Speaker)  
 Title	Crowdsourcing and Open Data in Intangible Cultural Heritage  
@@ -145,6 +151,7 @@ Title	Ο υπο-προσδιορισμός στο έργο της Πολυξέν
 Venue	Artificial Intelligence Professor John Kontos Needles Poly Kasda's Conscious Eye: Perception - Consciousness - Diegesis - Discovery - Creativity (Book presentation, Notios Anemos Publications), 02.16.2016, Στοά του Βιβλίου (Books' Archway), Athens, Greece.   
 
 **Interviews and other Media Highlights**
+
 ---
 Oral interview in the Venture Alliances platform, as part of the interview series to academic and business experts on business-academia innovation from the cultural field (Nov. 2022) https://venturealliances.eu   
 
@@ -156,25 +163,26 @@ Written interview by The Art Newspaper Greece “SCUB: Εκπαιδεύοντα�
 
 Showcased in the promotional video on citizen science and open science in cultural heritage at the Europeana 2022 Conference https://pro.europeana.eu/page/conference  
 
+<br>
+<br>
 
 **Member in Scientific/ Professional Associations, Networks, Working Groups** 
 
 ---  
 
 <br/>
-
-2022 – present	Association for Computing Machinery (ACM)  
-2022 – present	ACM Special Interest Group on Computer-Human Interaction (SIGCHI)  
-2022 – present	Greece ACM SIGCHI Chapter  
-2021 – present	Mediterranean Editors and Translators (MET)  
-2021 – present	Inter Alia Council of Members  
-2020 – present	Intelligent Interaction Research Group, University of the Aegean  
-   2020 – 2021	Alliance of Digital Humanities Organizations  
-2019 – present	European Citizen Science Association  
-2018 – present	Creative Commons Global Network  
-2018 – present	Europeana Network Association  
-2018 – present	Greek Digital Humanities Research Network  
-2018 – present	Association of Greek Art Historians  
-   2018 – 2020	Association for Computers and the Humanities  
-2009 – present	History of Art Laboratory, University of Ioannina  
+Association for Computing Machinery (ACM), 2022 –  
+ACM Special Interest Group on Computer-Human Interaction (SIGCHI), 2022 –  
+Greece ACM SIGCHI Chapter, 2022 –  
+Mediterranean Editors and Translators (MET), 2021  
+Inter Alia Council of Members, 2021  
+Intelligent Interaction Research Group, University of the Aegean, 2021 –  
+Alliance of Digital Humanities Organizations, 2021 - 2022  
+European Citizen Science Association, 2019  
+Creative Commons Global Network, 2018 -   
+Europeana Network Association, 2018 -  
+Greek Digital Humanities Research Network, 2018 -  
+Association of Greek Art Historians, 2018 -  
+Association for Computers and the Humanities, 2018 - 2020  
+History of Art Laboratory, University of Ioannina, 2009 -  
 
