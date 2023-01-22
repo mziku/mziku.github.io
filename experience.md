@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 navigation_weight: 2
 ---
-+ [**Research Associate**](https://echo-heritage.eu](https://glamers.eu), 2023  
++ [**Research Associate**](https://glamers.eu), 2023  
 The GLAMers: Enhancing GLAMs through youth engagement during the COVID-19 crisis  
 Erasmus+ European Union Programme (No. 2020-1-CY02-KA227-YOU-002022)  
 
