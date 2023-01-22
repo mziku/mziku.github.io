@@ -17,7 +17,7 @@ Faculty of Science, Department of Computer Science, KU Leuven, Belgium
 
 - **Cert in Cultural Management**  
 1 year (20.83 ECVET), Certificate of Specialized Training  
-Centre of Continuous Education and Training, National and Kapodistrian University of Athens, Greece  
+Center of Continuing Education and Lifelong Learning, National and Kapodistrian University of Athens, Greece  
 *(Scientific coordinator: Dr Panagiotis E. Petrakis, Professor, Department of Economics, School of Law, Politics and Economics, National and Kapodistrian University of Athens)*
 
 - **MA(Hons) in Art History/Theory – Curation**  
