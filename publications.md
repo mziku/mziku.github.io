@@ -31,7 +31,8 @@ Ziku, M., & Kasda, P. (2020, November 26–28). Myth/Network (1990-2017): The ep
 
 Ziku, M. (2020, November 14). Ψηφιακά πληθοποριστικά συστήματα και ανοικτές συμμετοχικές υποδομές για τη σημασιολογική ενσωμάτωση της άυλης πολιτισμικής κληρονομιάς (Digital crowdsourcing systems and open participatory infrastructures for the semantic integration of intangible cultural heritage). World Usability Day 2020. (Organised by: ACM GreekSIGCHI) [Virtual].  
 
-Ziku, M. (2020, October 22). Developing FAIR Community-based archives with wiki tools and Open GLAM practices. CC Global Summit 2020 [Virtual]. 
+Ziku, M. (2020, October 22). Developing FAIR Community-based archives with wiki tools and Open GLAM practices. CC Global Summit 2020 [Virtual].  
+
 Ziku, M., Leventaki, E., Brailas, A., Maglavera, S., & Mavridis, J. (2020, June 22–24). MAZI means together: An open-source “minimal computing” local community network for cultural event organisation, fieldwork research and digital curatorial practices. DH2020 Carrefours/Intersections International Conference. (Organised by: University of Ottawa, Carleton University), Ottawa, Canada [Hybrid].  
 
 Ziku, M. (2019, May 31–June 2). Datafying and visualising digital community imaginaries: An experimental approach. Data-stories: New Media Aesthetics and Rhetorics for Critical Digital Ethnography Conference (Organised by: University of Thessaly, Department of History, Archaeology and Social Anthropology and the Laboratory of Social Anthropology), Volos, Greece.  
