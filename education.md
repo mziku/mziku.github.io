@@ -73,73 +73,72 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 
 ---
 <br>
-
-*21 – 23.10.2022*	“Engaging Communities in Cultural Heritage” (Certificate)  
+**“Engaging Communities in Cultural Heritage”** 21 – 23.10.2022	(Certificate)  
 *Granting body*	The Heritage Management Organization  
 *Instructors*	Dr Evangelos Kyriakidis, Dr Aris Anagnostopoulos, Dr Lena Stefanou  
 
-*26.09 – 04.12.2022*	“Creative Commons Certificate for GLAM” (Certificate, Open Badge)  
+**“Creative Commons Certificate for GLAM”** 26.09 – 04.12.2022 (Certificate, Open Badge)  
 *Granting body*	Creative Commons Organization  
 *Instructor*	Evelin Heidel  
 
-*28.01 – 31.08.2022*	“Living Heritage and Sustainable Development” (Verified Certificate)  
+**“Living Heritage and Sustainable Development”** 28.01 – 31.08.2022 (Verified Certificate)  
 *Granting body*	UNESCO, International Information and Networking Centre for Intangible Cultural Heritage 	(ICHCAP), SDG Academy  
 
-*15.10. 2021 – 28.02.2022*	“Teach for Future” - IT and Management of Innovation (Certificate)  
+**“Teach for Future” - IT and Management of Innovation** 15.10. 2021 – 28.02.2022 (Certificate)  
 *Granting body*	Heritage Management Organization  
 
-*27.10 – 15.12.2020*	“Knowledge Graphs” (Confirmation of Participation)  
+**“Knowledge Graphs”** 27.10 – 15.12.2020 (Confirmation of Participation)  
 *Granting body*	OpenHPI platform, Hasso Plattner Institute  
 *Instructors*	Dr Harald Sack, Dr Mehwish Alam  
 
-*19.10 – 14.12.2020*	“Anthropology and digital cultures: Social, political and economic dimensions” (Certificate)  
+**“Anthropology and digital cultures: Social, political and economic dimensions”** 19.10 – 14.12.2020 (Certificate)  
 *Granting body*	Transdisciplinary Institute for Environmental and Social Sciences, Greece  
 *Instructor*	Dr Petros Petridis  
 
-*01 – 05.09.2020*	“Ephemera - Digital Art History Summer School (DAHSS)” (Certificate)  
+**“Ephemera - Digital Art History Summer School (DAHSS)”** 01 – 05.09.2020 (Certificate)  
 *Granting body*	University of Berkeley, University of Málaga  
 *Instructors*	Dr Harald Klinke, Dr Leonardo Impett  
 
-*07 – 28.08.2019*	“Socially Engaged Art Projects: Community and Participation” (Certificate)  
+**“Socially Engaged Art Projects: Community and Participation”** 07 – 28.08.2019 (Certificate)  
 *Granting body*	Node Center for Curatorial Studies, Berlin, Germany  
 *Instructor*	Stine Marie Jacobsen  
 
-*28.02 – 04.04.2019*	“BEST Soft Skills Track” (Certificate)  
+**“BEST Soft Skills Track”** 28.02 – 04.04.2019 (Certificate)  
 *Granting body*	Board of European Students of Technology (BEST), KU Leuven, Belgium  
 *Instructors*	Comate, Cyclops, Johnson & Johnson, DEME, Crossbridge, Exellys, BASF, Ernst & Young, 	Lanark (private companies)  
 
-*06 – 10.08.2018*	“Documentation for Intangible Cultural Heritage” (Certificate)  
+**“Documentation for Intangible Cultural Heritage”** 06 – 10.08.2018 (Certificate)  
 *Granting body*	Institute of Digital Humanities-Ecole Polytechnique Fédérale de Lausanne (EPFL), International 	Council of Museums (ICOM) - International Committee for Documentation (CIDOC)  
 *Instructor* Dr Nick Crofts  
 
-*16.04 – 11.06.2018*	“Information Service Engineering” (Qualified Certificate, Open Badge)  
+**“Information Service Engineering”** 16.04 – 11.06.2018 (Qualified Certificate, Open Badge)  
 *Granting body*	OpenHPI platform, Hasso Plattner Institute  
 *Instructors*	Dr Harald Sack, Dr Maria Koutraki  
 
-*17.10 – 12.12.2016*	“Linked Data Engineering” (Confirmation of Participation)  
+**“Linked Data Engineering”** 17.10 – 12.12.2016 (Confirmation of Participation)  
 *Granting body*	OpenHPI platform, Hasso Plattner Institute  
 *Instructor*	Dr Harald Sack  
 
-*30.11.2015 – 20.03.2016*	“Development strategies for the Greek economy by 2020” (Certificate)  
+**“Development strategies for the Greek economy by 2020”** 30.11.2015 – 20.03.2016 (Certificate)  
 *Granting body*	National and Kapodistrian University of Athens  
 *Instructor*	Dr Panagiotis E. Petrakis  
 
-*05.03. - 05.04.2013*	“Aboriginal Worldviews in Education” (Statement of Accomplishment with Distinction)  
+**“Aboriginal Worldviews in Education”** 05.03. - 05.04.2013 (Statement of Accomplishment with Distinction)  
 *Granting body*	Coursera platform  
 *Instructor*	Dr Jean-Paul Restoule, Department of Leadership, Higher and Adult Education, University 	of Toronto  
 
-*28.01. – 30.05.2013*	“Introduction to Digital Sound Design” (Statement of Accomplishment with Distinction)  
+**“Introduction to Digital Sound Design”** 28.01. – 30.05.2013 (Statement of Accomplishment with Distinction)  
 *Granting body*	Coursera platform  
 *Instructor*	Dr Steve Everett, Department of Music, Emory University  
 
-*18 – 25.09.2011*	“History, Culture and Society of Labor” Summer School (Certificate)  
+**“History, Culture and Society of Labor” Summer School** 18 – 25.09.2011 (Certificate)  
 *Granting body*	Dept. of History and Archeology, Folklore Section - University of Ioannina, Dept. of 		Sociology - 	Panteion University  
 *Instructor*	Dr Konstantina Bada  
 
-*27.07 – 09.08.2008*	“Anthropology, Ethnography and Comparative Folklore of the Balkans” Summer School (Certificate)  
+**“Anthropology, Ethnography and Comparative Folklore of the Balkans” Summer School** 27.07 – 09.08.2008 (Certificate)  
 *Granting body*	International Border Crossings Network, University of Ioannina  
 *Instructor*	Dr Vasilis Nitsiakos  
 
-*09 – 15.07.2007*	“Popular Culture and Education” Summer School (Certificate)  
+**“Popular Culture and Education” Summer School** 09 – 15.07.2007 (Certificate)  
 *Granting body*	Academy of Athens - Research Center of Greek Folklore, Research Institute of Thessaly  
 
