@@ -111,7 +111,9 @@ Zourou, K., & Ziku, M. (2021, February 18). FAIR clinic (?) for Citizen Science 
 
 Ziku, M., & Gabriels, N. (2020, May 1). Opening up a little more: A minimal-computing approach for developing Git and machine-actionable GLAM open data. Enriching Heritage at KU Leuven. https://enrichingheritage.wordpress.com/2020/05/01/git-and-machine-actionable-data-pilot/  
 
-Ziku, M. (2013, February 19). Τracing collective memory and improvisational musical poetry in contemporary urban space. The Art Foundation (T.A.F.). http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/ <br> 
+Ziku, M. (2013, February 19). Τracing collective memory and improvisational musical poetry in contemporary urban space. The Art Foundation (T.A.F.). http://theartfoundation.metamatic.gr/EN/BLOG_/art-culture/858/tracing_collective_memory_and_improvisational_musical_poetry_in_contemporary_urban_space/ 
+
+<br> 
 <br>
 **Other Publications / Contributions**
 
