@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Anatomy of a CC License"
-date:   2021-08-22
+date:   2022-11-15
 tags: Open GLAM, Creative Commons 
 
 ---
