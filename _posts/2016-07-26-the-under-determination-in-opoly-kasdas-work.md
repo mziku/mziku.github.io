@@ -51,9 +51,6 @@ This hermetic structure can find its counterpart in an allegorical architecture,
 As if in a discoursive relationship with the Kafkaesque creature residing in its underground dark maze construction, Poly Kasda writes: ‘On the ordinary level I was protecting my delicate experiment from the unexamined eyes, shielding it behind palatable, easy to digest descriptions. I knew that if it were contaminated by doubt, the whole structure would crumble…’.
 08stazewski
 
-<br>
-
-<p><img src="https://mziku.github.io/images/lexomorphe-chrysalis-1991-poly-kasda.jpg" style="margin-top:2mm; margin-right:3mm; margin-bottom:5mm; margin-left:0;" alt="chrysalis" width="300" height="" align="center"><br><i>Lexomorphe Chrysalis, Horizontal configuration (Homage a Stazewski, Concept/Form), 1991, Photo S.Samios</i></p>
 
 This fragile and intimate revelation, along with her uncompromising determination to continue sinking in the profound substrates of the inner self, destined to be the cornerstones for the creation of her allegorical biomatic narrative ‘When that word swallowed me’ and ultimately, the symbolic collapse of her Kafkaesque shelter.
 
