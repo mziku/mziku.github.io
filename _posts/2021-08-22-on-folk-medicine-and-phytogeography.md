@@ -45,3 +45,4 @@ World Intellectual Property Organization. (2001). Intellectual property needs an
 
 Živković J, Ilić M, Šavikin K, Zdunić G, Ilić A and Stojković D (2020). Traditional Use of Medicinal Plants in South-Eastern Serbia (Pčinja District): Ethnopharmacological Investigation on the Current Status and Comparison With Half a Century Old Data. Front. Pharmacol. 11, 1020. https://doi.org/10.3389/fphar.2020.01020  
 
+*Curatorial text by Mariana Ziku, Elli Leventaki, Katerina Zachou*
