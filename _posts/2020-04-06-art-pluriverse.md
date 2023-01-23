@@ -5,10 +5,6 @@ date:   2020-04-06
 tags:
 ---
 
-
-
-<br>
-
 <p><img src="https://mziku.github.io/images/BOWB_INTANGIBLE-CULTURE-TEXTILES_cc by sa 4.0 Christos Kotsinis%2C Markos Karellas.jpg" style="margin-top:2mm; margin-right:3mm; margin-bottom:5mm; margin-left:0;" alt="art pluriverse I" width="300" height="" align="left"><i>*Illustration by Christos Kotsinis and Markos Karellas, Art Pluriverse I, BoWB, CC BY-SA 4.0*</i></p> Art Pluriverse is a community science series for arts and culture that envisions a boundary spanning approach to intangible cultural heritage (ICH) through art and open knowledge. Art Pluriverse is inspired by the concept of pluriversality as expressed in the recent publication “Pluriverse: A Post-Development Dictionary” (Kothari et al., 2019), where traditional knowledge is extended to eco-cultural relations of locality, biocultural memory and grassroots collectivity. It is organised by the Biennale of Western Balkans on an annual basis.  
 <br>
 The programme intends to situate ICH in an intercultural applied context, drawing on the anthropological theory of Manuela Carneiro da Cunha that brings a deeper understanding on the concept of reflexivity when diverse cultures coexist (da Cunha, 2009). It actively follows the development of the Declaration on Open Access for Cultural Heritage (Heidel & Wallace, 2020), which aims to inform towards equitable and consistent practices around open access, including emerging questions in areas such as decolonization, indigenisation and ICH. It is further motivated by the call on a community-centred approach for ICH’s continuity (Aikawa-Faure, 2009) and inspired by Aboriginal new media art research as published in “Transference, Tradition, Technology” (Claxton et al., 2006).  
