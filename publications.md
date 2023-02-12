@@ -185,13 +185,14 @@ Showcased in the promotional video on citizen science and open science in cultur
 ---  
 
 <br/>
+The Association for Computers and the Humanities (ACH), 2023 -
 Association for Computing Machinery (ACM), 2022 –  
 ACM Special Interest Group on Computer-Human Interaction (SIGCHI), 2022 –  
 Greece ACM SIGCHI Chapter, 2022 –  
 Mediterranean Editors and Translators (MET), 2021  
 Inter Alia Council of Members, 2021  
 Intelligent Interaction Research Group, University of the Aegean, 2021 –  
-Alliance of Digital Humanities Organizations, 2021 - 2022  
+Alliance of Digital Humanities Organizations (ADHO), 2021, 2023 -  
 European Citizen Science Association, 2019  
 Creative Commons Global Network, 2018 -   
 Europeana Network Association, 2018 -  
