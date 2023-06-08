@@ -3,7 +3,7 @@ layout: page
 ---
 
 <br>
-<p style="float: left;"><img src="https://mziku.github.io/images/Mariana_Ziku(1)(1).jpg" style="float:left; margin-top:2mm; margin-right:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="130" height="auto"></p> 
+<p style="float: left;"><img src="https://mziku.github.io/images/Mariana_Ziku(1)(1).jpg" style="float:left; margin-top:2mm; margin-right:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="150" height="auto"></p> 
 **Mariana Ziku** is a Ph.D. candidate and research associate at the Intelligent Interaction Research Group, Dept. of Cultural Technology and Communication, University of the Aegean, and research associate at Web2Learn. She is cofounder of the Biennale of Western Balkans, an organisation for the promotion of intangible cultural heritage in the Balkans. 
 <br>
 <br>
