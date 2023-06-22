@@ -10,6 +10,6 @@ layout: page
 Her research focuses on the digitisation of cultural heritage applying data analysis, semantic technologies and participatory design models, particularly in the domain of intangible cultural heritage. Her research interests are in the intersection of digital, traditional and open culture, including open-access and human-computer interaction in arts and culture. She works in the development of national, Balkan, and European research and cultural projects.
 <br>
 <br>
-She holds a MSc in Digital Humanities, Dept. of Computer Science, KU Leuven, a Certificate of Specialised Training in Cultural Management, University of Athens, a MA and BA in Sciences, History and Curation of Art, School of Fine Arts, University of Ioannina. She has received professional training in the digital curation of intangible, audiovisual and documentary heritage in Egypt, Belgium, and Germany . She is also a musical instrument and music theory graduate in classical piano and harmony, of the Municipal Conservatory of Ioannina.
+She holds a MSc in Digital Humanities, Dept. of Computer Science, KU Leuven, a Certificate of Specialised Training in Cultural Management, University of Athens, a MA and BA in Sciences, History and Curation of Art, School of Fine Arts, University of Ioannina. She has received professional training in the digital curation of intangible, audiovisual and documentary heritage in Egypt, Belgium, and Germany.
 
 
