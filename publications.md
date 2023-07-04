@@ -185,7 +185,11 @@ Showcased in the promotional video on citizen science and open science in cultur
 ---  
 
 <br/>
-The Association for Computers and the Humanities (ACH), 2023 -
+
+International Council of Museums (ICOM), 2023
+International Committee for Audiovisual, New Technologies and Social Media (ICOM-AVICOM), 2023
+International Committee for Documentation (ICOM-CIDOC), 2023
+The Association for Computers and the Humanities (ACH), 2023 -  
 Association for Computing Machinery (ACM), 2022 –  
 ACM Special Interest Group on Computer-Human Interaction (SIGCHI), 2022 –  
 Greece ACM SIGCHI Chapter, 2022 –  
