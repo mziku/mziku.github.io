@@ -8,7 +8,10 @@ navigation_weight: 3
 **Conference Presentations** 
 
 ---
-<br>
+<be>
+
+Ziku, M., Fabos, B., & Osuchukwu, N. (forthcoming, 2023, September 24-28). Crowdsourcing and Open-Access in Digital Community Heritage: An international survey and data analysis. CIDOC2023: Frontiers of Knowledge: Museums, Documentation, and Linked Data. (Organised by: National Autonomous University of Mexico -UNAM, National Library of Mexico, ICOM International Committee for Documentation -CIDOC), Mexico City, Mexico.  
+
 Ziku, M., & Fabos, B. (2023, March 2).  Openness and the Digital Transformation of Community Heritage: A Data-driven Study. Community and Digitisation: the new drivers of cultural heritage (Organised by: inDICEs H2020 project), Rome, Italy [Hybrid].  
 
 Ziku, M., & Zourou, K. (2022, November 7–11). Citizen and Open Science Practices in Cultural Heritage: Analysing the Openness Scope through a Nine-Factor Typology. EUROMED2022 (Organised by: Digital Heritage Research Lab, Cyprus University of Technology), Nicosia, Cyprus [Hybrid].  
@@ -186,22 +189,20 @@ Showcased in the promotional video on citizen science and open science in cultur
 
 <br/>
 
-International Council of Museums (ICOM), 2023
-International Committee for Audiovisual, New Technologies and Social Media (ICOM-AVICOM), 2023
-International Committee for Documentation (ICOM-CIDOC), 2023
-The Association for Computers and the Humanities (ACH), 2023 -  
+International Council of Museums (ICOM), 2023 - 
+International Committee for Audiovisual, New Technologies and Social Media (ICOM-AVICOM), 2023 - 
+International Committee for Documentation (ICOM-CIDOC), 2023 - 
 Association for Computing Machinery (ACM), 2022 –  
 ACM Special Interest Group on Computer-Human Interaction (SIGCHI), 2022 –  
 Greece ACM SIGCHI Chapter, 2022 –  
-Mediterranean Editors and Translators (MET), 2021  
-Inter Alia Council of Members, 2021  
+Mediterranean Editors and Translators (MET), 2021 -
 Intelligent Interaction Research Group, University of the Aegean, 2021 –  
 Alliance of Digital Humanities Organizations (ADHO), 2021, 2023 -  
-European Citizen Science Association, 2019  
+European Citizen Science Association, 2019 -
 Creative Commons Global Network, 2018 -   
 Europeana Network Association, 2018 -  
 Greek Digital Humanities Research Network, 2018 -  
 Association of Greek Art Historians, 2018 -  
-Association for Computers and the Humanities, 2018 - 2020  
+The Association for Computers and the Humanities (ACH), 2018 - 2020, 2023 -  
 History of Art Laboratory, University of Ioannina, 2009 -  
 
