@@ -1,7 +1,3 @@
-![εικόνα](https://github.com/mziku/mziku.github.io/assets/32470236/3db174a4-5bdb-4b0f-8d82-edda2da78150)![εικόνα](https://github.com/mziku/mziku.github.io/assets/32470236/dafb08bf-b416-4ef3-ab9e-f49cd5616d61)![εικόνα](https://github.com/mziku/mziku.github.io/assets/32470236/a1aed213-6700-4bcf-9a8c-483740812fb5)![εικόνα](https://github.com/mziku/mziku.github.io/assets/32470236/0e9b1413-80a5-4a8d-a715-02c45e13bd49)---
-layout: page
----
-<br>
 <p style="float: left;"><img src="https://mziku.github.io/images/Mariana_Ziku(1)(1).jpg" style="float:left; margin-top:2mm; margin-right:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="150" height="auto"></p> 
 **Mariana Ziku** is a researcher in the area of cultural heritage, specialising in the domain of Intangible Cultural Heritage (ICH) with focus on its digital documentation. 
 <br>
