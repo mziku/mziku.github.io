@@ -1,15 +1,14 @@
----
+![εικόνα](https://github.com/mziku/mziku.github.io/assets/32470236/3db174a4-5bdb-4b0f-8d82-edda2da78150)![εικόνα](https://github.com/mziku/mziku.github.io/assets/32470236/dafb08bf-b416-4ef3-ab9e-f49cd5616d61)![εικόνα](https://github.com/mziku/mziku.github.io/assets/32470236/a1aed213-6700-4bcf-9a8c-483740812fb5)![εικόνα](https://github.com/mziku/mziku.github.io/assets/32470236/0e9b1413-80a5-4a8d-a715-02c45e13bd49)---
 layout: page
 ---
-
 <br>
 <p style="float: left;"><img src="https://mziku.github.io/images/Mariana_Ziku(1)(1).jpg" style="float:left; margin-top:2mm; margin-right:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="150" height="auto"></p> 
-**Mariana Ziku** is a PhD candidate at the Intelligent Interaction Research Group, Dept. of Cultural Technology and Communication, University of the Aegean, and research associate at Web2Learn. She is cofounder of the Biennale of Western Balkans, an organisation promoting intangible cultural heritage and cross-border cultural cooperation in the Balkans. 
+**Mariana Ziku** is a researcher in the area of cultural heritage, specialising in the domain of Intangible Cultural Heritage (ICH) with focus on its digital documentation. 
 <br>
 <br>
-Her research focuses on the digitisation of cultural heritage applying data analysis, semantic technologies and participatory design models, particularly in the domain of intangible cultural heritage. Her research interests are in the intersection of digital, traditional and open culture, including open-access and human-computer interaction in arts and culture. She works in the development of national, Balkan and European research and cultural projects.
+She is a PhD candidate at the Intelligent Interaction Research Group, Dept. of Cultural Technology and Communication, University of the Aegean, and research associate at Web2Learn, with background in Sciences, History and Curation of Art (BA, MA, School of Fine Arts, University of Ioannina) and Digital Humanities (MSc, Dept. of Computer Science, KU Leuven). Her research interests include open data, crowdsourcing, participatory design and human-computer interaction in arts and culture. 
 <br>
 <br>
-She holds a MSc in Digital Humanities, Dept. of Computer Science, KU Leuven, a Certificate of Specialised Training in Cultural Management, University of Athens, a MA and BA in Sciences, History and Curation of Art, School of Fine Arts, University of Ioannina. She has received professional training in the digital curation of intangible, audiovisual and documentary heritage in Egypt, Belgium and Germany.
+She is a member of the ICOM International Documentation Committee and is certified in Open Culture/GLAM by the Creative Commons. She is co-founder of the organisation Biennale of Western Balkans for the promotion of intangible cultural heritage and cross-border cultural cooperation in the Balkans. She has received professional training in the digital curation of intangible, audiovisual and documentary heritage in Egypt, Belgium and Germany. She works in the development of national, Balkan and European research and cultural projects.
 
 
