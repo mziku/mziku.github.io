@@ -5,7 +5,7 @@ permalink: /experience/
 navigation_weight: 2
 ---
 + **Research Associate**, 2023  
-[Smart Recommendations of Tourist Activities based on Efficient Knowledge Mining from Electronic Platforms](https://www.elke.ntua.gr/research_project/%CE%B5%CE%BE%CF%85%CF%80%CE%BD%CE%B5%CF%83-%CF%83%CF%85%CF%83%CF%84%CE%B1%CF%83%CE%B5%CE%B9%CF%83-%CF%84%CE%BF%CF%85%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%89%CE%BD-%CE%B4%CF%81%CE%B1%CF%83%CE%B5/)
+[Smart Recommendations of Tourist Activities based on Efficient Knowledge Mining from Electronic Platforms](https://www.elke.ntua.gr/research_project/%CE%B5%CE%BE%CF%85%CF%80%CE%BD%CE%B5%CF%83-%CF%83%CF%85%CF%83%CF%84%CE%B1%CF%83%CE%B5%CE%B9%CF%83-%CF%84%CE%BF%CF%85%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%89%CE%BD-%CE%B4%CF%81%CE%B1%CF%83%CE%B5/)  
 National Strategic Reference Framework (NSRF) 2014-2020, Regional Development Fund of Attika (ΑΤΤΡ4-0349847)  
 
 + **Research Associate**, 2023  
