@@ -1,4 +1,4 @@
-<p style="float: left;"><img src="https://mziku.github.io/images/Mariana_Ziku(1)(1).jpg" style="float:left; margin-top:2mm; margin-right:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="150" height="auto"></p> 
+<p style="float: left;"><img src="https://mziku.github.io/images/mariana_ziku_uoaegean_pic.jpg" style="float:left; margin-top:2mm; margin-right:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="150" height="auto"></p> 
 **Mariana Ziku** studied Sciences, History and Curation of Art in Greece (BA, MA, Dept. of Fine Arts and Art Sciences, University of Ioannina) and Digital Humanities in Belgium (MSc, Dept. of Computer Science, KU Leuven). She is a PhD candidate and research associate at the Intelligent Interaction Research Group, Dept. of Cultural Technology and Communication, University of the Aegean in Greece and staff member of the M.A. Programme Folk/Popular Culture and Modern Cultural Heritage at the Hellenic Open University. Her dissertation is on the digital documentation of intangible cultural heritage through data science processes and digital infrastructures for public participation.
 <br>
 <br>
