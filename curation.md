@@ -10,7 +10,7 @@ navigation_weight: 4
 ---  
 <br/>
 
-[**“Some Call Us Balkans”**]([https://bowb.org/art-pluriverse-ii](https://somecallusbalkans.org/scub-exhibition/)) (2023)  
+[**“Some Call Us Balkans”**](https://somecallusbalkans.org/scub-exhibition) (2023)  
 **Type**	Contemporary art exhibition  
 **Venue** Termokiss, Rilindja (Pristina, Kosovo)  
 **Involvement**	Curatorial Committee member  
