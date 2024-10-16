@@ -66,7 +66,7 @@ navigation_weight: 4
 **Fund**	Ministry of Culture and Sports (Greece), Region of Epirus, Municipality of Ioannina  
 **Partners**	Biennale of Western Balkans, History of Art Laboratory - University of Ioannina  
 **Assistant curator** Katerina Zachou  
-*The exhibition resented contemporary art and research that places myth at the core of an interdisciplinary exploration. The exhibition examines concepts as the re-interpretation, re-creation and re-enactment of cultural legacies, intangible forms of representation, transient collective memory, community-based art, epistemologies of mythical thought and contemporary rituals. Art included augmented reality, video art, hologram and mapping projections, connected with community workshops and traditional craftsmanship.*  
+*The exhibition presented contemporary art and research that places myth at the core of an interdisciplinary exploration. The exhibition examines concepts as the re-interpretation, re-creation and re-enactment of cultural legacies, intangible forms of representation, transient collective memory, community-based art, epistemologies of mythical thought and contemporary rituals. Art included augmented reality, video art, hologram and mapping projections, connected with community workshops and traditional craftsmanship.*  
  
 [**“GIF: Morphologies of a copyleft tale”**](https://www.cact.gr/en/news/movingsilence) (2017)  
 **Type** Digital media exhibition  
