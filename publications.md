@@ -10,7 +10,9 @@ navigation_weight: 3
 ---
 <br>
 
-Ziku, M., Fabos, B., & Osuchukwu, N. (forthcoming, 2023, September 24-28). Crowdsourcing and Open-Access in Digital Community Heritage: An international survey and data analysis. CIDOC2023: Frontiers of Knowledge: Museums, Documentation, and Linked Data. (Organised by: National Autonomous University of Mexico -UNAM, National Library of Mexico, ICOM International Committee for Documentation -CIDOC), Mexico City, Mexico.  
+Ziku, M. (2024, May 24). Ψηφιακή τεκμηρίωση της λαϊκής τέχνης: Η συμβολή της προφορικής και τοπικής ιστορίας (Digital documentation of folk art: The contribution of oral and local history). Προφορική Ιστορία και μνήμη, εργασία, εργασιακές σχέσεις και ταυτότητες (Scientific conference on Oral History and Memory, Labor, Labor Relations, and Identities), Ioannina, Greece.
+
+Ziku, M., Fabos, B., & Osuchukwu, N. (2023, September 24-28). Crowdsourcing and Open-Access in Digital Community Heritage: An international survey and data analysis. CIDOC2023: Frontiers of Knowledge: Museums, Documentation, and Linked Data. (Organised by: National Autonomous University of Mexico -UNAM, National Library of Mexico, ICOM International Committee for Documentation -CIDOC), Mexico City, Mexico.  
 
 Ziku, M., & Fabos, B. (2023, March 2).  Openness and the Digital Transformation of Community Heritage: A Data-driven Study. Community and Digitisation: the new drivers of cultural heritage (Organised by: inDICEs H2020 project), Rome, Italy [Hybrid].  
 
@@ -57,9 +59,12 @@ Ziku, M. (2009, October 31). Local Narratives and Interpretations of Cultural He
 
 ---
 <br>
-[forthcoming] Ζήκου, Μ., Λεβεντάκη, Ε. & Δερμεντζόπουλος, Χ. (2023). Η άυλη πολιτισμική κληρονομιά ως ανοικτή γνώση (Intangible Cultural Heritage as Open Knowledge). Σε Παπαδάκη, Ε. (Eπ.), Η ψηφιακή επικοινωνία στον πολιτισμό: Το ελληνικό παράδειγμα. Εκδόσεις Κριτική.  
 
-[forthcoming] Ζήκου, Μ. (Επ.) (2023). Το Συνειδητό Μάτι 1988/2022: Αντίληψη - Τέχνη - Πληροφορική (The Conscious Eye 1988/2022: Perception - Art - Informatics) History of Art Laboratory, University of Ioannina. ISBN 978-960-233-255-9  
+Dupret, K., Reyes, E., Ziku, M., Szoniecky, S., & Caridakis, G. (2024). Enhancing cultural and societal engagement through participatory methods: Cross-disciplinary learning perspectives. In F. Spigarelli, L. Kempton, & L. Compagnucci (Eds.), Entrepreneurship and digital humanities: How universities shape the future of labour (The Future of Work and Employment series). Edward Elgar Publishing.
+
+[forthcoming] Ζήκου, Μ., Λεβεντάκη, Ε. & Δερμεντζόπουλος, Χ. (2025). Η άυλη πολιτισμική κληρονομιά ως ανοικτή γνώση (Intangible Cultural Heritage as Open Knowledge). Σε Παπαδάκη, Ε. (Eπ.), Η ψηφιακή επικοινωνία στον πολιτισμό: Το ελληνικό παράδειγμα. Εκδόσεις Κριτική.  
+
+[forthcoming] Ζήκου, Μ. (Επ.) (2025). Το Συνειδητό Μάτι 1988/2022: Αντίληψη - Τέχνη - Πληροφορική (The Conscious Eye 1988/2022: Perception - Art - Informatics) History of Art Laboratory, University of Ioannina. ISBN 978-960-233-255-9  
 
 Ziku, M. (2022). Non-places and biocultural memory. In B. Psarras & N. Charitonidou (Eds.), Where Do We Go From Here [Exhibition catalogue]. Primarolia Organisation. https://primarolia.com/wp-content/uploads/2022/09/Primarolia-2022.-Exhibition-catalogue.pdf   
 
@@ -70,7 +75,6 @@ Ziku, M., Leventaki, E., Papageorgiou A., & Zachou, K. (Eds.) (2021). Art Pluriv
 Papageorgiou, A., Zachou, K., Ziku, M., & Leventaki. E. (2021). Art Pluriverse - Textile Month. In Z. Orel Catalogue, BIEN 2021, Layer Publishing. ISBN 978-961-94731-5-3  
 
 Voyiatzis, N., Stouraitis, E., & Ziku, M. (2020). Archives in Transit: From the World of Libraries to Artificial Intelligence. (Ziku, M. Trans.). ARTificial Intelligence Lab - Creative Europe Programme. Onassis Foundation. https://ec.europa.eu/programmes/creative-europe/project-result-content/f5031bbd-3f62-40b0-b928-4c20d283adfb/Archives_in_transit_Digital_materials_for_educators-2020-21_eng.pdf   
-
 Βογιατζής, Ν., Στουραΐτης, Ε., & Ζήκου, Μ. (2020). Αρχεία σε αλλαγή: Από τον κόσμο των βιβλιοθηκών στην τεχνητή νοημοσύνη. Ίδρυμα Ωνάση. https://onassiswebdata.blob.core.windows.net/prod/documents/Archives_in_transit_Digital_materials_for_educators-2020-21_gr.pdf   
 
 Dermentzopoulos, C., & Ziku, M. (Eds.) (2020). Tradition anew! Biennale of Western Balkans. History of Art Laboratory, University of Ioannina. ISBN 978-960-233-251-1. https://doi.org/10.5281/zenodo.4019939      
@@ -82,9 +86,12 @@ Ziku, M. (2017). Micro-cinema of Attractions: GIF art imageries and creative tec
 
 ---
 <br>
-[forthcoming] Ziku, M., & Zourou, K. (2023). Citizen and Open Science Practices in Cultural Heritage: Analysing the Openness Scope through a Nine-Factor Typology. Lecture Notes in Computer Science (LNCS), Springer Nature.  
 
-[forthcoming] Zourou, K. & Ziku, M. (2023). Transcribathons as citizen science projects: a comparative analysis of European initiatives. In D. Stört (Ed.), Partizipative Transkriptionsprojekte, Museum für Naturkunde (MfN) – Leibniz-Institut für Evolutions- und Biodiversitätsforschung.  
+Ziku, M., Teneketzis, A., Alexandridis, G., Christodoulou, Y., Konstantakis, M., Drosopoulos, A., Dritsas, E., Siolas, G., Paximadis, K., Rousaki, F., & Caridakis , G. (2024). Digital Cultural Heritage Management for Local Heritage: Overcoming Barriers to Accessibility with Regional Digital Infrastructures. Journal of Integrated Information Management, 9(1), 20–29. https://doi.org/10.26265/jiim.v9i1.38585
+
+Ziku, M., Kotis, K., Pavlogeorgatos, G., Kavakli, E., Zeeri, C., & Caridakis, G. (2024). Evaluating crowdsourcing applications with map-based storytelling capabilities in cultural heritage. Heritage, 7(7), 3429–3454. https://doi.org/10.3390/heritage7070162
+
+Zourou, K. & Ziku, M. (2023). Transcribathons as citizen science projects: a comparative analysis of European initiatives. In D. Stört (Ed.), Partizipative Transkriptionsprojekte, Museum für Naturkunde (MfN) – Leibniz-Institut für Evolutions- und Biodiversitätsforschung.  
 
 Truyen, F., Taes, S., Siegesmund, R., Bachi, V., Fresa, A., Kaldeli, E., Bekiaris, S., Rendina, M., Ziku, M., Zourou, K., & Navarrete, T. (2022). CitizenHeritage: Empowering Communities and Citizens in Heritage Research. European Congress of Qualitative Inquiry Proceedings 2022, European Network of Qualitative Inquiry. ISBN 9789067842334.  
 
@@ -141,6 +148,11 @@ Ziku, M. (Transl.) (2020, Oct 14). Europeana Public Domain Usage Guidelines Gree
 
 ---
 <br>
+
+Pantazis, I., Ziku, M., & Dermentzopoulos, C. (Invited organisation)
+Title Το πρόγραμμα Δημιουργική Ευρώπη στην εφαρμογή του, Biennale of Western Balkans (BoWB). (The Creative Europe program in its application, Biennale of Western Balkans (BoWB)). 
+Venue Ευκαιρίες ευρωπαϊκής χρηματοδότησης των πολιτιστικών και δημιουργικών φορέων της Περιφέρειας Ηπείρου (Opportunities for European Funding for Cultural and Creative Organisations of the Epirus Region), Ioannina, Greece, 29.03.2023 [Physical presence].
+
 Ziku M. (Invited Speaker)  
 Title	Crowdsourcing and Open Data in Intangible Cultural Heritage  
 Venue	Digital Art History Coffee Talks, Digital Art History Summer School (DAHSS), 28.05.2022 [Virtual].  
