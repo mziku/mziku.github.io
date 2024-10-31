@@ -13,9 +13,9 @@ navigation_weight: 3
 Ziku, M. (2024, May 24). Ψηφιακή τεκμηρίωση της λαϊκής τέχνης: Η συμβολή της προφορικής και τοπικής ιστορίας (Digital documentation of folk art: The contribution of oral and local history). Προφορική Ιστορία και μνήμη, εργασία, εργασιακές σχέσεις και ταυτότητες (Scientific conference on Oral History and Memory, Labor, Labor Relations, and Identities), Ioannina, Greece.
 
 Ziku, M., Fabos, B., & Osuchukwu, N. (2023, September 24-28). Crowdsourcing and Open-Access in Digital Community Heritage: An international survey and data analysis. CIDOC2023: Frontiers of Knowledge: Museums, Documentation, and Linked Data. (Organised by: National Autonomous University of Mexico -UNAM, National Library of Mexico, ICOM International Committee for Documentation -CIDOC), Mexico City, Mexico.  
-
+ 
 Ziku, M. (2023, May 29). Citizen-enhanced open science in cultural heritage: review and analysis of practices in higher education. Citizen Science in Cultural Heritage: practices and digital technologies. (Organised by: National Technical University of Athens) Athens, Greece [Hybrid].  
-
+ 
 Ziku, M., & Fabos, B. (2023, March 2).  Openness and the Digital Transformation of Community Heritage: A Data-driven Study. Community and Digitisation: the new drivers of cultural heritage (Organised by: inDICEs H2020 project), Rome, Italy [Hybrid].  
 
 Ziku, M., & Zourou, K. (2022, November 7–11). Citizen and Open Science Practices in Cultural Heritage: Analysing the Openness Scope through a Nine-Factor Typology. EUROMED2022 (Organised by: Digital Heritage Research Lab, Cyprus University of Technology), Nicosia, Cyprus [Hybrid].  
