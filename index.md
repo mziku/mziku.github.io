@@ -1,4 +1,4 @@
-<p style="float: left;"><img src="(https://mziku.github.io/images/Mariana-Ziku-profile-photo.jpg)" style="float:left; margin-top:2mm; margin-right:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="150" height="auto"></p> 
+<p style="float: left;"><img src="https://mziku.github.io/images/Mariana-Ziku-profile-photo.jpg" style="float:left; margin-top:2mm; margin-right:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="150" height="auto"></p> 
 **Mariana Ziku** has a background in Cultural Studies and Digital Humanities, specialising in the Digital Management of Cultural Heritage, with a long-standing focus on Intangible Cultural Heritage. She holds a Master of Science (MSc, Hons) in Digital Humanities from the Department of Computer Science at KU Leuven, a Master of Arts (MA, Hons) in Curation and History of Art, and a Bachelor in Art Sciences from the School of Fine Arts, University of Ioannina. She also holds a Certificate of Specialised Training in Cultural Management from the Centre of Continuing Education and Lifelong Learning at the National and Kapodistrian University of Athens.
 <br>
 <br>
