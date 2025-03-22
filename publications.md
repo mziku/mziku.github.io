@@ -8,9 +8,11 @@ navigation_weight: 3
 **Conference Presentations** 
 
 ---
-<br>
+<br> 
 
-Ziku, M. (2024, May 24). Ψηφιακή τεκμηρίωση της λαϊκής τέχνης: Η συμβολή της προφορικής και τοπικής ιστορίας (Digital documentation of folk art: The contribution of oral and local history). Προφορική Ιστορία και μνήμη, εργασία, εργασιακές σχέσεις και ταυτότητες (Scientific conference on Oral History and Memory, Labor, Labor Relations, and Identities), Ioannina, Greece.
+Zourou, K., Oikonomou, S., & Ziku, M. (2024, November 13). Academia-driven open innovation for cultural heritage: Lessons learned from eCHOIng. CIDOC 2024: Sustainable Connections: Building Knowledge Networks, Rijksmuseum, Amsterdam, The Netherlands.  
+
+Ziku, M. (2024, May 24). Ψηφιακή τεκμηρίωση της λαϊκής τέχνης: Η συμβολή της προφορικής και τοπικής ιστορίας (Digital documentation of folk art: The contribution of oral and local history). Προφορική Ιστορία και μνήμη, εργασία, εργασιακές σχέσεις και ταυτότητες (Scientific conference on Oral History and Memory, Labor, Labor Relations, and Identities), Ioannina, Greece.  
 
 Ziku, M., Fabos, B., & Osuchukwu, N. (2023, September 24-28). Crowdsourcing and Open-Access in Digital Community Heritage: An international survey and data analysis. CIDOC2023: Frontiers of Knowledge: Museums, Documentation, and Linked Data. (Organised by: National Autonomous University of Mexico -UNAM, National Library of Mexico, ICOM International Committee for Documentation -CIDOC), Mexico City, Mexico.  
  
@@ -128,10 +130,14 @@ Ziku, M. (2013, February 19). Τracing collective memory and improvisational mus
 
 <br> 
 <br>
-**Other Publications / Contributions**
+**Other Presentations / Publications / Contributions**
 
 ---
 <br>
+Zourou, K., Ziku, M., & Oikonomou, S. (2025, January 30). From science communication to activism: Multistakeholder engagement addressing water-related challenges. Acting4Water project - Erasmus+ European Union Programme.
+
+Zourou, K., Ziku, M., Oikonomou, S., Fragkiadaki, C, Terzis, I. (2024) [Report]. Collection of citizen-driven actions against water scarcity. Acting4Water consortium.
+
 Ziku, M. (2023). Open innovation as response in cultural heritage crises and the role of academia-society cooperation [Learning unit]. In S. Oikonomou & K. Zourou Open innovation in academia-society cooperation: examples of cultural heritage preservation in a crisis situation [E-learning module]. eCHOing project - Erasmus+ European Union Programme.  
 
 Oikonomou, S., Zourou, K., & Ziku, M. (2022). Visitors as active citizens: Enhancing public participation in actions of cultural institutions for climate change [Collection of resources]. The GLAMers project - Erasmus+ European Union Programme.  
@@ -150,6 +156,10 @@ Ziku, M. (Transl.) (2020, Oct 14). Europeana Public Domain Usage Guidelines Gree
 
 ---
 <br>
+
+Zourou, K., Oikonomou, S., Ziku, M., & Defteraiou, K. (Invited presentation)
+Title Ways to address water scarcity through new technologies and collaboration between businesses and universities.  
+Department of Food Science and Nutrition, University of the Aegean, Myrina, Lemnos, Greece, 20.03.2025 [Physical presence].
 
 Pantazis, I., Ziku, M., & Dermentzopoulos, C. (Invited organisation)
 Title Το πρόγραμμα Δημιουργική Ευρώπη στην εφαρμογή του, Biennale of Western Balkans (BoWB). (The Creative Europe program in its application, Biennale of Western Balkans (BoWB)). 
