@@ -69,7 +69,7 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 ---
 <br>
 
-**“GreenHeritage Course - Intangible Cultural Heritage”** 9.6.2024 - 16.12.2024 (100 hours) (Verified Certificate, 4 ECTS)  
+**“GreenHeritage: The impact of Climate Change on the Intangible Cultural Heritage”** 9.6.2024 - 16.12.2024 (100 hours) (Verified Certificate, 4 ECTS)  
 *Granted body* University of the Aegean, Lifelong Learning Centre  
 *Instructors* Dr Alexandra Bounia, Dr Konstantinos Kotis, Dr Despina Catapoti, Dr Christos Matsoukas  
 
