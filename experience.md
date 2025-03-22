@@ -4,6 +4,15 @@ title: Experience
 permalink: /experience/
 navigation_weight: 2
 ---
+
++ **Research Associate**, 2025  
+[AISTER: AI-enabled Citizen Participation in University-driven Ukrainian Cultural Heritage Safeguarding](https://web2learn.eu/portfolio/aister/)  
+Erasmus+ European Union Programme (Nr. 2024-2-LU01-KA220-HED-000290738)
+
++ **Project Manager**, 2022-2024  
+[ECHO III: European Cultural Heritage Onstage, For Memory’s Sake](https://echo-heritage.eu)  
+Creative Europe Programme: European Cooperation Projects (No. 101056213)  
+
 + **Research Associate**, 2023  
 [Smart Recommendations of Tourist Activities based on Efficient Knowledge Mining from Electronic Platforms](https://www.elke.ntua.gr/research_project/%CE%B5%CE%BE%CF%85%CF%80%CE%BD%CE%B5%CF%83-%CF%83%CF%85%CF%83%CF%84%CE%B1%CF%83%CE%B5%CE%B9%CF%83-%CF%84%CE%BF%CF%85%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%89%CE%BD-%CE%B4%CF%81%CE%B1%CF%83%CE%B5/)  
 National Strategic Reference Framework (NSRF) 2014-2020, Regional Development Fund of Attika (ΑΤΤΡ4-0349847)  
@@ -12,9 +21,9 @@ National Strategic Reference Framework (NSRF) 2014-2020, Regional Development Fu
 [The GLAMers: Enhancing GLAMs through youth engagement during the COVID-19 crisis](https://glamers.eu)  
 Erasmus+ European Union Programme (No. 2020-1-CY02-KA227-YOU-002022)  
 
-+ **Project Manager**, 2022-2024  
-[ECHO III: European Cultural Heritage Onstage, For Memory’s Sake](https://echo-heritage.eu)  
-Creative Europe Programme: European Cooperation Projects (No. 101056213)  
++ **Research Associate**, 2023  
+[eCHOing: Recovery of cultural heritage through higher education-driven open innovation](https://www.ntnu.edu/echoing)  
+Erasmus+ European Union Programme (No. 2021-1-NO01-KA220-HED-000031986)  
 
 + **Research Associate**, 2022  
 [HEIDI: Digital Actions at HEIs as a catalyst for social change in the COVID-19 crisis](https://heidiproject.eu)  
