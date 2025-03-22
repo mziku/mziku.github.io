@@ -69,9 +69,9 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 ---
 <br>
 
-**“GreenHeritage Course - Intangible Cultural Heritage”** 9.6.2024 - 16.12.2024 (100 hours) (Verified Certificate, 4 ECTS)
-*Granted body* University of the Aegean, Lifelong Learning Centre
-*Instructors* Dr Alexandra Bounia, Dr Konstantinos Kotis, Dr Despina Catapoti, Dr Christos Matsoukas
+**“GreenHeritage Course - Intangible Cultural Heritage”** 9.6.2024 - 16.12.2024 (100 hours) (Verified Certificate, 4 ECTS)  
+*Granted body* University of the Aegean, Lifelong Learning Centre  
+*Instructors* Dr Alexandra Bounia, Dr Konstantinos Kotis, Dr Despina Catapoti, Dr Christos Matsoukas  
 
 **“Open Seminars in Folklore and Anthropology”** 5.10-2023 – 30.05.2024 (60 hours)	(Verified Certificate)  
 *Granted* by Dr	Vasilis Nitsiakos, Professor of Social Folklore, University of Ioannina  
