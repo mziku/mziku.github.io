@@ -68,11 +68,20 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 
 ---
 <br>
-**“Engaging Communities in Cultural Heritage”** 21 – 23.10.2022	(Certificate)  
+
+**“GreenHeritage Course - Intangible Cultural Heritage”** 9.6.2024 - 16.12.2024 (100 hours) (Verified Certificate, 4 ECTS)
+*Granted body* University of the Aegean, Lifelong Learning Centre
+*Instructors* Dr Alexandra Bounia, Dr Konstantinos Kotis, Dr Despina Catapoti, Dr Christos Matsoukas
+
+**“Open Seminars in Folklore and Anthropology”** 5.10-2023 – 30.05.2024 (60 hours)	(Verified Certificate)  
+*Granted* by Dr	Vasilis Nitsiakos, Professor of Social Folklore, University of Ioannina  
+*Instructor*	Dr Vasilis Nitsiakos  
+
+**“Engaging Communities in Cultural Heritage”** 21 – 23.10.2022	(Verified Certificate)  
 *Granting body*	The Heritage Management Organization  
 *Instructors*	Dr Evangelos Kyriakidis, Dr Aris Anagnostopoulos, Dr Lena Stefanou  
 
-**“Creative Commons Certificate for GLAM”** 26.09 – 04.12.2022 (Certificate, Open Badge)  
+**“Creative Commons Certificate for GLAM”** 26.09 – 04.12.2022 (Verified Certificate, Open Badge)  
 *Granting body*	Creative Commons Organization  
 *Instructor*	Evelin Heidel  
 
@@ -106,7 +115,7 @@ Department of Fine Arts and Art Sciences, University of Ioannina, Greece
 *Granting body*	Institute of Digital Humanities-Ecole Polytechnique Fédérale de Lausanne (EPFL), International 	Council of Museums (ICOM) - International Committee for Documentation (CIDOC)  
 *Instructor* Dr Nick Crofts  
 
-**“Information Service Engineering”** 16.04 – 11.06.2018 (Qualified Certificate, Open Badge)  
+**“Information Service Engineering”** 16.04 – 11.06.2018 (Certificate, Open Badge)  
 *Granting body*	OpenHPI platform, Hasso Plattner Institute  
 *Instructors*	Dr Harald Sack, Dr Maria Koutraki  
 
