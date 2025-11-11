@@ -163,18 +163,19 @@ Ziku, M. (Transl.) (2020, Oct 14). Europeana Public Domain Usage Guidelines Gree
 
 ---
 <br>
-Ziku, M. (Invited presentation)
-Applied AI Models and Participatory Design in Risk-based Safeguarding of Intangible Cultural Heritage.
-Online course: Inclusive Community Building through Digital Heritage Preservation in Times of Crisis: Strategies for Cohesive Resilience in the Face of War, Migration, and Climate Change. 
-School of Art History, University of St. Andrews, 28.04.2025 [Virtual]
 
-Zourou, K., Oikonomou, S., Ziku, M., & Defteraiou, K. (Invited presentation)
+Ziku, M. (Invited presentation)  
+Applied AI Models and Participatory Design in Risk-based Safeguarding of Intangible Cultural Heritage.  
+Online course: Inclusive Community Building through Digital Heritage Preservation in Times of Crisis: Strategies for Cohesive Resilience in the Face of War, Migration, and Climate Change.  
+School of Art History, University of St. Andrews, 28.04.2025 [Virtual]  
+
+Zourou, K., Oikonomou, S., Ziku, M., & Defteraiou, K. (Invited presentation)  
 Title Ways to address water scarcity through new technologies and collaboration between businesses and universities.  
-Department of Food Science and Nutrition, University of the Aegean, Myrina, Lemnos, Greece, 20.03.2025 [Physical presence].
-
-Pantazis, I., Ziku, M., & Dermentzopoulos, C. (Invited organisation)
-Title Το πρόγραμμα Δημιουργική Ευρώπη στην εφαρμογή του, Biennale of Western Balkans (BoWB). (The Creative Europe program in its application, Biennale of Western Balkans (BoWB)). 
-Venue Ευκαιρίες ευρωπαϊκής χρηματοδότησης των πολιτιστικών και δημιουργικών φορέων της Περιφέρειας Ηπείρου (Opportunities for European Funding for Cultural and Creative Organisations of the Epirus Region), Ioannina, Greece, 29.03.2023 [Physical presence].
+Department of Food Science and Nutrition, University of the Aegean, Myrina, Lemnos, Greece, 20.03.2025 [Physical presence].  
+  
+Pantazis, I., Ziku, M., & Dermentzopoulos, C. (Invited organisation)  
+Title Το πρόγραμμα Δημιουργική Ευρώπη στην εφαρμογή του, Biennale of Western Balkans (BoWB). (The Creative Europe program in its application, Biennale of Western Balkans (BoWB)).  
+Venue Ευκαιρίες ευρωπαϊκής χρηματοδότησης των πολιτιστικών και δημιουργικών φορέων της Περιφέρειας Ηπείρου (Opportunities for European Funding for Cultural and Creative Organisations of the Epirus Region), Ioannina, Greece, 29.03.2023 [Physical presence].  
 
 Ziku M. (Invited Speaker)  
 Title	Crowdsourcing and Open Data in Intangible Cultural Heritage  
