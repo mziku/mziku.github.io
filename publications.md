@@ -10,9 +10,9 @@ navigation_weight: 3
 ---
 <br> 
 
-Ziku, M., Angelaki, G., Tzouganatou, A., Grammatikopoulou, A., Christodoulou, Y., & Caridakis, G. (2025, April 9). Semantic documentation of participatory research methods and data in intangible heritage [Conference presentation]. 4th International Conference TMM_CH: Transdisciplinary Multispectral Modelling and Cooperation for the Preservation of Cultural Heritage – Addressing World Challenges, Eugenides Foundation, Athens, Greece.
+Ziku, M., Angelaki, G., Tzouganatou, A., Grammatikopoulou, A., Christodoulou, Y., & Caridakis, G. (2025, April 9). Semantic documentation of participatory research methods and data in intangible heritage [Conference presentation]. 4th International Conference TMM_CH: Transdisciplinary Multispectral Modelling and Cooperation for the Preservation of Cultural Heritage – Addressing World Challenges, Eugenides Foundation, Athens, Greece.  
 
-Zourou, K., Ziku, M., & Oikonomou, S. (2025, October 14). xAI fairness in emergency heritage preservation: Interdisciplinary pathways for citizen participation and responsible AI [Conference presentation]. Third Conference of the AI Fairness Cluster, Brussels, Belgium.
+Zourou, K., Ziku, M., & Oikonomou, S. (2025, October 14). xAI fairness in emergency heritage preservation: Interdisciplinary pathways for citizen participation and responsible AI [Conference presentation]. Third Conference of the AI Fairness Cluster, Brussels, Belgium.  
 
 Zourou, K., Oikonomou, S., & Ziku, M. (2024, November 13). Academia-driven open innovation for cultural heritage: Lessons learned from eCHOIng. CIDOC 2024: Sustainable Connections: Building Knowledge Networks, Rijksmuseum, Amsterdam, The Netherlands.  
 
