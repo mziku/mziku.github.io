@@ -164,6 +164,9 @@ Ziku, M. (Transl.) (2020, Oct 14). Europeana Public Domain Usage Guidelines Gree
 ---
 <br>
 
+Ziku, M. [Invited speaker]  
+Educating for AI ethical cultural heritage protection [online roundtable]. (AI-enabled Citizen Participation in University-driven Ukrainian Cultural Heritage Safeguarding). 06.05.2025 [Virtual]  
+
 Ziku, M. (Invited presentation)  
 Applied AI Models and Participatory Design in Risk-based Safeguarding of Intangible Cultural Heritage.  
 Online course: Inclusive Community Building through Digital Heritage Preservation in Times of Crisis: Strategies for Cohesive Resilience in the Face of War, Migration, and Climate Change.  
