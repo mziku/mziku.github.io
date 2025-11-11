@@ -10,6 +10,10 @@ navigation_weight: 3
 ---
 <br> 
 
+Ziku, M., Angelaki, G., Tzouganatou, A., Grammatikopoulou, A., Christodoulou, Y., & Caridakis, G. (2025, April 9). Semantic documentation of participatory research methods and data in intangible heritage [Conference presentation]. 4th International Conference TMM_CH: Transdisciplinary Multispectral Modelling and Cooperation for the Preservation of Cultural Heritage – Addressing World Challenges, Eugenides Foundation, Athens, Greece.
+
+Zourou, K., Ziku, M., & Oikonomou, S. (2025, October 14). xAI fairness in emergency heritage preservation: Interdisciplinary pathways for citizen participation and responsible AI [Conference presentation]. Third Conference of the AI Fairness Cluster, Brussels, Belgium.
+
 Zourou, K., Oikonomou, S., & Ziku, M. (2024, November 13). Academia-driven open innovation for cultural heritage: Lessons learned from eCHOIng. CIDOC 2024: Sustainable Connections: Building Knowledge Networks, Rijksmuseum, Amsterdam, The Netherlands.  
 
 Ziku, M. (2024, May 24). Ψηφιακή τεκμηρίωση της λαϊκής τέχνης: Η συμβολή της προφορικής και τοπικής ιστορίας (Digital documentation of folk art: The contribution of oral and local history). Προφορική Ιστορία και μνήμη, εργασία, εργασιακές σχέσεις και ταυτότητες (Scientific conference on Oral History and Memory, Labor, Labor Relations, and Identities), Ioannina, Greece.  
@@ -157,7 +161,11 @@ Ziku, M. (Transl.) (2020, Oct 14). Europeana Public Domain Usage Guidelines Gree
 **Invited Presentations / Panels / Moderation**
 
 ---
-<br>
+<be>
+Ziku, M. (Invited presentation)
+Applied AI Models and Participatory Design in Risk-based Safeguarding of Intangible Cultural Heritage.
+Online course: Inclusive Community Building through Digital Heritage Preservation in Times of Crisis: Strategies for Cohesive Resilience in the Face of War, Migration, and Climate Change. 
+School of Art History, University of St. Andrews, 28.04.2025 [Virtual]
 
 Zourou, K., Oikonomou, S., Ziku, M., & Defteraiou, K. (Invited presentation)
 Title Ways to address water scarcity through new technologies and collaboration between businesses and universities.  
