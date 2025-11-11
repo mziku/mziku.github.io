@@ -140,9 +140,10 @@ Ziku, M. (2013, February 19). Τracing collective memory and improvisational mus
 
 ---
 <br>
-Zourou, K., Ziku, M., & Oikonomou, S. (2025, January 30). From science communication to activism: Multistakeholder engagement addressing water-related challenges. Acting4Water project - Erasmus+ European Union Programme.
 
-Zourou, K., Ziku, M., Oikonomou, S., Fragkiadaki, C, Terzis, I. (2024) [Report]. Collection of citizen-driven actions against water scarcity. Acting4Water consortium.
+Zourou, K., Ziku, M., & Oikonomou, S. (2025, January 30). From science communication to activism: Multistakeholder engagement addressing water-related challenges. Acting4Water project - Erasmus+ European Union Programme.  
+
+Zourou, K., Ziku, M., Oikonomou, S., Fragkiadaki, C, Terzis, I. (2024) [Report]. Collection of citizen-driven actions against water scarcity. Acting4Water consortium.  
 
 Ziku, M. (2023). Open innovation as response in cultural heritage crises and the role of academia-society cooperation [Learning unit]. In S. Oikonomou & K. Zourou Open innovation in academia-society cooperation: examples of cultural heritage preservation in a crisis situation [E-learning module]. eCHOing project - Erasmus+ European Union Programme.  
 
