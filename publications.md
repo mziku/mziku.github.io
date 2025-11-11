@@ -162,7 +162,7 @@ Ziku, M. (Transl.) (2020, Oct 14). Europeana Public Domain Usage Guidelines Gree
 **Invited Presentations / Panels / Moderation**
 
 ---
-<be>
+<br>
 Ziku, M. (Invited presentation)
 Applied AI Models and Participatory Design in Risk-based Safeguarding of Intangible Cultural Heritage.
 Online course: Inclusive Community Building through Digital Heritage Preservation in Times of Crisis: Strategies for Cohesive Resilience in the Face of War, Migration, and Climate Change. 
