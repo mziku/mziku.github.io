@@ -1,5 +1,5 @@
 <p style="float: left;"><img src="https://mziku.github.io/images/mziku_photo.jpg" style="float:left; margin-top:2mm; margin-right:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="170" height="auto"></p> 
-**Mariana Ziku** is a researcher in the field of humanities, specialising in digital humanities, digital cultural heritage, participatory methodologies, and open science, with a long-standing focus on Intangible Cultural Heritage. 
+**Mariana Ziku** is a Digital Humanities researcher specialising in Human–Computer Interaction, Linked Open Data, and participatory digital infrastructures, with a long-standing focus on Intangible Cultural Heritage.
 <br>
 <br>
 She is a PhD candidate at the Department of Cultural Technology and Communication, University of the Aegean, and a scholarship recipient under the “Support of Regional Excellence” programme. Her thesis focuses on the digital documentation of intangible cultural heritage as linked open data through participatory digital infrastructures.
