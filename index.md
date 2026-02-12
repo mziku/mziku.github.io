@@ -2,7 +2,7 @@
 **Mariana Ziku** is a researcher in the field of humanities, specialising in digital humanities, digital cultural heritage, participatory methodologies, and open science, with a long-standing focus on Intangible Cultural Heritage. 
 <br>
 <br>
-She is a PhD candidate at the Department of Cultural Technology and Communication, University of the Aegean, and a scholarship recipient under the “Support of Regional Excellence” programme. Her thesis focuses on the digital documentation of Intangible Cultural Heritage as Linked Open Data through participatory digital infrastructures.
+She is a PhD candidate at the Department of Cultural Technology and Communication, University of the Aegean, and a scholarship recipient under the “Support of Regional Excellence” programme. Her thesis focuses on the digital documentation of intangible cultural heritage as linked open data through participatory digital infrastructures.
 <br>
 <br>
 She holds an MSc (Hons) in Digital Humanities from the Department of Computer Science at KU Leuven, Belgium an MA (Hons) in Curation and History of Art, and a BA in Art Sciences from the University of Ioannina, Greece. She also holds a Certificate of Specialised Training in Cultural Management from the National and Kapodistrian University of Athens. She has received specialised training in the digital curation of intangible, archival, and audiovisual heritage in Egypt, Belgium, and Germany as a grant recipient of the European Commission’s Leonardo da Vinci programme.
