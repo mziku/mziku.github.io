@@ -1,4 +1,4 @@
-<p style="float: left;"><img src="https://mziku.github.io/images/Mariana-Ziku-profile-photo.jpg" style="float:left; margin-top:2mm; margin-right:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="150" height="auto"></p> 
+<p style="float: left;"><img src="https://mziku.github.io/images/mariana-ziku-photo.jpg" style="float:left; margin-top:2mm; margin-right:5mm; margin-left:5;" alt="mariana-ziku-profile-picture" width="170" height="auto"></p> 
 **Mariana Ziku** is a researcher in the field of humanities, specialising in digital humanities, digital cultural heritage, participatory methodologies, and open science, with a long-standing focus on Intangible Cultural Heritage. 
 <br>
 <br>
