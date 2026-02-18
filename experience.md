@@ -5,7 +5,13 @@ permalink: /experience/
 navigation_weight: 2
 ---
 
-+ **Research Associate**, 2025  
+
+
++ **Project Manager, Research Associate**, 2025-2026  
+[Tying the European Cultural Landscapes with Knots and Patterns]([https://web2learn.eu/portfolio/aister/](https://drive.google.com/file/d/14PnrWQ2lok7QAzo6tsP20VDvGT_ERk5F/view?usp=sharing)  
+Creative Europe Programme: European Cooperation Projects (No. 101173725)
+
++ **Research Associate**, 2025-2026  
 [AISTER: AI-enabled Citizen Participation in University-driven Ukrainian Cultural Heritage Safeguarding](https://web2learn.eu/portfolio/aister/)  
 Erasmus+ European Union Programme (Nr. 2024-2-LU01-KA220-HED-000290738)
 
