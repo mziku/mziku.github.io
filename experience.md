@@ -8,7 +8,7 @@ navigation_weight: 2
 
 
 + **Project Manager, Research Associate**, 2025-2026  
-[Tying the European Cultural Landscapes with Knots and Patterns]([https://web2learn.eu/portfolio/aister/](https://drive.google.com/file/d/14PnrWQ2lok7QAzo6tsP20VDvGT_ERk5F/view?usp=sharing)  
+[Tying the European Cultural Landscapes with Knots and Patterns](https://drive.google.com/file/d/14PnrWQ2lok7QAzo6tsP20VDvGT_ERk5F/view?usp=sharing)  
 Creative Europe Programme: European Cooperation Projects (No. 101173725)
 
 + **Research Associate**, 2025-2026  
