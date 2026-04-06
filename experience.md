@@ -32,7 +32,7 @@ Erasmus+ European Union Programme (No. 2020-1-CY02-KA227-YOU-002022)
 Erasmus+ European Union Programme (No. 2021-1-NO01-KA220-HED-000031986)  
 
 + **Research Associate**, 2022  
-[HEIDI: Digital Actions at HEIs as a catalyst for social change in the COVID-19 crisis](https://heidiproject.eu)  
+[HEIDI: Digital Actions at HEIs as a catalyst for social change in the COVID-19 crisis](https://heidiproject.cip-projects.eu/))  
 Erasmus+ European Union Programme (No. 2020-1-UK01-KA226-HE-094667)  
 
 + **Research Associate**, 2021-2022  
