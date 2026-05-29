@@ -9,11 +9,11 @@ navigation_weight: 3
 
 ---
 <br> 
-Ζήκου, Μ., Γραμματικοπούλου, Α., Αγγελάκη, Γ., & Καρυδάκης, Γ. (2026, March 20). Πληθοπορισμός στον πολιτισμό και διαχείριση ευαίσθητων ερευνητικών δεδομένων [conference presentation]. Συμπερίληψη στο Μουσείο και στην Τέχνη, Πανεπιστήμιο Μακεδονίας, Θεσσαλονίκη.  
+Ζήκου, Μ., Γραμματικοπούλου, Α., Αγγελάκη, Γ., & Καρυδάκης, Γ. (2026, March 20). Πληθοπορισμός στον πολιτισμό και διαχείριση ευαίσθητων ερευνητικών δεδομένων [conference presentation]. Συμπερίληψη στο Μουσείο και στην Τέχνη, Πανεπιστήμιο Μακεδονίας, Θεσσαλονίκη.   
 
-Ζήκου, Μ., Σαμαντάς, Γ., & Δερμεντζόπουλος, Χ. (2026, March 14). Κοινοτική ιστορία του Μεκείου Οικοτροφείου - Υφαντικής Σχολής: Αρχειακή έρευνα και ψηφιακή τεκμηρίωση μιας ζώσας κληρονομιάς με συμμετοχικές μεθόδους [Conference presentation]. Δεύτερο Πανελλήνιο Συνέδριο Ιστορία και Αρχεία τις πρώτες δεκαετίες του 20ού αιώνα (1900–1940): Οικονομική, κοινωνική, πολιτική, πολιτιστική διάσταση, Τμήμα Ιστορίας και Ψηφιακών Ανθρωπιστικών Σπουδών, Ιόνιο Πανεπιστήμιο, Κέρκυρα.  
+Ζήκου, Μ., Σαμαντάς, Γ., & Δερμεντζόπουλος, Χ. (2026, March 14). Κοινοτική ιστορία του Μεκείου Οικοτροφείου - Υφαντικής Σχολής: Αρχειακή έρευνα και ψηφιακή τεκμηρίωση μιας ζώσας κληρονομιάς με συμμετοχικές μεθόδους [Conference presentation]. Δεύτερο Πανελλήνιο Συνέδριο Ιστορία και Αρχεία τις πρώτες δεκαετίες του 20ού αιώνα (1900–1940): Οικονομική, κοινωνική, πολιτική, πολιτιστική διάσταση, Τμήμα Ιστορίας και Ψηφιακών Ανθρωπιστικών Σπουδών, Ιόνιο Πανεπιστήμιο, Κέρκυρα.   
 
-Ziku, M., Konstantakis, M., Angelaki, G., Tzouganatou, A., Grammatikopoulou, A., & Caridakis, G. (2026, January 24). Living heritage in technical education: Exploring linked open data and participatory technologies as pathways to inclusive learning [Conference presentation]. ETLTC-ICETM 2026: 8th International Conference on ICT Integration in Technical Education, Aizuwakamatsu, Japan.  
+Ziku, M., Konstantakis, M., Angelaki, G., Tzouganatou, A., Grammatikopoulou, A., & Caridakis, G. (2026, January 24). Living heritage in technical education: Exploring linked open data and participatory technologies as pathways to inclusive learning [Conference presentation]. ETLTC-ICETM 2026: 8th International Conference on ICT Integration in Technical Education, Aizuwakamatsu, Japan.   
 
 Ziku, M., Angelaki, G., Tzouganatou, A., Grammatikopoulou, A., Christodoulou, Y., & Caridakis, G. (2025, April 9). Semantic documentation of participatory research methods and data in intangible heritage [Conference presentation]. 4th International Conference TMM_CH: Transdisciplinary Multispectral Modelling and Cooperation for the Preservation of Cultural Heritage – Addressing World Challenges, Eugenides Foundation, Athens, Greece.  
 
@@ -23,7 +23,7 @@ Zourou, K., Oikonomou, S., & Ziku, M. (2024, November 13). Academia-driven open 
 
 Ziku, M. (2024, May 24). Ψηφιακή τεκμηρίωση της λαϊκής τέχνης: Η συμβολή της προφορικής και τοπικής ιστορίας (Digital documentation of folk art: The contribution of oral and local history). Προφορική Ιστορία και μνήμη, εργασία, εργασιακές σχέσεις και ταυτότητες (Scientific conference on Oral History and Memory, Labor, Labor Relations, and Identities), Ioannina, Greece.  
 
-Caridakis, G., Michalakis, K., Ziku, M., Konstadakis, M., Reyes, E., & Szoniecky, S. (2023, October 11). Citizen-enhanced open science and data viability: Evaluator indicators for responsible research in the digital humanities. Paper presented at the ERUA Summit 2023: Why Universities? Reimagining Higher Education and Research (Stream 3: Responsible Research and the Hard Sides of Collaboration for Societal Engagement), Roskilde University, Denmark.
+Caridakis, G., Michalakis, K., Ziku, M., Konstadakis, M., Reyes, E., & Szoniecky, S. (2023, October 11). Citizen-enhanced open science and data viability: Evaluator indicators for responsible research in the digital humanities. Paper presented at the ERUA Summit 2023: Why Universities? Reimagining Higher Education and Research (Stream 3: Responsible Research and the Hard Sides of Collaboration for Societal Engagement), Roskilde University, Denmark.  
 
 Ziku, M., Fabos, B., & Osuchukwu, N. (2023, September 24-28). Crowdsourcing and Open-Access in Digital Community Heritage: An international survey and data analysis. CIDOC2023: Frontiers of Knowledge: Museums, Documentation, and Linked Data. (Organised by: National Autonomous University of Mexico -UNAM, National Library of Mexico, ICOM International Committee for Documentation -CIDOC), Mexico City, Mexico.  
  
