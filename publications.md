@@ -11,12 +11,15 @@ navigation_weight: 3
 <br> 
 Ζήκου, Μ., Γραμματικοπούλου, Α., Αγγελάκη, Γ., & Καρυδάκης, Γ. (2026, March 20). Πληθοπορισμός στον πολιτισμό και διαχείριση ευαίσθητων ερευνητικών δεδομένων [conference presentation]. Συμπερίληψη στο Μουσείο και στην Τέχνη, Πανεπιστήμιο Μακεδονίας, Θεσσαλονίκη.   
 
+ 
 Ζήκου, Μ., Σαμαντάς, Γ., & Δερμεντζόπουλος, Χ. (2026, March 14). Κοινοτική ιστορία του Μεκείου Οικοτροφείου - Υφαντικής Σχολής: Αρχειακή έρευνα και ψηφιακή τεκμηρίωση μιας ζώσας κληρονομιάς με συμμετοχικές μεθόδους [Conference presentation]. Δεύτερο Πανελλήνιο Συνέδριο Ιστορία και Αρχεία τις πρώτες δεκαετίες του 20ού αιώνα (1900–1940): Οικονομική, κοινωνική, πολιτική, πολιτιστική διάσταση, Τμήμα Ιστορίας και Ψηφιακών Ανθρωπιστικών Σπουδών, Ιόνιο Πανεπιστήμιο, Κέρκυρα.   
 
+ 
 Ziku, M., Konstantakis, M., Angelaki, G., Tzouganatou, A., Grammatikopoulou, A., & Caridakis, G. (2026, January 24). Living heritage in technical education: Exploring linked open data and participatory technologies as pathways to inclusive learning [Conference presentation]. ETLTC-ICETM 2026: 8th International Conference on ICT Integration in Technical Education, Aizuwakamatsu, Japan.   
 
+ 
 Ziku, M., Angelaki, G., Tzouganatou, A., Grammatikopoulou, A., Christodoulou, Y., & Caridakis, G. (2025, April 9). Semantic documentation of participatory research methods and data in intangible heritage [Conference presentation]. 4th International Conference TMM_CH: Transdisciplinary Multispectral Modelling and Cooperation for the Preservation of Cultural Heritage – Addressing World Challenges, Eugenides Foundation, Athens, Greece.  
-
+ 
 Zourou, K., Ziku, M., & Oikonomou, S. (2025, October 14). xAI fairness in emergency heritage preservation: Interdisciplinary pathways for citizen participation and responsible AI [Conference presentation]. Third Conference of the AI Fairness Cluster, Brussels, Belgium.  
 
 Zourou, K., Oikonomou, S., & Ziku, M. (2024, November 13). Academia-driven open innovation for cultural heritage: Lessons learned from eCHOIng. CIDOC 2024: Sustainable Connections: Building Knowledge Networks, Rijksmuseum, Amsterdam, The Netherlands.  
